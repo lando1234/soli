@@ -1,0 +1,339 @@
+[INFO] 04:47:44:931 Consola S-AFA/(7296:7296): ---- Configuracion ----
+[INFO] 04:47:44:932 Consola S-AFA/(7296:7296): Puerto = 8000
+[INFO] 04:47:44:932 Consola S-AFA/(7296:7296): Algoritmo de Planificacion = VRR
+[INFO] 04:47:44:932 Consola S-AFA/(7296:7296): Quantum = 4
+[INFO] 04:47:44:932 Consola S-AFA/(7296:7296): Nivel de Multiprogramacion = 5
+[INFO] 04:47:44:932 Consola S-AFA/(7296:7296): Retardo de Planificacion = 500
+[INFO] 04:47:44:932 Consola S-AFA/(7296:7296): -----------------------
+[INFO] 04:48:36:485 Consola S-AFA/(7296:7299): Nueva conexion desde el DMA
+[INFO] 04:48:50:925 Consola S-AFA/(7296:7299): Nueva conexion de CPU
+
+[INFO] 04:49:03:302 Consola S-AFA/(7296:7296): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 04:49:27:240 Consola S-AFA/(7296:7296): Linea leida: ejecutar scripts/complejo.escriptorio
+[INFO] 04:49:45:550 Consola S-AFA/(7296:7296): Linea leida: ejecutar /scripts/complejo.escriptorio
+[INFO] 04:50:27:56 Consola S-AFA/(7357:7357): ---- Configuracion ----
+[INFO] 04:50:27:57 Consola S-AFA/(7357:7357): Puerto = 8000
+[INFO] 04:50:27:57 Consola S-AFA/(7357:7357): Algoritmo de Planificacion = VRR
+[INFO] 04:50:27:57 Consola S-AFA/(7357:7357): Quantum = 4
+[INFO] 04:50:27:57 Consola S-AFA/(7357:7357): Nivel de Multiprogramacion = 5
+[INFO] 04:50:27:57 Consola S-AFA/(7357:7357): Retardo de Planificacion = 500
+[INFO] 04:50:27:57 Consola S-AFA/(7357:7357): -----------------------
+[INFO] 04:50:30:895 Consola S-AFA/(7357:7360): Nueva conexion desde el DMA
+[INFO] 04:50:32:564 Consola S-AFA/(7357:7360): Nueva conexion de CPU
+
+[INFO] 04:50:41:909 Consola S-AFA/(7357:7357): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 04:50:48:730 Consola S-AFA/(7357:7360): CPU desconectada
+[INFO] 04:52:28:103 Consola S-AFA/(7357:7360): DMA desconectado
+[INFO] 04:52:42:678 Consola S-AFA/(7417:7417): ---- Configuracion ----
+[INFO] 04:52:42:679 Consola S-AFA/(7417:7417): Puerto = 8000
+[INFO] 04:52:42:679 Consola S-AFA/(7417:7417): Algoritmo de Planificacion = VRR
+[INFO] 04:52:42:680 Consola S-AFA/(7417:7417): Quantum = 4
+[INFO] 04:52:42:689 Consola S-AFA/(7417:7417): Nivel de Multiprogramacion = 5
+[INFO] 04:52:42:689 Consola S-AFA/(7417:7417): Retardo de Planificacion = 500
+[INFO] 04:52:42:689 Consola S-AFA/(7417:7417): -----------------------
+[INFO] 04:52:47:974 Consola S-AFA/(7417:7420): Nueva conexion de CPU
+
+[INFO] 04:52:47:977 Consola S-AFA/(7417:7420): CPU desconectada
+[INFO] 04:52:50:279 Consola S-AFA/(7417:7420): Nueva conexion desde el DMA
+[INFO] 04:52:51:909 Consola S-AFA/(7417:7420): Nueva conexion de CPU
+
+[INFO] 04:53:08:710 Consola S-AFA/(7417:7417): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 04:53:30:713 Consola S-AFA/(7440:7440): ---- Configuracion ----
+[INFO] 04:53:30:713 Consola S-AFA/(7440:7440): Puerto = 8000
+[INFO] 04:53:30:713 Consola S-AFA/(7440:7440): Algoritmo de Planificacion = VRR
+[INFO] 04:53:30:713 Consola S-AFA/(7440:7440): Quantum = 4
+[INFO] 04:53:30:713 Consola S-AFA/(7440:7440): Nivel de Multiprogramacion = 5
+[INFO] 04:53:30:713 Consola S-AFA/(7440:7440): Retardo de Planificacion = 500
+[INFO] 04:53:30:713 Consola S-AFA/(7440:7440): -----------------------
+[INFO] 04:53:40:799 Consola S-AFA/(7440:7443): Nueva conexion desde el DMA
+[INFO] 04:53:43:660 Consola S-AFA/(7440:7443): Nueva conexion de CPU
+
+[INFO] 04:53:54:123 Consola S-AFA/(7440:7440): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 04:53:59:3 Consola S-AFA/(7440:7443): CPU desconectada
+[INFO] 04:55:30:996 Consola S-AFA/(7510:7510): ---- Configuracion ----
+[INFO] 04:55:30:5 Consola S-AFA/(7510:7510): Puerto = 8000
+[INFO] 04:55:30:5 Consola S-AFA/(7510:7510): Algoritmo de Planificacion = VRR
+[INFO] 04:55:30:5 Consola S-AFA/(7510:7510): Quantum = 4
+[INFO] 04:55:30:5 Consola S-AFA/(7510:7510): Nivel de Multiprogramacion = 5
+[INFO] 04:55:30:5 Consola S-AFA/(7510:7510): Retardo de Planificacion = 500
+[INFO] 04:55:30:5 Consola S-AFA/(7510:7510): -----------------------
+[INFO] 04:55:38:550 Consola S-AFA/(7510:7513): Nueva conexion desde el DMA
+[INFO] 04:55:40:296 Consola S-AFA/(7510:7513): Nueva conexion de CPU
+
+[INFO] 04:55:50:819 Consola S-AFA/(7510:7510): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 04:55:55:694 Consola S-AFA/(7510:7513): CPU desconectada
+[INFO] 04:58:45:52 Consola S-AFA/(7620:7620): ---- Configuracion ----
+[INFO] 04:58:45:66 Consola S-AFA/(7620:7620): Puerto = 8000
+[INFO] 04:58:45:66 Consola S-AFA/(7620:7620): Algoritmo de Planificacion = VRR
+[INFO] 04:58:45:66 Consola S-AFA/(7620:7620): Quantum = 4
+[INFO] 04:58:45:66 Consola S-AFA/(7620:7620): Nivel de Multiprogramacion = 5
+[INFO] 04:58:45:66 Consola S-AFA/(7620:7620): Retardo de Planificacion = 500
+[INFO] 04:58:45:66 Consola S-AFA/(7620:7620): -----------------------
+[INFO] 04:58:51:683 Consola S-AFA/(7620:7623): Nueva conexion desde el DMA
+[INFO] 04:58:54:479 Consola S-AFA/(7620:7623): Nueva conexion de CPU
+
+[INFO] 04:59:03:641 Consola S-AFA/(7620:7620): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 04:59:08:566 Consola S-AFA/(7620:7623): CPU desconectada
+[INFO] 05:05:50:605 Consola S-AFA/(7729:7729): ---- Configuracion ----
+[INFO] 05:05:50:635 Consola S-AFA/(7729:7729): Puerto = 8000
+[INFO] 05:05:50:635 Consola S-AFA/(7729:7729): Algoritmo de Planificacion = VRR
+[INFO] 05:05:50:635 Consola S-AFA/(7729:7729): Quantum = 4
+[INFO] 05:05:50:635 Consola S-AFA/(7729:7729): Nivel de Multiprogramacion = 5
+[INFO] 05:05:50:635 Consola S-AFA/(7729:7729): Retardo de Planificacion = 500
+[INFO] 05:05:50:635 Consola S-AFA/(7729:7729): -----------------------
+[INFO] 05:05:59:835 Consola S-AFA/(7729:7732): Nueva conexion desde el DMA
+[INFO] 05:06:02:431 Consola S-AFA/(7729:7732): Nueva conexion de CPU
+
+[INFO] 05:06:11:155 Consola S-AFA/(7729:7729): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 05:07:02:931 Consola S-AFA/(7769:7769): ---- Configuracion ----
+[INFO] 05:07:02:931 Consola S-AFA/(7769:7769): Puerto = 8000
+[INFO] 05:07:02:931 Consola S-AFA/(7769:7769): Algoritmo de Planificacion = VRR
+[INFO] 05:07:02:931 Consola S-AFA/(7769:7769): Quantum = 4
+[INFO] 05:07:02:931 Consola S-AFA/(7769:7769): Nivel de Multiprogramacion = 5
+[INFO] 05:07:02:931 Consola S-AFA/(7769:7769): Retardo de Planificacion = 500
+[INFO] 05:07:02:931 Consola S-AFA/(7769:7769): -----------------------
+[INFO] 05:07:18:967 Consola S-AFA/(7769:7772): Nueva conexion desde el DMA
+[INFO] 05:07:20:675 Consola S-AFA/(7769:7772): Nueva conexion de CPU
+
+[INFO] 05:07:34:854 Consola S-AFA/(7769:7769): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 05:07:39:627 Consola S-AFA/(7769:7772): CPU desconectada
+[INFO] 05:13:12:766 Consola S-AFA/(7769:7772): DMA desconectado
+[INFO] 05:13:16:807 Consola S-AFA/(7952:7952): ---- Configuracion ----
+[INFO] 05:13:16:807 Consola S-AFA/(7952:7952): Puerto = 8000
+[INFO] 05:13:16:807 Consola S-AFA/(7952:7952): Algoritmo de Planificacion = VRR
+[INFO] 05:13:16:807 Consola S-AFA/(7952:7952): Quantum = 4
+[INFO] 05:13:16:807 Consola S-AFA/(7952:7952): Nivel de Multiprogramacion = 5
+[INFO] 05:13:16:807 Consola S-AFA/(7952:7952): Retardo de Planificacion = 500
+[INFO] 05:13:16:807 Consola S-AFA/(7952:7952): -----------------------
+[INFO] 05:13:23:622 Consola S-AFA/(7952:7955): Nueva conexion desde el DMA
+[INFO] 05:13:25:240 Consola S-AFA/(7952:7955): Nueva conexion de CPU
+
+[INFO] 05:13:33:451 Consola S-AFA/(7952:7952): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 05:13:38:421 Consola S-AFA/(7952:7955): CPU desconectada
+[INFO] 05:20:16:660 Consola S-AFA/(7952:7955): DMA desconectado
+[INFO] 05:20:23:435 Consola S-AFA/(8113:8113): ---- Configuracion ----
+[INFO] 05:20:23:435 Consola S-AFA/(8113:8113): Puerto = 8000
+[INFO] 05:20:23:435 Consola S-AFA/(8113:8113): Algoritmo de Planificacion = VRR
+[INFO] 05:20:23:435 Consola S-AFA/(8113:8113): Quantum = 4
+[INFO] 05:20:23:435 Consola S-AFA/(8113:8113): Nivel de Multiprogramacion = 5
+[INFO] 05:20:23:435 Consola S-AFA/(8113:8113): Retardo de Planificacion = 500
+[INFO] 05:20:23:435 Consola S-AFA/(8113:8113): -----------------------
+[INFO] 05:20:45:269 Consola S-AFA/(8113:8116): Nueva conexion desde el DMA
+[INFO] 05:20:47:217 Consola S-AFA/(8113:8116): Nueva conexion de CPU
+
+[INFO] 05:20:59:618 Consola S-AFA/(8113:8113): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 05:21:04:456 Consola S-AFA/(8113:8116): CPU desconectada
+[INFO] 05:22:29:380 Consola S-AFA/(8180:8180): ---- Configuracion ----
+[INFO] 05:22:29:397 Consola S-AFA/(8180:8180): Puerto = 8000
+[INFO] 05:22:29:397 Consola S-AFA/(8180:8180): Algoritmo de Planificacion = VRR
+[INFO] 05:22:29:397 Consola S-AFA/(8180:8180): Quantum = 4
+[INFO] 05:22:29:397 Consola S-AFA/(8180:8180): Nivel de Multiprogramacion = 5
+[INFO] 05:22:29:397 Consola S-AFA/(8180:8180): Retardo de Planificacion = 500
+[INFO] 05:22:29:397 Consola S-AFA/(8180:8180): -----------------------
+[INFO] 05:25:16:168 Consola S-AFA/(8292:8292): ---- Configuracion ----
+[INFO] 05:25:16:177 Consola S-AFA/(8292:8292): Puerto = 8000
+[INFO] 05:25:16:177 Consola S-AFA/(8292:8292): Algoritmo de Planificacion = VRR
+[INFO] 05:25:16:177 Consola S-AFA/(8292:8292): Quantum = 4
+[INFO] 05:25:16:177 Consola S-AFA/(8292:8292): Nivel de Multiprogramacion = 5
+[INFO] 05:25:16:177 Consola S-AFA/(8292:8292): Retardo de Planificacion = 500
+[INFO] 05:25:16:177 Consola S-AFA/(8292:8292): -----------------------
+[INFO] 05:25:23:589 Consola S-AFA/(8292:8295): Nueva conexion desde el DMA
+[INFO] 05:25:25:491 Consola S-AFA/(8292:8295): Nueva conexion de CPU
+
+[INFO] 05:25:36:136 Consola S-AFA/(8292:8292): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 05:25:40:939 Consola S-AFA/(8292:8295): CPU desconectada
+[INFO] 05:32:41:148 Consola S-AFA/(8477:8477): ---- Configuracion ----
+[INFO] 05:32:41:164 Consola S-AFA/(8477:8477): Puerto = 8000
+[INFO] 05:32:41:164 Consola S-AFA/(8477:8477): Algoritmo de Planificacion = VRR
+[INFO] 05:32:41:164 Consola S-AFA/(8477:8477): Quantum = 4
+[INFO] 05:32:41:164 Consola S-AFA/(8477:8477): Nivel de Multiprogramacion = 5
+[INFO] 05:32:41:165 Consola S-AFA/(8477:8477): Retardo de Planificacion = 500
+[INFO] 05:32:41:165 Consola S-AFA/(8477:8477): -----------------------
+[INFO] 05:33:15:230 Consola S-AFA/(8477:8480): Nueva conexion desde el DMA
+[INFO] 05:33:16:963 Consola S-AFA/(8477:8480): Nueva conexion de CPU
+
+[INFO] 05:33:28:114 Consola S-AFA/(8477:8477): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 05:33:33:195 Consola S-AFA/(8477:8480): CPU desconectada
+[INFO] 05:37:49:304 Consola S-AFA/(8477:8480): DMA desconectado
+[INFO] 05:37:54:16 Consola S-AFA/(8659:8659): ---- Configuracion ----
+[INFO] 05:37:54:16 Consola S-AFA/(8659:8659): Puerto = 8000
+[INFO] 05:37:54:16 Consola S-AFA/(8659:8659): Algoritmo de Planificacion = VRR
+[INFO] 05:37:54:16 Consola S-AFA/(8659:8659): Quantum = 4
+[INFO] 05:37:54:16 Consola S-AFA/(8659:8659): Nivel de Multiprogramacion = 5
+[INFO] 05:37:54:16 Consola S-AFA/(8659:8659): Retardo de Planificacion = 500
+[INFO] 05:37:54:16 Consola S-AFA/(8659:8659): -----------------------
+[INFO] 05:38:21:180 Consola S-AFA/(8659:8662): Nueva conexion desde el DMA
+[INFO] 05:38:23:592 Consola S-AFA/(8659:8662): Nueva conexion de CPU
+
+[INFO] 05:38:33:413 Consola S-AFA/(8659:8659): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 05:38:38:364 Consola S-AFA/(8659:8662): CPU desconectada
+[INFO] 05:40:59:696 Consola S-AFA/(8747:8747): ---- Configuracion ----
+[INFO] 05:40:59:705 Consola S-AFA/(8747:8747): Puerto = 8000
+[INFO] 05:40:59:705 Consola S-AFA/(8747:8747): Algoritmo de Planificacion = VRR
+[INFO] 05:40:59:705 Consola S-AFA/(8747:8747): Quantum = 4
+[INFO] 05:40:59:705 Consola S-AFA/(8747:8747): Nivel de Multiprogramacion = 5
+[INFO] 05:40:59:705 Consola S-AFA/(8747:8747): Retardo de Planificacion = 500
+[INFO] 05:40:59:705 Consola S-AFA/(8747:8747): -----------------------
+[INFO] 05:42:30:968 Consola S-AFA/(8747:8750): Nueva conexion desde el DMA
+[INFO] 05:42:32:526 Consola S-AFA/(8747:8750): Nueva conexion de CPU
+
+[INFO] 05:42:41:172 Consola S-AFA/(8747:8747): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 05:42:46:123 Consola S-AFA/(8747:8750): CPU desconectada
+[INFO] 05:55:28:844 Consola S-AFA/(3737:3737): ---- Configuracion ----
+[INFO] 05:55:28:850 Consola S-AFA/(3737:3737): Puerto = 8000
+[INFO] 05:55:28:850 Consola S-AFA/(3737:3737): Algoritmo de Planificacion = VRR
+[INFO] 05:55:28:851 Consola S-AFA/(3737:3737): Quantum = 4
+[INFO] 05:55:28:851 Consola S-AFA/(3737:3737): Nivel de Multiprogramacion = 5
+[INFO] 05:55:28:851 Consola S-AFA/(3737:3737): Retardo de Planificacion = 500
+[INFO] 05:55:28:851 Consola S-AFA/(3737:3737): -----------------------
+[INFO] 05:56:22:945 Consola S-AFA/(3737:3740): Nueva conexion desde el DMA
+[INFO] 05:56:35:250 Consola S-AFA/(3737:3740): Nueva conexion de CPU
+
+[INFO] 05:56:46:962 Consola S-AFA/(3737:3737): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 05:56:52:135 Consola S-AFA/(3737:3740): CPU desconectada
+[INFO] 05:59:44:52 Consola S-AFA/(3867:3867): ---- Configuracion ----
+[INFO] 05:59:44:52 Consola S-AFA/(3867:3867): Puerto = 8000
+[INFO] 05:59:44:52 Consola S-AFA/(3867:3867): Algoritmo de Planificacion = VRR
+[INFO] 05:59:44:52 Consola S-AFA/(3867:3867): Quantum = 4
+[INFO] 05:59:44:52 Consola S-AFA/(3867:3867): Nivel de Multiprogramacion = 5
+[INFO] 05:59:44:53 Consola S-AFA/(3867:3867): Retardo de Planificacion = 500
+[INFO] 05:59:44:53 Consola S-AFA/(3867:3867): -----------------------
+[INFO] 05:59:48:183 Consola S-AFA/(3867:3870): Nueva conexion desde el DMA
+[INFO] 05:59:48:185 Consola S-AFA/(3867:3870): DMA desconectado
+[INFO] 05:59:49:607 Consola S-AFA/(3867:3870): Nueva conexion de CPU
+
+[INFO] 05:59:49:610 Consola S-AFA/(3867:3870): DMA desconectado
+[INFO] 05:59:59:253 Consola S-AFA/(3867:3867): Linea leida: ejecutar /scripts/complejo.escriptorio
+[ERROR] 05:59:59:254 Consola S-AFA/(3867:3872): SchedulerFunctions (executeProcess) - Error al pedir a la CPU que inicialice un proceso
+[INFO] 06:00:19:23 Consola S-AFA/(3867:3870): Nueva conexion desde el DMA
+[INFO] 06:00:21:288 Consola S-AFA/(3867:3870): Nueva conexion de CPU
+
+[INFO] 06:00:42:391 Consola S-AFA/(3867:3867): Linea leida: ejecutar /scripts/complejo.escriptorioejecutar /scripts/complejo.escriptoejecutar /scripts/complejo.escriptorio
+[INFO] 06:00:59:251 Consola S-AFA/(3867:3867): Linea leida: ejecutar /scripts/complejo.escriptorio
+[INFO] 06:02:00:163 Consola S-AFA/(3867:3867): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 06:02:13:99 Consola S-AFA/(3867:3870): DMA desconectado
+[INFO] 06:02:14:854 Consola S-AFA/(3867:3870): CPU desconectada
+[INFO] 06:02:19:467 Consola S-AFA/(3941:3941): ---- Configuracion ----
+[INFO] 06:02:19:467 Consola S-AFA/(3941:3941): Puerto = 8000
+[INFO] 06:02:19:468 Consola S-AFA/(3941:3941): Algoritmo de Planificacion = VRR
+[INFO] 06:02:19:468 Consola S-AFA/(3941:3941): Quantum = 4
+[INFO] 06:02:19:468 Consola S-AFA/(3941:3941): Nivel de Multiprogramacion = 5
+[INFO] 06:02:19:468 Consola S-AFA/(3941:3941): Retardo de Planificacion = 500
+[INFO] 06:02:19:468 Consola S-AFA/(3941:3941): -----------------------
+[INFO] 06:02:26:37 Consola S-AFA/(3941:3944): Nueva conexion desde el DMA
+[INFO] 06:02:27:801 Consola S-AFA/(3941:3944): Nueva conexion de CPU
+
+[INFO] 06:02:39:586 Consola S-AFA/(3941:3941): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 06:02:45:253 Consola S-AFA/(3941:3944): CPU desconectada
+[INFO] 06:06:03:487 Consola S-AFA/(4080:4080): ---- Configuracion ----
+[INFO] 06:06:03:495 Consola S-AFA/(4080:4080): Puerto = 8000
+[INFO] 06:06:03:495 Consola S-AFA/(4080:4080): Algoritmo de Planificacion = VRR
+[INFO] 06:06:03:495 Consola S-AFA/(4080:4080): Quantum = 4
+[INFO] 06:06:03:496 Consola S-AFA/(4080:4080): Nivel de Multiprogramacion = 5
+[INFO] 06:06:03:496 Consola S-AFA/(4080:4080): Retardo de Planificacion = 500
+[INFO] 06:06:03:496 Consola S-AFA/(4080:4080): -----------------------
+[INFO] 06:06:10:316 Consola S-AFA/(4080:4083): Nueva conexion de CPU
+
+[INFO] 06:06:10:321 Consola S-AFA/(4080:4083): CPU desconectada
+[INFO] 06:06:12:68 Consola S-AFA/(4080:4083): Nueva conexion desde el DMA
+[INFO] 06:06:13:445 Consola S-AFA/(4080:4083): Nueva conexion de CPU
+
+[INFO] 06:06:27:329 Consola S-AFA/(4080:4080): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 06:06:44:191 Consola S-AFA/(4117:4117): ---- Configuracion ----
+[INFO] 06:06:44:192 Consola S-AFA/(4117:4117): Puerto = 8000
+[INFO] 06:06:44:192 Consola S-AFA/(4117:4117): Algoritmo de Planificacion = VRR
+[INFO] 06:06:44:192 Consola S-AFA/(4117:4117): Quantum = 4
+[INFO] 06:06:44:192 Consola S-AFA/(4117:4117): Nivel de Multiprogramacion = 5
+[INFO] 06:06:44:192 Consola S-AFA/(4117:4117): Retardo de Planificacion = 500
+[INFO] 06:06:44:192 Consola S-AFA/(4117:4117): -----------------------
+[INFO] 06:06:50:748 Consola S-AFA/(4117:4120): Nueva conexion desde el DMA
+[INFO] 06:06:52:139 Consola S-AFA/(4117:4120): Nueva conexion de CPU
+
+[INFO] 06:07:00:838 Consola S-AFA/(4117:4117): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 06:08:11:58 Consola S-AFA/(4117:4117): Linea leida: ejecutar /scripts/complejo.escriptorio
+[INFO] 06:14:10:5 Consola S-AFA/(4393:4393): ---- Configuracion ----
+[INFO] 06:14:11:17 Consola S-AFA/(4393:4393): Puerto = 8000
+[INFO] 06:14:11:17 Consola S-AFA/(4393:4393): Algoritmo de Planificacion = VRR
+[INFO] 06:14:11:17 Consola S-AFA/(4393:4393): Quantum = 4
+[INFO] 06:14:11:17 Consola S-AFA/(4393:4393): Nivel de Multiprogramacion = 5
+[INFO] 06:14:11:17 Consola S-AFA/(4393:4393): Retardo de Planificacion = 500
+[INFO] 06:14:11:17 Consola S-AFA/(4393:4393): -----------------------
+[INFO] 06:14:31:533 Consola S-AFA/(4393:4396): Nueva conexion desde el DMA
+[INFO] 06:14:33:683 Consola S-AFA/(4393:4396): Nueva conexion de CPU
+
+[INFO] 06:14:44:582 Consola S-AFA/(4393:4393): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 06:15:03:922 Consola S-AFA/(4393:4393): Linea leida: ejecutar /scripts/complejo.escriptorio
+[INFO] 06:16:10:246 Consola S-AFA/(4393:4396): DMA desconectado
+[INFO] 06:16:12:657 Consola S-AFA/(4393:4396): CPU desconectada
+[INFO] 06:16:39:501 Consola S-AFA/(4555:4555): ---- Configuracion ----
+[INFO] 06:16:39:501 Consola S-AFA/(4555:4555): Puerto = 8000
+[INFO] 06:16:39:501 Consola S-AFA/(4555:4555): Algoritmo de Planificacion = VRR
+[INFO] 06:16:39:501 Consola S-AFA/(4555:4555): Quantum = 4
+[INFO] 06:16:39:501 Consola S-AFA/(4555:4555): Nivel de Multiprogramacion = 5
+[INFO] 06:16:39:501 Consola S-AFA/(4555:4555): Retardo de Planificacion = 500
+[INFO] 06:16:39:501 Consola S-AFA/(4555:4555): -----------------------
+[INFO] 06:16:45:206 Consola S-AFA/(4555:4558): Nueva conexion desde el DMA
+[INFO] 06:16:46:973 Consola S-AFA/(4555:4558): Nueva conexion de CPU
+
+[INFO] 06:16:59:551 Consola S-AFA/(4555:4555): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 06:17:16:81 Consola S-AFA/(4555:4555): Linea leida: ejecutar /scripts/complejo.escriptorio
+[INFO] 06:19:16:959 Consola S-AFA/(4630:4630): ---- Configuracion ----
+[INFO] 06:19:16:961 Consola S-AFA/(4630:4630): Puerto = 8000
+[INFO] 06:19:16:961 Consola S-AFA/(4630:4630): Algoritmo de Planificacion = VRR
+[INFO] 06:19:16:961 Consola S-AFA/(4630:4630): Quantum = 4
+[INFO] 06:19:16:961 Consola S-AFA/(4630:4630): Nivel de Multiprogramacion = 5
+[INFO] 06:19:16:961 Consola S-AFA/(4630:4630): Retardo de Planificacion = 500
+[INFO] 06:19:16:961 Consola S-AFA/(4630:4630): -----------------------
+[INFO] 06:19:25:43 Consola S-AFA/(4630:4633): Nueva conexion desde el DMA
+[INFO] 06:19:26:921 Consola S-AFA/(4630:4633): Nueva conexion de CPU
+
+[INFO] 06:19:36:921 Consola S-AFA/(4630:4630): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 06:19:51:209 Consola S-AFA/(4630:4630): Linea leida: ejecutar /scripts/complejo.escriptorio
+[INFO] 06:23:00:547 Consola S-AFA/(4630:4633): DMA desconectado
+[INFO] 06:23:00:895 Consola S-AFA/(4630:4633): CPU desconectada
+[INFO] 06:23:05:814 Consola S-AFA/(4714:4714): ---- Configuracion ----
+[INFO] 06:23:05:814 Consola S-AFA/(4714:4714): Puerto = 8000
+[INFO] 06:23:05:814 Consola S-AFA/(4714:4714): Algoritmo de Planificacion = VRR
+[INFO] 06:23:05:814 Consola S-AFA/(4714:4714): Quantum = 4
+[INFO] 06:23:05:814 Consola S-AFA/(4714:4714): Nivel de Multiprogramacion = 5
+[INFO] 06:23:05:814 Consola S-AFA/(4714:4714): Retardo de Planificacion = 500
+[INFO] 06:23:05:814 Consola S-AFA/(4714:4714): -----------------------
+[INFO] 06:23:12:747 Consola S-AFA/(4714:4717): Nueva conexion desde el DMA
+[INFO] 06:23:14:597 Consola S-AFA/(4714:4717): Nueva conexion de CPU
+
+[INFO] 06:23:26:76 Consola S-AFA/(4714:4714): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 06:24:33:133 Consola S-AFA/(4714:4714): Linea leida: ejecutar /scripts/complejo.escriptorio
+[INFO] 06:30:56:826 Consola S-AFA/(4865:4865): ---- Configuracion ----
+[INFO] 06:30:56:844 Consola S-AFA/(4865:4865): Puerto = 8000
+[INFO] 06:30:56:844 Consola S-AFA/(4865:4865): Algoritmo de Planificacion = VRR
+[INFO] 06:30:56:844 Consola S-AFA/(4865:4865): Quantum = 4
+[INFO] 06:30:56:844 Consola S-AFA/(4865:4865): Nivel de Multiprogramacion = 5
+[INFO] 06:30:56:844 Consola S-AFA/(4865:4865): Retardo de Planificacion = 500
+[INFO] 06:30:56:844 Consola S-AFA/(4865:4865): -----------------------
+[INFO] 06:31:05:452 Consola S-AFA/(4865:4868): Nueva conexion desde el DMA
+[INFO] 06:31:07:386 Consola S-AFA/(4865:4868): Nueva conexion de CPU
+
+[INFO] 06:31:33:622 Consola S-AFA/(4865:4868): CPU desconectada
+[INFO] 06:31:34:310 Consola S-AFA/(4865:4868): DMA desconectado
+[INFO] 06:31:40:224 Consola S-AFA/(4865:4868): Nueva conexion desde el DMA
+[INFO] 06:31:41:742 Consola S-AFA/(4865:4868): Nueva conexion de CPU
+
+[INFO] 06:31:53:688 Consola S-AFA/(4865:4865): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 06:32:28:818 Consola S-AFA/(4865:4865): Linea leida: ejecutar /scripts/complejo.escriptorio
+[INFO] 06:36:36:683 Consola S-AFA/(4865:4868): DMA desconectado
+[INFO] 06:53:45:300 Consola S-AFA/(5207:5207): ---- Configuracion ----
+[INFO] 06:53:45:319 Consola S-AFA/(5207:5207): Puerto = 8000
+[INFO] 06:53:45:319 Consola S-AFA/(5207:5207): Algoritmo de Planificacion = VRR
+[INFO] 06:53:45:319 Consola S-AFA/(5207:5207): Quantum = 4
+[INFO] 06:53:45:319 Consola S-AFA/(5207:5207): Nivel de Multiprogramacion = 5
+[INFO] 06:53:45:319 Consola S-AFA/(5207:5207): Retardo de Planificacion = 500
+[INFO] 06:53:45:319 Consola S-AFA/(5207:5207): -----------------------
+[INFO] 06:54:16:160 Consola S-AFA/(5207:5210): Nueva conexion de CPU
+
+[INFO] 06:54:16:163 Consola S-AFA/(5207:5210): CPU desconectada
+[INFO] 06:54:31:373 Consola S-AFA/(5207:5210): Nueva conexion desde el DMA
+[INFO] 06:54:36:482 Consola S-AFA/(5207:5210): Nueva conexion de CPU
+
+[INFO] 06:54:50:165 Consola S-AFA/(5207:5207): Linea leida: ejecutar /scripts/complejo.escriptorio
+[INFO] 06:55:16:208 Consola S-AFA/(5207:5207): Linea leida: ejecutar /scripts/simple.escriptorio
+[INFO] 06:55:30:376 Consola S-AFA/(5207:5207): Linea leida: ejecutar /scripts/complejo.escriptorio

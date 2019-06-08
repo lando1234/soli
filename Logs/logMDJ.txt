@@ -1,0 +1,1012 @@
+[INFO] 04:47:56:822 Proceso MDJ/(7311:7311): Inicio del proceso
+[INFO] 04:47:56:832 Proceso MDJ/(7311:7311): ---- Configuracion ----
+[INFO] 04:47:56:836 Proceso MDJ/(7311:7311): PUERTO = 8002
+[INFO] 04:47:56:836 Proceso MDJ/(7311:7311): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 04:47:56:837 Proceso MDJ/(7311:7311): RETARDO = 1000 milisegundos
+[INFO] 04:47:56:837 Proceso MDJ/(7311:7311): -----------------------
+[INFO] 04:47:56:837 Consola MDJ/(7311:7311): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 04:47:56:847 Consola MDJ/(7311:7311): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 04:47:56:861 Proceso MDJ/(7311:7311): ----- File System -----
+[INFO] 04:47:56:861 Proceso MDJ/(7311:7311): TAMANIO_BLOQUES = 64
+[INFO] 04:47:56:861 Proceso MDJ/(7311:7311): CANTIDAD_BLOQUES = 256
+[INFO] 04:47:56:861 Proceso MDJ/(7311:7311): MAGIC_NUMBER = FIFA
+[INFO] 04:47:56:861 Proceso MDJ/(7311:7311): -----------------------
+[INFO] 04:47:56:861 Consola MDJ/(7311:7311): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 04:47:56:862 Consola MDJ/(7311:7311): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 04:47:56:871 Consola MDJ/(7311:7311): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 04:47:56:880 Consola MDJ/(7311:7311): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 04:48:36:484 Consola MDJ/(7311:7314): Nueva conexion desde El Diego
+[INFO] 04:49:03:304 Consola MDJ/(7311:7314): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:49:03:304 Consola MDJ/(7311:7314): Validar archivo /scripts/simple.escriptorio
+[INFO] 04:49:03:326 Consola MDJ/(7311:7314): Existe el archivo /scripts/simple.escriptorio
+[INFO] 04:49:04:326 Consola MDJ/(7311:7314): Operacion OBTENER_DATOS recibida
+[INFO] 04:49:04:326 Consola MDJ/(7311:7314): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 04:49:04:352 Consola MDJ/(7311:7314): Operacion finalizada con exito
+[INFO] 04:49:05:512 Consola MDJ/(7311:7314): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:49:05:512 Consola MDJ/(7311:7314): Validar archivo /scripts/complejo.escriptorio
+[INFO] 04:49:05:512 Consola MDJ/(7311:7314): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 04:49:06:512 Consola MDJ/(7311:7314): Operacion OBTENER_DATOS recibida
+[INFO] 04:49:06:512 Consola MDJ/(7311:7314): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 04:49:06:543 Consola MDJ/(7311:7314): Operacion finalizada con exito
+[INFO] 04:49:27:282 Consola MDJ/(7311:7314): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:49:27:282 Consola MDJ/(7311:7314): Validar archivo scripts/complejo.escriptorio
+[INFO] 04:49:27:282 Consola MDJ/(7311:7314): No existe el archivo scripts/complejo.escriptorio
+[INFO] 04:49:45:590 Consola MDJ/(7311:7314): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:49:45:590 Consola MDJ/(7311:7314): Validar archivo /scripts/complejo.escriptorio
+[INFO] 04:49:45:590 Consola MDJ/(7311:7314): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 04:49:46:590 Consola MDJ/(7311:7314): Operacion OBTENER_DATOS recibida
+[INFO] 04:49:46:591 Consola MDJ/(7311:7314): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 04:49:46:591 Consola MDJ/(7311:7314): Operacion finalizada con exito
+[INFO] 04:49:47:750 Consola MDJ/(7311:7314): Operacion CREAR_ARCHIVO recibida
+[INFO] 04:49:47:750 Consola MDJ/(7311:7314): Crear archivo /equipos/Rafaela de 5 lineas
+[INFO] 04:49:47:750 Consola MDJ/(7311:7314): El archivo ocupa 1 bloques
+[INFO] 04:49:47:750 Consola MDJ/(7311:7314): Se creo el bloque 0.bin
+[INFO] 04:49:47:750 Consola MDJ/(7311:7314): Se actualizo el bit 0 del bitmap
+[INFO] 04:49:47:751 Consola MDJ/(7311:7314): Se creo el archivo /equipos/Rafaela
+[INFO] 04:49:47:751 Consola MDJ/(7311:7314): Operacion finalizada con exito
+[INFO] 04:49:48:791 Consola MDJ/(7311:7314): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:49:48:791 Consola MDJ/(7311:7314): Validar archivo /equipos/Rafaela
+[INFO] 04:49:48:791 Consola MDJ/(7311:7314): Existe el archivo /equipos/Rafaela
+[INFO] 04:49:49:791 Consola MDJ/(7311:7314): Operacion OBTENER_DATOS recibida
+[INFO] 04:49:49:791 Consola MDJ/(7311:7314): Obtener datos del archivo /equipos/Rafaela desde el byte 0 y largo -1
+[INFO] 04:49:49:791 Consola MDJ/(7311:7314): Operacion finalizada con exito
+[INFO] 04:49:51:292 Consola MDJ/(7311:7314): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:49:51:292 Consola MDJ/(7311:7314): Validar archivo /equipos/Rafaela
+[INFO] 04:49:51:293 Consola MDJ/(7311:7314): Existe el archivo /equipos/Rafaela
+[INFO] 04:49:52:331 Consola MDJ/(7311:7314): Operacion GUARDAR_DATOS recibida
+[INFO] 04:49:52:331 Consola MDJ/(7311:7314): Guardar Atle(
+ncuentra en memoria
+Prom El segmento se encuentra en memoriaX
+330 Proceso FM9/(7284:7284): El segmento se encuentra en memoria~
+~
+ se encuentra en memoria
+ en el archivo /equipos/Rafaela desde el byte 0 y largo 0
+[INFO] 04:49:52:331 Consola MDJ/(7311:7314): Se elimino el archivo original
+[INFO] 04:49:52:331 Consola MDJ/(7311:7314): El archivo modificado ocupa 3 bloques
+[INFO] 04:49:52:332 Consola MDJ/(7311:7314): Se creo el bloque 0.bin
+[INFO] 04:49:52:332 Consola MDJ/(7311:7314): Se actualizo el bit 0 del bitmap
+[INFO] 04:49:52:332 Consola MDJ/(7311:7314): Se creo el bloque 2.bin
+[INFO] 04:49:52:332 Consola MDJ/(7311:7314): Se actualizo el bit 2 del bitmap
+[INFO] 04:49:52:332 Consola MDJ/(7311:7314): Se creo el bloque 3.bin
+[INFO] 04:49:52:332 Consola MDJ/(7311:7314): Se actualizo el bit 3 del bitmap
+[INFO] 04:49:52:332 Consola MDJ/(7311:7314): Se modifico el archivo /equipos/Rafaela
+[INFO] 04:49:52:332 Consola MDJ/(7311:7314): Operacion finalizada con exito
+[INFO] 04:50:03:906 Consola MDJ/(7311:7314): Se desconecto El Diego
+[INFO] 04:50:28:976 Proceso MDJ/(7363:7363): Inicio del proceso
+[INFO] 04:50:28:977 Proceso MDJ/(7363:7363): ---- Configuracion ----
+[INFO] 04:50:28:977 Proceso MDJ/(7363:7363): PUERTO = 8002
+[INFO] 04:50:28:977 Proceso MDJ/(7363:7363): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 04:50:28:977 Proceso MDJ/(7363:7363): RETARDO = 1000 milisegundos
+[INFO] 04:50:28:977 Proceso MDJ/(7363:7363): -----------------------
+[INFO] 04:50:28:977 Consola MDJ/(7363:7363): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 04:50:28:977 Consola MDJ/(7363:7363): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 04:50:28:977 Proceso MDJ/(7363:7363): ----- File System -----
+[INFO] 04:50:28:977 Proceso MDJ/(7363:7363): TAMANIO_BLOQUES = 64
+[INFO] 04:50:28:977 Proceso MDJ/(7363:7363): CANTIDAD_BLOQUES = 256
+[INFO] 04:50:28:977 Proceso MDJ/(7363:7363): MAGIC_NUMBER = FIFA
+[INFO] 04:50:28:977 Proceso MDJ/(7363:7363): -----------------------
+[INFO] 04:50:28:978 Consola MDJ/(7363:7363): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 04:50:28:978 Consola MDJ/(7363:7363): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 04:50:28:978 Consola MDJ/(7363:7363): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 04:50:28:978 Consola MDJ/(7363:7363): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 04:50:30:897 Consola MDJ/(7363:7366): Nueva conexion desde El Diego
+[INFO] 04:50:41:911 Consola MDJ/(7363:7366): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:50:41:911 Consola MDJ/(7363:7366): Validar archivo /scripts/simple.escriptorio
+[INFO] 04:50:41:911 Consola MDJ/(7363:7366): Existe el archivo /scripts/simple.escriptorio
+[INFO] 04:50:42:911 Consola MDJ/(7363:7366): Operacion OBTENER_DATOS recibida
+[INFO] 04:50:42:911 Consola MDJ/(7363:7366): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 04:50:42:911 Consola MDJ/(7363:7366): Operacion finalizada con exito
+[INFO] 04:50:44:71 Consola MDJ/(7363:7366): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:50:44:71 Consola MDJ/(7363:7366): Validar archivo /scripts/complejo.escriptorio
+[INFO] 04:50:44:71 Consola MDJ/(7363:7366): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 04:50:45:71 Consola MDJ/(7363:7366): Operacion OBTENER_DATOS recibida
+[INFO] 04:50:45:71 Consola MDJ/(7363:7366): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 04:50:45:71 Consola MDJ/(7363:7366): Operacion finalizada con exito
+[INFO] 04:52:28:100 Consola MDJ/(7363:7366): Se desconecto El Diego
+[INFO] 04:52:45:826 Proceso MDJ/(7423:7423): Inicio del proceso
+[INFO] 04:52:45:832 Proceso MDJ/(7423:7423): ---- Configuracion ----
+[INFO] 04:52:45:833 Proceso MDJ/(7423:7423): PUERTO = 8002
+[INFO] 04:52:45:833 Proceso MDJ/(7423:7423): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 04:52:45:833 Proceso MDJ/(7423:7423): RETARDO = 1000 milisegundos
+[INFO] 04:52:45:833 Proceso MDJ/(7423:7423): -----------------------
+[INFO] 04:52:45:833 Consola MDJ/(7423:7423): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 04:52:45:833 Consola MDJ/(7423:7423): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 04:52:45:845 Proceso MDJ/(7423:7423): ----- File System -----
+[INFO] 04:52:45:845 Proceso MDJ/(7423:7423): TAMANIO_BLOQUES = 64
+[INFO] 04:52:45:845 Proceso MDJ/(7423:7423): CANTIDAD_BLOQUES = 256
+[INFO] 04:52:45:845 Proceso MDJ/(7423:7423): MAGIC_NUMBER = FIFA
+[INFO] 04:52:45:845 Proceso MDJ/(7423:7423): -----------------------
+[INFO] 04:52:45:845 Consola MDJ/(7423:7423): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 04:52:45:867 Consola MDJ/(7423:7423): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 04:52:45:867 Consola MDJ/(7423:7423): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 04:52:45:867 Consola MDJ/(7423:7423): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 04:52:50:285 Consola MDJ/(7423:7426): Nueva conexion desde El Diego
+[INFO] 04:53:27:40 Consola MDJ/(7423:7426): Se desconecto El Diego
+[INFO] 04:53:35:946 Proceso MDJ/(7450:7450): Inicio del proceso
+[INFO] 04:53:35:947 Proceso MDJ/(7450:7450): ---- Configuracion ----
+[INFO] 04:53:35:947 Proceso MDJ/(7450:7450): PUERTO = 8002
+[INFO] 04:53:35:947 Proceso MDJ/(7450:7450): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 04:53:35:947 Proceso MDJ/(7450:7450): RETARDO = 1000 milisegundos
+[INFO] 04:53:35:947 Proceso MDJ/(7450:7450): -----------------------
+[INFO] 04:53:35:947 Consola MDJ/(7450:7450): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 04:53:35:947 Consola MDJ/(7450:7450): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 04:53:35:947 Proceso MDJ/(7450:7450): ----- File System -----
+[INFO] 04:53:35:947 Proceso MDJ/(7450:7450): TAMANIO_BLOQUES = 64
+[INFO] 04:53:35:947 Proceso MDJ/(7450:7450): CANTIDAD_BLOQUES = 256
+[INFO] 04:53:35:947 Proceso MDJ/(7450:7450): MAGIC_NUMBER = FIFA
+[INFO] 04:53:35:947 Proceso MDJ/(7450:7450): -----------------------
+[INFO] 04:53:35:947 Consola MDJ/(7450:7450): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 04:53:35:947 Consola MDJ/(7450:7450): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 04:53:35:948 Consola MDJ/(7450:7450): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 04:53:35:948 Consola MDJ/(7450:7450): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 04:53:40:808 Consola MDJ/(7450:7453): Nueva conexion desde El Diego
+[INFO] 04:53:54:129 Consola MDJ/(7450:7453): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:53:54:129 Consola MDJ/(7450:7453): Validar archivo /scripts/simple.escriptorio
+[INFO] 04:53:54:129 Consola MDJ/(7450:7453): Existe el archivo /scripts/simple.escriptorio
+[INFO] 04:53:55:129 Consola MDJ/(7450:7453): Operacion OBTENER_DATOS recibida
+[INFO] 04:53:55:129 Consola MDJ/(7450:7453): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 04:53:55:202 Consola MDJ/(7450:7453): Operacion finalizada con exito
+[INFO] 04:53:56:470 Consola MDJ/(7450:7453): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:53:56:470 Consola MDJ/(7450:7453): Validar archivo /scripts/complejo.escriptorio
+[INFO] 04:53:56:470 Consola MDJ/(7450:7453): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 04:53:57:471 Consola MDJ/(7450:7453): Operacion OBTENER_DATOS recibida
+[INFO] 04:53:57:471 Consola MDJ/(7450:7453): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 04:53:57:523 Consola MDJ/(7450:7453): Operacion finalizada con exito
+[INFO] 04:55:26:929 Consola MDJ/(7450:7453): Se desconecto El Diego
+[INFO] 04:55:32:362 Proceso MDJ/(7516:7516): Inicio del proceso
+[INFO] 04:55:32:380 Proceso MDJ/(7516:7516): ---- Configuracion ----
+[INFO] 04:55:32:380 Proceso MDJ/(7516:7516): PUERTO = 8002
+[INFO] 04:55:32:380 Proceso MDJ/(7516:7516): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 04:55:32:380 Proceso MDJ/(7516:7516): RETARDO = 1000 milisegundos
+[INFO] 04:55:32:381 Proceso MDJ/(7516:7516): -----------------------
+[INFO] 04:55:32:381 Consola MDJ/(7516:7516): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 04:55:32:381 Consola MDJ/(7516:7516): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 04:55:32:430 Proceso MDJ/(7516:7516): ----- File System -----
+[INFO] 04:55:32:430 Proceso MDJ/(7516:7516): TAMANIO_BLOQUES = 64
+[INFO] 04:55:32:430 Proceso MDJ/(7516:7516): CANTIDAD_BLOQUES = 256
+[INFO] 04:55:32:430 Proceso MDJ/(7516:7516): MAGIC_NUMBER = FIFA
+[INFO] 04:55:32:430 Proceso MDJ/(7516:7516): -----------------------
+[INFO] 04:55:32:430 Consola MDJ/(7516:7516): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 04:55:32:431 Consola MDJ/(7516:7516): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 04:55:32:431 Consola MDJ/(7516:7516): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 04:55:32:431 Consola MDJ/(7516:7516): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 04:55:38:576 Consola MDJ/(7516:7519): Nueva conexion desde El Diego
+[INFO] 04:55:50:821 Consola MDJ/(7516:7519): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:55:50:821 Consola MDJ/(7516:7519): Validar archivo /scripts/simple.escriptorio
+[INFO] 04:55:50:893 Consola MDJ/(7516:7519): Existe el archivo /scripts/simple.escriptorio
+[INFO] 04:55:51:893 Consola MDJ/(7516:7519): Operacion OBTENER_DATOS recibida
+[INFO] 04:55:51:893 Consola MDJ/(7516:7519): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 04:55:51:947 Consola MDJ/(7516:7519): Operacion finalizada con exito
+[INFO] 04:55:53:217 Consola MDJ/(7516:7519): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:55:53:217 Consola MDJ/(7516:7519): Validar archivo /scripts/complejo.escriptorio
+[INFO] 04:55:53:217 Consola MDJ/(7516:7519): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 04:55:54:217 Consola MDJ/(7516:7519): Operacion OBTENER_DATOS recibida
+[INFO] 04:55:54:218 Consola MDJ/(7516:7519): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 04:55:54:243 Consola MDJ/(7516:7519): Operacion finalizada con exito
+[INFO] 04:58:40:760 Consola MDJ/(7516:7519): Se desconecto El Diego
+[INFO] 04:58:43:385 Proceso MDJ/(7615:7615): Inicio del proceso
+[INFO] 04:58:43:394 Proceso MDJ/(7615:7615): ---- Configuracion ----
+[INFO] 04:58:43:394 Proceso MDJ/(7615:7615): PUERTO = 8002
+[INFO] 04:58:43:394 Proceso MDJ/(7615:7615): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 04:58:43:394 Proceso MDJ/(7615:7615): RETARDO = 1000 milisegundos
+[INFO] 04:58:43:394 Proceso MDJ/(7615:7615): -----------------------
+[INFO] 04:58:43:395 Consola MDJ/(7615:7615): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 04:58:43:395 Consola MDJ/(7615:7615): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 04:58:43:420 Proceso MDJ/(7615:7615): ----- File System -----
+[INFO] 04:58:43:420 Proceso MDJ/(7615:7615): TAMANIO_BLOQUES = 64
+[INFO] 04:58:43:420 Proceso MDJ/(7615:7615): CANTIDAD_BLOQUES = 256
+[INFO] 04:58:43:420 Proceso MDJ/(7615:7615): MAGIC_NUMBER = FIFA
+[INFO] 04:58:43:420 Proceso MDJ/(7615:7615): -----------------------
+[INFO] 04:58:43:420 Consola MDJ/(7615:7615): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 04:58:43:431 Consola MDJ/(7615:7615): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 04:58:43:431 Consola MDJ/(7615:7615): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 04:58:43:431 Consola MDJ/(7615:7615): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 04:58:51:697 Consola MDJ/(7615:7618): Nueva conexion desde El Diego
+[INFO] 04:59:03:644 Consola MDJ/(7615:7618): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:59:03:644 Consola MDJ/(7615:7618): Validar archivo /scripts/simple.escriptorio
+[INFO] 04:59:03:678 Consola MDJ/(7615:7618): Existe el archivo /scripts/simple.escriptorio
+[INFO] 04:59:04:678 Consola MDJ/(7615:7618): Operacion OBTENER_DATOS recibida
+[INFO] 04:59:04:679 Consola MDJ/(7615:7618): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 04:59:04:711 Consola MDJ/(7615:7618): Operacion finalizada con exito
+[INFO] 04:59:05:934 Consola MDJ/(7615:7618): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 04:59:05:934 Consola MDJ/(7615:7618): Validar archivo /scripts/complejo.escriptorio
+[INFO] 04:59:05:935 Consola MDJ/(7615:7618): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 04:59:06:935 Consola MDJ/(7615:7618): Operacion OBTENER_DATOS recibida
+[INFO] 04:59:06:935 Consola MDJ/(7615:7618): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 04:59:06:965 Consola MDJ/(7615:7618): Operacion finalizada con exito
+[INFO] 05:05:52:887 Proceso MDJ/(7738:7738): Inicio del proceso
+[INFO] 05:05:52:931 Proceso MDJ/(7738:7738): ---- Configuracion ----
+[INFO] 05:05:52:933 Proceso MDJ/(7738:7738): PUERTO = 8002
+[INFO] 05:05:52:933 Proceso MDJ/(7738:7738): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:05:52:933 Proceso MDJ/(7738:7738): RETARDO = 1000 milisegundos
+[INFO] 05:05:52:933 Proceso MDJ/(7738:7738): -----------------------
+[INFO] 05:05:52:957 Consola MDJ/(7738:7738): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:05:52:969 Consola MDJ/(7738:7738): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 05:05:52:977 Proceso MDJ/(7738:7738): ----- File System -----
+[INFO] 05:05:52:977 Proceso MDJ/(7738:7738): TAMANIO_BLOQUES = 64
+[INFO] 05:05:52:977 Proceso MDJ/(7738:7738): CANTIDAD_BLOQUES = 256
+[INFO] 05:05:52:977 Proceso MDJ/(7738:7738): MAGIC_NUMBER = FIFA
+[INFO] 05:05:52:977 Proceso MDJ/(7738:7738): -----------------------
+[INFO] 05:05:52:978 Consola MDJ/(7738:7738): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 05:05:52:989 Consola MDJ/(7738:7738): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 05:05:52:989 Consola MDJ/(7738:7738): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 05:05:52:989 Consola MDJ/(7738:7738): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 05:05:59:852 Consola MDJ/(7738:7741): Nueva conexion desde El Diego
+[INFO] 05:06:11:161 Consola MDJ/(7738:7741): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:06:11:161 Consola MDJ/(7738:7741): Validar archivo /scripts/simple.escriptorio
+[INFO] 05:06:11:176 Consola MDJ/(7738:7741): Existe el archivo /scripts/simple.escriptorio
+[INFO] 05:06:12:176 Consola MDJ/(7738:7741): Operacion OBTENER_DATOS recibida
+[INFO] 05:06:12:176 Consola MDJ/(7738:7741): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 05:06:12:222 Consola MDJ/(7738:7741): Operacion finalizada con exito
+[INFO] 05:06:13:517 Consola MDJ/(7738:7741): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:06:13:517 Consola MDJ/(7738:7741): Validar archivo /scripts/complejo.escriptorio
+[INFO] 05:06:13:517 Consola MDJ/(7738:7741): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 05:06:14:518 Consola MDJ/(7738:7741): Operacion OBTENER_DATOS recibida
+[INFO] 05:06:14:518 Consola MDJ/(7738:7741): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 05:06:14:544 Consola MDJ/(7738:7741): Operacion finalizada con exito
+[INFO] 05:06:26:264 Consola MDJ/(7738:7741): Se desconecto El Diego
+[INFO] 05:07:09:681 Proceso MDJ/(7779:7779): Inicio del proceso
+[INFO] 05:07:09:715 Proceso MDJ/(7779:7779): ---- Configuracion ----
+[INFO] 05:07:09:715 Proceso MDJ/(7779:7779): PUERTO = 8002
+[INFO] 05:07:09:715 Proceso MDJ/(7779:7779): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:07:09:715 Proceso MDJ/(7779:7779): RETARDO = 1000 milisegundos
+[INFO] 05:07:09:715 Proceso MDJ/(7779:7779): -----------------------
+[INFO] 05:07:09:715 Consola MDJ/(7779:7779): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:07:09:729 Consola MDJ/(7779:7779): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 05:07:09:737 Proceso MDJ/(7779:7779): ----- File System -----
+[INFO] 05:07:09:737 Proceso MDJ/(7779:7779): TAMANIO_BLOQUES = 64
+[INFO] 05:07:09:737 Proceso MDJ/(7779:7779): CANTIDAD_BLOQUES = 256
+[INFO] 05:07:09:737 Proceso MDJ/(7779:7779): MAGIC_NUMBER = FIFA
+[INFO] 05:07:09:738 Proceso MDJ/(7779:7779): -----------------------
+[INFO] 05:07:09:738 Consola MDJ/(7779:7779): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 05:07:09:749 Consola MDJ/(7779:7779): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 05:07:09:749 Consola MDJ/(7779:7779): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 05:07:09:749 Consola MDJ/(7779:7779): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 05:07:18:1 Consola MDJ/(7779:7782): Nueva conexion desde El Diego
+[INFO] 05:07:34:861 Consola MDJ/(7779:7782): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:07:34:861 Consola MDJ/(7779:7782): Validar archivo /scripts/simple.escriptorio
+[INFO] 05:07:34:885 Consola MDJ/(7779:7782): Existe el archivo /scripts/simple.escriptorio
+[INFO] 05:07:35:885 Consola MDJ/(7779:7782): Operacion OBTENER_DATOS recibida
+[INFO] 05:07:35:885 Consola MDJ/(7779:7782): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 05:07:35:916 Consola MDJ/(7779:7782): Operacion finalizada con exito
+[INFO] 05:07:37:134 Consola MDJ/(7779:7782): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:07:37:135 Consola MDJ/(7779:7782): Validar archivo /scripts/complejo.escriptorio
+[INFO] 05:07:37:135 Consola MDJ/(7779:7782): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 05:07:38:135 Consola MDJ/(7779:7782): Operacion OBTENER_DATOS recibida
+[INFO] 05:07:38:135 Consola MDJ/(7779:7782): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 05:07:38:171 Consola MDJ/(7779:7782): Operacion finalizada con exito
+[INFO] 05:13:11:107 Proceso MDJ/(7947:7947): Inicio del proceso
+[INFO] 05:13:11:166 Proceso MDJ/(7947:7947): ---- Configuracion ----
+[INFO] 05:13:11:166 Proceso MDJ/(7947:7947): PUERTO = 8002
+[INFO] 05:13:11:166 Proceso MDJ/(7947:7947): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:13:11:166 Proceso MDJ/(7947:7947): RETARDO = 1000 milisegundos
+[INFO] 05:13:11:166 Proceso MDJ/(7947:7947): -----------------------
+[INFO] 05:13:11:166 Consola MDJ/(7947:7947): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:13:11:210 Consola MDJ/(7947:7947): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 05:13:11:225 Proceso MDJ/(7947:7947): ----- File System -----
+[INFO] 05:13:11:225 Proceso MDJ/(7947:7947): TAMANIO_BLOQUES = 64
+[INFO] 05:13:11:225 Proceso MDJ/(7947:7947): CANTIDAD_BLOQUES = 256
+[INFO] 05:13:11:225 Proceso MDJ/(7947:7947): MAGIC_NUMBER = FIFA
+[INFO] 05:13:11:225 Proceso MDJ/(7947:7947): -----------------------
+[INFO] 05:13:11:225 Consola MDJ/(7947:7947): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 05:13:11:226 Consola MDJ/(7947:7947): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 05:13:11:227 Consola MDJ/(7947:7947): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 05:13:11:227 Consola MDJ/(7947:7947): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 05:13:23:632 Consola MDJ/(7947:7950): Nueva conexion desde El Diego
+[INFO] 05:13:33:453 Consola MDJ/(7947:7950): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:13:33:453 Consola MDJ/(7947:7950): Validar archivo /scripts/simple.escriptorio
+[INFO] 05:13:33:471 Consola MDJ/(7947:7950): Existe el archivo /scripts/simple.escriptorio
+[INFO] 05:13:34:471 Consola MDJ/(7947:7950): Operacion OBTENER_DATOS recibida
+[INFO] 05:13:34:471 Consola MDJ/(7947:7950): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 05:13:34:508 Consola MDJ/(7947:7950): Operacion finalizada con exito
+[INFO] 05:13:35:741 Consola MDJ/(7947:7950): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:13:35:741 Consola MDJ/(7947:7950): Validar archivo /scripts/complejo.escriptorio
+[INFO] 05:13:35:741 Consola MDJ/(7947:7950): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 05:13:36:742 Consola MDJ/(7947:7950): Operacion OBTENER_DATOS recibida
+[INFO] 05:13:36:742 Consola MDJ/(7947:7950): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 05:13:36:772 Consola MDJ/(7947:7950): Operacion finalizada con exito
+[INFO] 05:20:16:660 Consola MDJ/(7947:7950): Se desconecto El Diego
+[INFO] 05:20:41:452 Proceso MDJ/(8123:8123): Inicio del proceso
+[INFO] 05:20:41:460 Proceso MDJ/(8123:8123): ---- Configuracion ----
+[INFO] 05:20:41:461 Proceso MDJ/(8123:8123): PUERTO = 8002
+[INFO] 05:20:41:461 Proceso MDJ/(8123:8123): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:20:41:461 Proceso MDJ/(8123:8123): RETARDO = 1000 milisegundos
+[INFO] 05:20:41:461 Proceso MDJ/(8123:8123): -----------------------
+[INFO] 05:20:41:471 Consola MDJ/(8123:8123): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:20:41:503 Consola MDJ/(8123:8123): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 05:20:41:548 Proceso MDJ/(8123:8123): ----- File System -----
+[INFO] 05:20:41:548 Proceso MDJ/(8123:8123): TAMANIO_BLOQUES = 64
+[INFO] 05:20:41:548 Proceso MDJ/(8123:8123): CANTIDAD_BLOQUES = 256
+[INFO] 05:20:41:548 Proceso MDJ/(8123:8123): MAGIC_NUMBER = FIFA
+[INFO] 05:20:41:548 Proceso MDJ/(8123:8123): -----------------------
+[INFO] 05:20:41:548 Consola MDJ/(8123:8123): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 05:20:41:559 Consola MDJ/(8123:8123): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 05:20:41:561 Consola MDJ/(8123:8123): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 05:20:41:561 Consola MDJ/(8123:8123): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 05:20:45:317 Consola MDJ/(8123:8126): Nueva conexion desde El Diego
+[INFO] 05:20:59:619 Consola MDJ/(8123:8126): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:20:59:619 Consola MDJ/(8123:8126): Validar archivo /scripts/simple.escriptorio
+[INFO] 05:20:59:674 Consola MDJ/(8123:8126): Existe el archivo /scripts/simple.escriptorio
+[INFO] 05:21:00:674 Consola MDJ/(8123:8126): Operacion OBTENER_DATOS recibida
+[INFO] 05:21:00:674 Consola MDJ/(8123:8126): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 05:21:00:703 Consola MDJ/(8123:8126): Operacion finalizada con exito
+[INFO] 05:21:01:977 Consola MDJ/(8123:8126): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:21:01:977 Consola MDJ/(8123:8126): Validar archivo /scripts/complejo.escriptorio
+[INFO] 05:21:01:977 Consola MDJ/(8123:8126): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 05:21:02:979 Consola MDJ/(8123:8126): Operacion OBTENER_DATOS recibida
+[INFO] 05:21:02:979 Consola MDJ/(8123:8126): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 05:21:03:8 Consola MDJ/(8123:8126): Operacion finalizada con exito
+[INFO] 05:22:24:768 Consola MDJ/(8123:8126): Se desconecto El Diego
+[INFO] 05:22:31:299 Proceso MDJ/(8186:8186): Inicio del proceso
+[INFO] 05:22:31:300 Proceso MDJ/(8186:8186): ---- Configuracion ----
+[INFO] 05:22:31:300 Proceso MDJ/(8186:8186): PUERTO = 8002
+[INFO] 05:22:31:300 Proceso MDJ/(8186:8186): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:22:31:300 Proceso MDJ/(8186:8186): RETARDO = 1000 milisegundos
+[INFO] 05:22:31:300 Proceso MDJ/(8186:8186): -----------------------
+[INFO] 05:22:31:300 Consola MDJ/(8186:8186): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:22:31:300 Consola MDJ/(8186:8186): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 05:22:31:309 Proceso MDJ/(8186:8186): ----- File System -----
+[INFO] 05:22:31:310 Proceso MDJ/(8186:8186): TAMANIO_BLOQUES = 64
+[INFO] 05:22:31:310 Proceso MDJ/(8186:8186): CANTIDAD_BLOQUES = 256
+[INFO] 05:22:31:310 Proceso MDJ/(8186:8186): MAGIC_NUMBER = FIFA
+[INFO] 05:22:31:310 Proceso MDJ/(8186:8186): -----------------------
+[INFO] 05:22:31:310 Consola MDJ/(8186:8186): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 05:22:31:316 Consola MDJ/(8186:8186): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 05:22:31:316 Consola MDJ/(8186:8186): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 05:22:31:317 Consola MDJ/(8186:8186): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 05:25:20:635 Proceso MDJ/(8299:8299): Inicio del proceso
+[INFO] 05:25:20:677 Proceso MDJ/(8299:8299): ---- Configuracion ----
+[INFO] 05:25:20:677 Proceso MDJ/(8299:8299): PUERTO = 8002
+[INFO] 05:25:20:678 Proceso MDJ/(8299:8299): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:25:20:678 Proceso MDJ/(8299:8299): RETARDO = 1000 milisegundos
+[INFO] 05:25:20:678 Proceso MDJ/(8299:8299): -----------------------
+[INFO] 05:25:20:678 Consola MDJ/(8299:8299): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:25:20:692 Consola MDJ/(8299:8299): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 05:25:20:718 Proceso MDJ/(8299:8299): ----- File System -----
+[INFO] 05:25:20:718 Proceso MDJ/(8299:8299): TAMANIO_BLOQUES = 64
+[INFO] 05:25:20:718 Proceso MDJ/(8299:8299): CANTIDAD_BLOQUES = 256
+[INFO] 05:25:20:718 Proceso MDJ/(8299:8299): MAGIC_NUMBER = FIFA
+[INFO] 05:25:20:718 Proceso MDJ/(8299:8299): -----------------------
+[INFO] 05:25:20:718 Consola MDJ/(8299:8299): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 05:25:20:719 Consola MDJ/(8299:8299): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 05:25:20:733 Consola MDJ/(8299:8299): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 05:25:20:733 Consola MDJ/(8299:8299): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 05:25:23:620 Consola MDJ/(8299:8302): Nueva conexion desde El Diego
+[INFO] 05:25:36:139 Consola MDJ/(8299:8302): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:25:36:139 Consola MDJ/(8299:8302): Validar archivo /scripts/simple.escriptorio
+[INFO] 05:25:36:157 Consola MDJ/(8299:8302): Existe el archivo /scripts/simple.escriptorio
+[INFO] 05:25:37:157 Consola MDJ/(8299:8302): Operacion OBTENER_DATOS recibida
+[INFO] 05:25:37:157 Consola MDJ/(8299:8302): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 05:25:37:194 Consola MDJ/(8299:8302): Operacion finalizada con exito
+[INFO] 05:25:38:420 Consola MDJ/(8299:8302): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:25:38:420 Consola MDJ/(8299:8302): Validar archivo /scripts/complejo.escriptorio
+[INFO] 05:25:38:420 Consola MDJ/(8299:8302): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 05:25:39:420 Consola MDJ/(8299:8302): Operacion OBTENER_DATOS recibida
+[INFO] 05:25:39:420 Consola MDJ/(8299:8302): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 05:25:39:468 Consola MDJ/(8299:8302): Operacion finalizada con exito
+[INFO] 05:32:21:461 Consola MDJ/(8299:8302): Se desconecto El Diego
+[INFO] 05:32:42:805 Proceso MDJ/(8483:8483): Inicio del proceso
+[INFO] 05:32:42:823 Proceso MDJ/(8483:8483): ---- Configuracion ----
+[INFO] 05:32:42:823 Proceso MDJ/(8483:8483): PUERTO = 8002
+[INFO] 05:32:42:823 Proceso MDJ/(8483:8483): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:32:42:823 Proceso MDJ/(8483:8483): RETARDO = 1000 milisegundos
+[INFO] 05:32:42:823 Proceso MDJ/(8483:8483): -----------------------
+[INFO] 05:32:42:823 Consola MDJ/(8483:8483): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:32:42:823 Consola MDJ/(8483:8483): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 05:32:42:861 Proceso MDJ/(8483:8483): ----- File System -----
+[INFO] 05:32:42:861 Proceso MDJ/(8483:8483): TAMANIO_BLOQUES = 64
+[INFO] 05:32:42:861 Proceso MDJ/(8483:8483): CANTIDAD_BLOQUES = 256
+[INFO] 05:32:42:861 Proceso MDJ/(8483:8483): MAGIC_NUMBER = FIFA
+[INFO] 05:32:42:861 Proceso MDJ/(8483:8483): -----------------------
+[INFO] 05:32:42:861 Consola MDJ/(8483:8483): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 05:32:42:886 Consola MDJ/(8483:8483): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 05:32:42:886 Consola MDJ/(8483:8483): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 05:32:42:886 Consola MDJ/(8483:8483): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 05:33:15:234 Consola MDJ/(8483:8486): Nueva conexion desde El Diego
+[INFO] 05:33:28:116 Consola MDJ/(8483:8486): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:33:28:116 Consola MDJ/(8483:8486): Validar archivo /scripts/simple.escriptorio
+[INFO] 05:33:28:162 Consola MDJ/(8483:8486): Existe el archivo /scripts/simple.escriptorio
+[INFO] 05:33:29:163 Consola MDJ/(8483:8486): Operacion OBTENER_DATOS recibida
+[INFO] 05:33:29:163 Consola MDJ/(8483:8486): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 05:33:29:208 Consola MDJ/(8483:8486): Operacion finalizada con exito
+[INFO] 05:33:30:481 Consola MDJ/(8483:8486): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:33:30:481 Consola MDJ/(8483:8486): Validar archivo /scripts/complejo.escriptorio
+[INFO] 05:33:30:481 Consola MDJ/(8483:8486): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 05:33:31:481 Consola MDJ/(8483:8486): Operacion OBTENER_DATOS recibida
+[INFO] 05:33:31:481 Consola MDJ/(8483:8486): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 05:33:31:524 Consola MDJ/(8483:8486): Operacion finalizada con exito
+[INFO] 05:37:49:252 Consola MDJ/(8483:8486): Se desconecto El Diego
+[INFO] 05:37:51:775 Proceso MDJ/(8654:8654): Inicio del proceso
+[INFO] 05:37:51:849 Proceso MDJ/(8654:8654): ---- Configuracion ----
+[INFO] 05:37:51:850 Proceso MDJ/(8654:8654): PUERTO = 8002
+[INFO] 05:37:51:850 Proceso MDJ/(8654:8654): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:37:51:850 Proceso MDJ/(8654:8654): RETARDO = 1000 milisegundos
+[INFO] 05:37:51:850 Proceso MDJ/(8654:8654): -----------------------
+[INFO] 05:37:51:850 Consola MDJ/(8654:8654): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:37:51:872 Consola MDJ/(8654:8654): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 05:37:51:887 Proceso MDJ/(8654:8654): ----- File System -----
+[INFO] 05:37:51:887 Proceso MDJ/(8654:8654): TAMANIO_BLOQUES = 64
+[INFO] 05:37:51:887 Proceso MDJ/(8654:8654): CANTIDAD_BLOQUES = 256
+[INFO] 05:37:51:887 Proceso MDJ/(8654:8654): MAGIC_NUMBER = FIFA
+[INFO] 05:37:51:887 Proceso MDJ/(8654:8654): -----------------------
+[INFO] 05:37:51:887 Consola MDJ/(8654:8654): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 05:37:51:901 Consola MDJ/(8654:8654): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 05:37:51:947 Consola MDJ/(8654:8654): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 05:37:51:948 Consola MDJ/(8654:8654): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 05:38:21:184 Consola MDJ/(8654:8657): Nueva conexion desde El Diego
+[INFO] 05:38:33:415 Consola MDJ/(8654:8657): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:38:33:415 Consola MDJ/(8654:8657): Validar archivo /scripts/simple.escriptorio
+[INFO] 05:38:33:455 Consola MDJ/(8654:8657): Existe el archivo /scripts/simple.escriptorio
+[INFO] 05:38:34:456 Consola MDJ/(8654:8657): Operacion OBTENER_DATOS recibida
+[INFO] 05:38:34:456 Consola MDJ/(8654:8657): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 05:38:34:518 Consola MDJ/(8654:8657): Operacion finalizada con exito
+[INFO] 05:38:35:717 Consola MDJ/(8654:8657): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:38:35:717 Consola MDJ/(8654:8657): Validar archivo /scripts/complejo.escriptorio
+[INFO] 05:38:35:717 Consola MDJ/(8654:8657): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 05:38:36:718 Consola MDJ/(8654:8657): Operacion OBTENER_DATOS recibida
+[INFO] 05:38:36:719 Consola MDJ/(8654:8657): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 05:38:36:792 Consola MDJ/(8654:8657): Operacion finalizada con exito
+[INFO] 05:40:55:705 Consola MDJ/(8654:8657): Se desconecto El Diego
+[INFO] 05:40:58:72 Proceso MDJ/(8742:8742): Inicio del proceso
+[INFO] 05:40:58:122 Proceso MDJ/(8742:8742): ---- Configuracion ----
+[INFO] 05:40:58:122 Proceso MDJ/(8742:8742): PUERTO = 8002
+[INFO] 05:40:58:123 Proceso MDJ/(8742:8742): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:40:58:123 Proceso MDJ/(8742:8742): RETARDO = 1000 milisegundos
+[INFO] 05:40:58:123 Proceso MDJ/(8742:8742): -----------------------
+[INFO] 05:40:58:123 Consola MDJ/(8742:8742): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:40:58:137 Consola MDJ/(8742:8742): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 05:40:58:160 Proceso MDJ/(8742:8742): ----- File System -----
+[INFO] 05:40:58:161 Proceso MDJ/(8742:8742): TAMANIO_BLOQUES = 64
+[INFO] 05:40:58:161 Proceso MDJ/(8742:8742): CANTIDAD_BLOQUES = 256
+[INFO] 05:40:58:161 Proceso MDJ/(8742:8742): MAGIC_NUMBER = FIFA
+[INFO] 05:40:58:161 Proceso MDJ/(8742:8742): -----------------------
+[INFO] 05:40:58:161 Consola MDJ/(8742:8742): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 05:40:58:162 Consola MDJ/(8742:8742): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 05:40:58:163 Consola MDJ/(8742:8742): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 05:40:58:163 Consola MDJ/(8742:8742): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 05:42:31:28 Consola MDJ/(8742:8745): Nueva conexion desde El Diego
+[INFO] 05:42:41:174 Consola MDJ/(8742:8745): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:42:41:174 Consola MDJ/(8742:8745): Validar archivo /scripts/simple.escriptorio
+[INFO] 05:42:41:221 Consola MDJ/(8742:8745): Existe el archivo /scripts/simple.escriptorio
+[INFO] 05:42:42:222 Consola MDJ/(8742:8745): Operacion OBTENER_DATOS recibida
+[INFO] 05:42:42:222 Consola MDJ/(8742:8745): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 05:42:42:276 Consola MDJ/(8742:8745): Operacion finalizada con exito
+[INFO] 05:42:43:503 Consola MDJ/(8742:8745): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:42:43:503 Consola MDJ/(8742:8745): Validar archivo /scripts/complejo.escriptorio
+[INFO] 05:42:43:503 Consola MDJ/(8742:8745): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 05:42:44:504 Consola MDJ/(8742:8745): Operacion OBTENER_DATOS recibida
+[INFO] 05:42:44:504 Consola MDJ/(8742:8745): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 05:42:44:541 Consola MDJ/(8742:8745): Operacion finalizada con exito
+                                                                    [INFO] 05:56:08:431 Proceso MDJ/(3774:3774): Inicio del proceso
+[INFO] 05:56:08:462 Proceso MDJ/(3774:3774): ---- Configuracion ----
+[INFO] 05:56:08:462 Proceso MDJ/(3774:3774): PUERTO = 8002
+[INFO] 05:56:08:462 Proceso MDJ/(3774:3774): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:56:08:462 Proceso MDJ/(3774:3774): RETARDO = 1000 milisegundos
+[INFO] 05:56:08:462 Proceso MDJ/(3774:3774): -----------------------
+[INFO] 05:56:08:462 Consola MDJ/(3774:3774): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:56:08:478 Consola MDJ/(3774:3774): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 05:56:08:491 Proceso MDJ/(3774:3774): ----- File System -----
+[INFO] 05:56:08:491 Proceso MDJ/(3774:3774): TAMANIO_BLOQUES = 64
+[INFO] 05:56:08:491 Proceso MDJ/(3774:3774): CANTIDAD_BLOQUES = 256
+[INFO] 05:56:08:491 Proceso MDJ/(3774:3774): MAGIC_NUMBER = FIFA
+[INFO] 05:56:08:491 Proceso MDJ/(3774:3774): -----------------------
+[INFO] 05:56:08:491 Consola MDJ/(3774:3774): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 05:56:08:491 Consola MDJ/(3774:3774): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 05:56:08:491 Consola MDJ/(3774:3774): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 05:56:08:491 Consola MDJ/(3774:3774): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 05:56:22:953 Consola MDJ/(3774:3777): Nueva conexion desde El Diego
+[INFO] 05:56:46:966 Consola MDJ/(3774:3777): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:56:46:966 Consola MDJ/(3774:3777): Validar archivo /scripts/simple.escriptorio
+[INFO] 05:56:47:17 Consola MDJ/(3774:3777): Existe el archivo /scripts/simple.escriptorio
+[INFO] 05:56:48:18 Consola MDJ/(3774:3777): Operacion OBTENER_DATOS recibida
+[INFO] 05:56:48:18 Consola MDJ/(3774:3777): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 05:56:48:71 Consola MDJ/(3774:3777): Operacion finalizada con exito
+[INFO] 05:56:49:339 Consola MDJ/(3774:3777): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 05:56:49:339 Consola MDJ/(3774:3777): Validar archivo /scripts/complejo.escriptorio
+[INFO] 05:56:49:339 Consola MDJ/(3774:3777): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 05:56:50:339 Consola MDJ/(3774:3777): Operacion OBTENER_DATOS recibida
+[INFO] 05:56:50:339 Consola MDJ/(3774:3777): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 05:56:50:376 Consola MDJ/(3774:3777): Operacion finalizada con exito
+[INFO] 05:59:38:923 Consola MDJ/(3774:3777): Se desconecto El Diego
+[INFO] 05:59:42:145 Proceso MDJ/(3857:3857): Inicio del proceso
+[INFO] 05:59:42:145 Proceso MDJ/(3857:3857): ---- Configuracion ----
+[INFO] 05:59:42:145 Proceso MDJ/(3857:3857): PUERTO = 8002
+[INFO] 05:59:42:145 Proceso MDJ/(3857:3857): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:59:42:145 Proceso MDJ/(3857:3857): RETARDO = 1000 milisegundos
+[INFO] 05:59:42:145 Proceso MDJ/(3857:3857): -----------------------
+[INFO] 05:59:42:146 Consola MDJ/(3857:3857): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 05:59:42:146 Consola MDJ/(3857:3857): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 05:59:42:146 Proceso MDJ/(3857:3857): ----- File System -----
+[INFO] 05:59:42:147 Proceso MDJ/(3857:3857): TAMANIO_BLOQUES = 64
+[INFO] 05:59:42:147 Proceso MDJ/(3857:3857): CANTIDAD_BLOQUES = 256
+[INFO] 05:59:42:147 Proceso MDJ/(3857:3857): MAGIC_NUMBER = FIFA
+[INFO] 05:59:42:147 Proceso MDJ/(3857:3857): -----------------------
+[INFO] 05:59:42:147 Consola MDJ/(3857:3857): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 05:59:42:147 Consola MDJ/(3857:3857): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 05:59:42:148 Consola MDJ/(3857:3857): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 05:59:42:148 Consola MDJ/(3857:3857): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 06:00:19:48 Consola MDJ/(3857:3860): Nueva conexion desde El Diego
+[INFO] 06:00:42:395 Consola MDJ/(3857:3860): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:00:42:395 Consola MDJ/(3857:3860): Validar archivo /scripts/complejo.escriptorioejecutar
+[INFO] 06:00:42:425 Consola MDJ/(3857:3860): No existe el archivo /scripts/complejo.escriptorioejecutar
+[INFO] 06:00:59:291 Consola MDJ/(3857:3860): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:00:59:292 Consola MDJ/(3857:3860): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:00:59:292 Consola MDJ/(3857:3860): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:01:00:308 Consola MDJ/(3857:3860): Operacion OBTENER_DATOS recibida
+[INFO] 06:01:00:308 Consola MDJ/(3857:3860): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:01:00:308 Consola MDJ/(3857:3860): Operacion finalizada con exito
+[INFO] 06:01:01:532 Consola MDJ/(3857:3860): Operacion CREAR_ARCHIVO recibida
+[INFO] 06:01:01:532 Consola MDJ/(3857:3860): Crear archivo /equipos/Rafaela de 5 lineas
+[INFO] 06:01:01:532 Consola MDJ/(3857:3860): El archivo ocupa 1 bloques
+[INFO] 06:01:01:532 Consola MDJ/(3857:3860): Se creo el bloque 4.bin
+[INFO] 06:01:01:532 Consola MDJ/(3857:3860): Se actualizo el bit 4 del bitmap
+[INFO] 06:01:01:547 Consola MDJ/(3857:3860): Se creo el archivo /equipos/Rafaela
+[INFO] 06:01:01:547 Consola MDJ/(3857:3860): Operacion finalizada con exito
+[INFO] 06:01:02:591 Consola MDJ/(3857:3860): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:01:02:591 Consola MDJ/(3857:3860): Validar archivo /equipos/Rafaela
+[INFO] 06:01:02:592 Consola MDJ/(3857:3860): Existe el archivo /equipos/Rafaela
+[INFO] 06:01:03:592 Consola MDJ/(3857:3860): Operacion OBTENER_DATOS recibida
+[INFO] 06:01:03:592 Consola MDJ/(3857:3860): Obtener datos del archivo /equipos/Rafaela desde el byte 0 y largo -1
+[INFO] 06:01:03:592 Consola MDJ/(3857:3860): Operacion finalizada con exito
+[INFO] 06:01:05:66 Consola MDJ/(3857:3860): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:01:05:66 Consola MDJ/(3857:3860): Validar archivo /equipos/Rafaela
+[INFO] 06:01:05:66 Consola MDJ/(3857:3860): Existe el archivo /equipos/Rafaela
+[INFO] 06:02:13:96 Consola MDJ/(3857:3860): Se desconecto El Diego
+[INFO] 06:02:23:767 Proceso MDJ/(3948:3948): Inicio del proceso
+[INFO] 06:02:23:767 Proceso MDJ/(3948:3948): ---- Configuracion ----
+[INFO] 06:02:23:768 Proceso MDJ/(3948:3948): PUERTO = 8002
+[INFO] 06:02:23:768 Proceso MDJ/(3948:3948): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:02:23:768 Proceso MDJ/(3948:3948): RETARDO = 1000 milisegundos
+[INFO] 06:02:23:768 Proceso MDJ/(3948:3948): -----------------------
+[INFO] 06:02:23:768 Consola MDJ/(3948:3948): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:02:23:768 Consola MDJ/(3948:3948): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 06:02:23:768 Proceso MDJ/(3948:3948): ----- File System -----
+[INFO] 06:02:23:768 Proceso MDJ/(3948:3948): TAMANIO_BLOQUES = 64
+[INFO] 06:02:23:768 Proceso MDJ/(3948:3948): CANTIDAD_BLOQUES = 256
+[INFO] 06:02:23:768 Proceso MDJ/(3948:3948): MAGIC_NUMBER = FIFA
+[INFO] 06:02:23:768 Proceso MDJ/(3948:3948): -----------------------
+[INFO] 06:02:23:768 Consola MDJ/(3948:3948): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 06:02:23:768 Consola MDJ/(3948:3948): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 06:02:23:769 Consola MDJ/(3948:3948): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 06:02:23:770 Consola MDJ/(3948:3948): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 06:02:26:392 Consola MDJ/(3948:3951): Nueva conexion desde El Diego
+[INFO] 06:02:39:612 Consola MDJ/(3948:3951): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:02:39:612 Consola MDJ/(3948:3951): Validar archivo /scripts/simple.escriptorio
+[INFO] 06:02:39:612 Consola MDJ/(3948:3951): Existe el archivo /scripts/simple.escriptorio
+[INFO] 06:02:40:613 Consola MDJ/(3948:3951): Operacion OBTENER_DATOS recibida
+[INFO] 06:02:40:613 Consola MDJ/(3948:3951): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 06:02:40:642 Consola MDJ/(3948:3951): Operacion finalizada con exito
+[INFO] 06:02:42:5 Consola MDJ/(3948:3951): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:02:42:5 Consola MDJ/(3948:3951): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:02:42:35 Consola MDJ/(3948:3951): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:02:43:35 Consola MDJ/(3948:3951): Operacion OBTENER_DATOS recibida
+[INFO] 06:02:43:35 Consola MDJ/(3948:3951): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:02:43:71 Consola MDJ/(3948:3951): Operacion finalizada con exito
+[INFO] 06:05:57:693 Consola MDJ/(3948:3951): Se desconecto El Diego
+[INFO] 06:06:08:196 Proceso MDJ/(4089:4089): Inicio del proceso
+[INFO] 06:06:08:204 Proceso MDJ/(4089:4089): ---- Configuracion ----
+[INFO] 06:06:08:204 Proceso MDJ/(4089:4089): PUERTO = 8002
+[INFO] 06:06:08:204 Proceso MDJ/(4089:4089): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:06:08:204 Proceso MDJ/(4089:4089): RETARDO = 1000 milisegundos
+[INFO] 06:06:08:204 Proceso MDJ/(4089:4089): -----------------------
+[INFO] 06:06:08:204 Consola MDJ/(4089:4089): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:06:08:204 Consola MDJ/(4089:4089): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 06:06:08:225 Proceso MDJ/(4089:4089): ----- File System -----
+[INFO] 06:06:08:225 Proceso MDJ/(4089:4089): TAMANIO_BLOQUES = 64
+[INFO] 06:06:08:225 Proceso MDJ/(4089:4089): CANTIDAD_BLOQUES = 256
+[INFO] 06:06:08:225 Proceso MDJ/(4089:4089): MAGIC_NUMBER = FIFA
+[INFO] 06:06:08:226 Proceso MDJ/(4089:4089): -----------------------
+[INFO] 06:06:08:226 Consola MDJ/(4089:4089): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 06:06:08:237 Consola MDJ/(4089:4089): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 06:06:08:237 Consola MDJ/(4089:4089): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 06:06:08:237 Consola MDJ/(4089:4089): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 06:06:12:87 Consola MDJ/(4089:4092): Nueva conexion desde El Diego
+[INFO] 06:06:39:970 Consola MDJ/(4089:4092): Se desconecto El Diego
+[INFO] 06:06:41:918 Proceso MDJ/(4112:4112): Inicio del proceso
+[INFO] 06:06:41:918 Proceso MDJ/(4112:4112): ---- Configuracion ----
+[INFO] 06:06:41:918 Proceso MDJ/(4112:4112): PUERTO = 8002
+[INFO] 06:06:41:918 Proceso MDJ/(4112:4112): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:06:41:918 Proceso MDJ/(4112:4112): RETARDO = 1000 milisegundos
+[INFO] 06:06:41:919 Proceso MDJ/(4112:4112): -----------------------
+[INFO] 06:06:41:919 Consola MDJ/(4112:4112): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:06:41:919 Consola MDJ/(4112:4112): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 06:06:41:919 Proceso MDJ/(4112:4112): ----- File System -----
+[INFO] 06:06:41:919 Proceso MDJ/(4112:4112): TAMANIO_BLOQUES = 64
+[INFO] 06:06:41:919 Proceso MDJ/(4112:4112): CANTIDAD_BLOQUES = 256
+[INFO] 06:06:41:919 Proceso MDJ/(4112:4112): MAGIC_NUMBER = FIFA
+[INFO] 06:06:41:919 Proceso MDJ/(4112:4112): -----------------------
+[INFO] 06:06:41:919 Consola MDJ/(4112:4112): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 06:06:41:919 Consola MDJ/(4112:4112): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 06:06:41:920 Consola MDJ/(4112:4112): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 06:06:41:920 Consola MDJ/(4112:4112): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 06:06:50:763 Consola MDJ/(4112:4115): Nueva conexion desde El Diego
+[INFO] 06:07:00:856 Consola MDJ/(4112:4115): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:07:00:856 Consola MDJ/(4112:4115): Validar archivo /scripts/simple.escriptorio
+[INFO] 06:07:00:876 Consola MDJ/(4112:4115): Existe el archivo /scripts/simple.escriptorio
+[INFO] 06:07:01:877 Consola MDJ/(4112:4115): Operacion OBTENER_DATOS recibida
+[INFO] 06:07:01:877 Consola MDJ/(4112:4115): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 06:07:01:901 Consola MDJ/(4112:4115): Operacion finalizada con exito
+[INFO] 06:07:03:141 Consola MDJ/(4112:4115): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:07:03:141 Consola MDJ/(4112:4115): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:07:03:141 Consola MDJ/(4112:4115): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:07:04:142 Consola MDJ/(4112:4115): Operacion OBTENER_DATOS recibida
+[INFO] 06:07:04:142 Consola MDJ/(4112:4115): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:07:04:169 Consola MDJ/(4112:4115): Operacion finalizada con exito
+[INFO] 06:08:11:95 Consola MDJ/(4112:4115): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:08:11:95 Consola MDJ/(4112:4115): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:08:11:95 Consola MDJ/(4112:4115): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:08:12:96 Consola MDJ/(4112:4115): Operacion OBTENER_DATOS recibida
+[INFO] 06:08:12:96 Consola MDJ/(4112:4115): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:08:12:96 Consola MDJ/(4112:4115): Operacion finalizada con exito
+[INFO] 06:08:13:253 Consola MDJ/(4112:4115): Operacion CREAR_ARCHIVO recibida
+[INFO] 06:08:13:253 Consola MDJ/(4112:4115): Crear archivo /equipos/Rafaela de 5 lineas
+[INFO] 06:08:13:253 Consola MDJ/(4112:4115): El archivo ocupa 1 bloques
+[INFO] 06:08:13:253 Consola MDJ/(4112:4115): Se creo el bloque 5.bin
+[INFO] 06:08:13:253 Consola MDJ/(4112:4115): Se actualizo el bit 5 del bitmap
+[INFO] 06:08:13:264 Consola MDJ/(4112:4115): Se creo el archivo /equipos/Rafaela
+[INFO] 06:08:13:264 Consola MDJ/(4112:4115): Operacion finalizada con exito
+[INFO] 06:08:14:349 Consola MDJ/(4112:4115): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:08:14:349 Consola MDJ/(4112:4115): Validar archivo /equipos/Rafaela
+[INFO] 06:08:14:349 Consola MDJ/(4112:4115): Existe el archivo /equipos/Rafaela
+[INFO] 06:08:15:349 Consola MDJ/(4112:4115): Operacion OBTENER_DATOS recibida
+[INFO] 06:08:15:349 Consola MDJ/(4112:4115): Obtener datos del archivo /equipos/Rafaela desde el byte 0 y largo -1
+[INFO] 06:08:15:349 Consola MDJ/(4112:4115): Operacion finalizada con exito
+[INFO] 06:08:16:844 Consola MDJ/(4112:4115): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:08:16:844 Consola MDJ/(4112:4115): Validar archivo /equipos/Rafaela
+[INFO] 06:08:16:844 Consola MDJ/(4112:4115): Existe el archivo /equipos/Rafaela
+[INFO] 06:08:55:492 Consola MDJ/(4112:4115): Se desconecto El Diego
+[INFO] 06:14:29:150 Proceso MDJ/(4415:4415): Inicio del proceso
+[INFO] 06:14:29:190 Proceso MDJ/(4415:4415): ---- Configuracion ----
+[INFO] 06:14:29:190 Proceso MDJ/(4415:4415): PUERTO = 8002
+[INFO] 06:14:29:190 Proceso MDJ/(4415:4415): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:14:29:190 Proceso MDJ/(4415:4415): RETARDO = 1000 milisegundos
+[INFO] 06:14:29:190 Proceso MDJ/(4415:4415): -----------------------
+[INFO] 06:14:29:191 Consola MDJ/(4415:4415): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:14:29:191 Consola MDJ/(4415:4415): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 06:14:29:192 Proceso MDJ/(4415:4415): ----- File System -----
+[INFO] 06:14:29:192 Proceso MDJ/(4415:4415): TAMANIO_BLOQUES = 64
+[INFO] 06:14:29:192 Proceso MDJ/(4415:4415): CANTIDAD_BLOQUES = 256
+[INFO] 06:14:29:192 Proceso MDJ/(4415:4415): MAGIC_NUMBER = FIFA
+[INFO] 06:14:29:192 Proceso MDJ/(4415:4415): -----------------------
+[INFO] 06:14:29:193 Consola MDJ/(4415:4415): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 06:14:29:194 Consola MDJ/(4415:4415): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 06:14:29:194 Consola MDJ/(4415:4415): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 06:14:29:194 Consola MDJ/(4415:4415): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 06:14:31:532 Consola MDJ/(4415:4418): Nueva conexion desde El Diego
+[INFO] 06:14:44:583 Consola MDJ/(4415:4418): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:14:44:583 Consola MDJ/(4415:4418): Validar archivo /scripts/simple.escriptorio
+[INFO] 06:14:44:583 Consola MDJ/(4415:4418): Existe el archivo /scripts/simple.escriptorio
+[INFO] 06:14:45:583 Consola MDJ/(4415:4418): Operacion OBTENER_DATOS recibida
+[INFO] 06:14:45:583 Consola MDJ/(4415:4418): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 06:14:45:615 Consola MDJ/(4415:4418): Operacion finalizada con exito
+[INFO] 06:14:46:777 Consola MDJ/(4415:4418): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:14:46:777 Consola MDJ/(4415:4418): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:14:46:777 Consola MDJ/(4415:4418): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:14:47:777 Consola MDJ/(4415:4418): Operacion OBTENER_DATOS recibida
+[INFO] 06:14:47:777 Consola MDJ/(4415:4418): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:14:47:812 Consola MDJ/(4415:4418): Operacion finalizada con exito
+[INFO] 06:15:03:959 Consola MDJ/(4415:4418): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:15:03:959 Consola MDJ/(4415:4418): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:15:03:959 Consola MDJ/(4415:4418): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:15:04:960 Consola MDJ/(4415:4418): Operacion OBTENER_DATOS recibida
+[INFO] 06:15:04:960 Consola MDJ/(4415:4418): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:15:04:961 Consola MDJ/(4415:4418): Operacion finalizada con exito
+[INFO] 06:15:06:120 Consola MDJ/(4415:4418): Operacion CREAR_ARCHIVO recibida
+[INFO] 06:15:06:120 Consola MDJ/(4415:4418): Crear archivo /equipos/Rafaela de 5 lineas
+[INFO] 06:15:06:120 Consola MDJ/(4415:4418): El archivo ocupa 1 bloques
+[INFO] 06:15:06:121 Consola MDJ/(4415:4418): Se creo el bloque 6.bin
+[INFO] 06:15:06:121 Consola MDJ/(4415:4418): Se actualizo el bit 6 del bitmap
+[INFO] 06:15:06:121 Consola MDJ/(4415:4418): Se creo el archivo /equipos/Rafaela
+[INFO] 06:15:06:121 Consola MDJ/(4415:4418): Operacion finalizada con exito
+[INFO] 06:15:07:165 Consola MDJ/(4415:4418): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:15:07:165 Consola MDJ/(4415:4418): Validar archivo /equipos/Rafaela
+[INFO] 06:15:07:165 Consola MDJ/(4415:4418): Existe el archivo /equipos/Rafaela
+[INFO] 06:15:08:165 Consola MDJ/(4415:4418): Operacion OBTENER_DATOS recibida
+[INFO] 06:15:08:166 Consola MDJ/(4415:4418): Obtener datos del archivo /equipos/Rafaela desde el byte 0 y largo -1
+[INFO] 06:15:08:166 Consola MDJ/(4415:4418): Operacion finalizada con exito
+[INFO] 06:15:09:644 Consola MDJ/(4415:4418): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:15:09:644 Consola MDJ/(4415:4418): Validar archivo /equipos/Rafaela
+[INFO] 06:15:09:644 Consola MDJ/(4415:4418): Existe el archivo /equipos/Rafaela
+[INFO] 06:16:10:224 Consola MDJ/(4415:4418): Se desconecto El Diego
+[INFO] 06:16:41:698 Proceso MDJ/(4561:4561): Inicio del proceso
+[INFO] 06:16:41:735 Proceso MDJ/(4561:4561): ---- Configuracion ----
+[INFO] 06:16:41:735 Proceso MDJ/(4561:4561): PUERTO = 8002
+[INFO] 06:16:41:735 Proceso MDJ/(4561:4561): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:16:41:735 Proceso MDJ/(4561:4561): RETARDO = 1000 milisegundos
+[INFO] 06:16:41:735 Proceso MDJ/(4561:4561): -----------------------
+[INFO] 06:16:41:735 Consola MDJ/(4561:4561): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:16:41:747 Consola MDJ/(4561:4561): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 06:16:41:764 Proceso MDJ/(4561:4561): ----- File System -----
+[INFO] 06:16:41:764 Proceso MDJ/(4561:4561): TAMANIO_BLOQUES = 64
+[INFO] 06:16:41:764 Proceso MDJ/(4561:4561): CANTIDAD_BLOQUES = 256
+[INFO] 06:16:41:764 Proceso MDJ/(4561:4561): MAGIC_NUMBER = FIFA
+[INFO] 06:16:41:764 Proceso MDJ/(4561:4561): -----------------------
+[INFO] 06:16:41:764 Consola MDJ/(4561:4561): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 06:16:41:765 Consola MDJ/(4561:4561): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 06:16:41:765 Consola MDJ/(4561:4561): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 06:16:41:765 Consola MDJ/(4561:4561): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 06:16:45:205 Consola MDJ/(4561:4564): Nueva conexion desde El Diego
+[INFO] 06:16:59:552 Consola MDJ/(4561:4564): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:16:59:552 Consola MDJ/(4561:4564): Validar archivo /scripts/simple.escriptorio
+[INFO] 06:16:59:564 Consola MDJ/(4561:4564): Existe el archivo /scripts/simple.escriptorio
+[INFO] 06:17:00:564 Consola MDJ/(4561:4564): Operacion OBTENER_DATOS recibida
+[INFO] 06:17:00:564 Consola MDJ/(4561:4564): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 06:17:00:594 Consola MDJ/(4561:4564): Operacion finalizada con exito
+[INFO] 06:17:01:753 Consola MDJ/(4561:4564): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:17:01:753 Consola MDJ/(4561:4564): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:17:01:753 Consola MDJ/(4561:4564): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:17:02:753 Consola MDJ/(4561:4564): Operacion OBTENER_DATOS recibida
+[INFO] 06:17:02:753 Consola MDJ/(4561:4564): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:17:02:753 Consola MDJ/(4561:4564): Operacion finalizada con exito
+[INFO] 06:17:16:119 Consola MDJ/(4561:4564): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:17:16:119 Consola MDJ/(4561:4564): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:17:16:119 Consola MDJ/(4561:4564): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:17:17:120 Consola MDJ/(4561:4564): Operacion OBTENER_DATOS recibida
+[INFO] 06:17:17:120 Consola MDJ/(4561:4564): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:17:17:120 Consola MDJ/(4561:4564): Operacion finalizada con exito
+[INFO] 06:17:18:280 Consola MDJ/(4561:4564): Operacion CREAR_ARCHIVO recibida
+[INFO] 06:17:18:280 Consola MDJ/(4561:4564): Crear archivo /equipos/Rafaela de 5 lineas
+[INFO] 06:17:18:280 Consola MDJ/(4561:4564): El archivo ocupa 1 bloques
+[INFO] 06:17:18:357 Consola MDJ/(4561:4564): Se creo el bloque 7.bin
+[INFO] 06:17:18:357 Consola MDJ/(4561:4564): Se actualizo el bit 7 del bitmap
+[INFO] 06:17:18:357 Consola MDJ/(4561:4564): Se creo el archivo /equipos/Rafaela
+[INFO] 06:17:18:357 Consola MDJ/(4561:4564): Operacion finalizada con exito
+[INFO] 06:17:19:397 Consola MDJ/(4561:4564): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:17:19:397 Consola MDJ/(4561:4564): Validar archivo /equipos/Rafaela
+[INFO] 06:17:19:397 Consola MDJ/(4561:4564): Existe el archivo /equipos/Rafaela
+[INFO] 06:17:20:397 Consola MDJ/(4561:4564): Operacion OBTENER_DATOS recibida
+[INFO] 06:17:20:397 Consola MDJ/(4561:4564): Obtener datos del archivo /equipos/Rafaela desde el byte 0 y largo -1
+[INFO] 06:17:20:397 Consola MDJ/(4561:4564): Operacion finalizada con exito
+[INFO] 06:17:21:876 Consola MDJ/(4561:4564): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:17:21:876 Consola MDJ/(4561:4564): Validar archivo /equipos/Rafaela
+[INFO] 06:17:21:876 Consola MDJ/(4561:4564): Existe el archivo /equipos/Rafaela
+[INFO] 06:18:46:780 Consola MDJ/(4561:4564): Se desconecto El Diego
+[INFO] 06:19:23:298 Proceso MDJ/(4640:4640): Inicio del proceso
+[INFO] 06:19:23:298 Proceso MDJ/(4640:4640): ---- Configuracion ----
+[INFO] 06:19:23:298 Proceso MDJ/(4640:4640): PUERTO = 8002
+[INFO] 06:19:23:299 Proceso MDJ/(4640:4640): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:19:23:299 Proceso MDJ/(4640:4640): RETARDO = 1000 milisegundos
+[INFO] 06:19:23:299 Proceso MDJ/(4640:4640): -----------------------
+[INFO] 06:19:23:299 Consola MDJ/(4640:4640): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:19:23:299 Consola MDJ/(4640:4640): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 06:19:23:308 Proceso MDJ/(4640:4640): ----- File System -----
+[INFO] 06:19:23:308 Proceso MDJ/(4640:4640): TAMANIO_BLOQUES = 64
+[INFO] 06:19:23:308 Proceso MDJ/(4640:4640): CANTIDAD_BLOQUES = 256
+[INFO] 06:19:23:308 Proceso MDJ/(4640:4640): MAGIC_NUMBER = FIFA
+[INFO] 06:19:23:308 Proceso MDJ/(4640:4640): -----------------------
+[INFO] 06:19:23:308 Consola MDJ/(4640:4640): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 06:19:23:322 Consola MDJ/(4640:4640): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 06:19:23:322 Consola MDJ/(4640:4640): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 06:19:23:322 Consola MDJ/(4640:4640): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 06:19:25:43 Consola MDJ/(4640:4643): Nueva conexion desde El Diego
+[INFO] 06:19:36:927 Consola MDJ/(4640:4643): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:19:36:927 Consola MDJ/(4640:4643): Validar archivo /scripts/simple.escriptorio
+[INFO] 06:19:36:959 Consola MDJ/(4640:4643): Existe el archivo /scripts/simple.escriptorio
+[INFO] 06:19:37:959 Consola MDJ/(4640:4643): Operacion OBTENER_DATOS recibida
+[INFO] 06:19:37:960 Consola MDJ/(4640:4643): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 06:19:38:71 Consola MDJ/(4640:4643): Operacion finalizada con exito
+[INFO] 06:19:39:232 Consola MDJ/(4640:4643): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:19:39:232 Consola MDJ/(4640:4643): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:19:39:232 Consola MDJ/(4640:4643): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:19:40:233 Consola MDJ/(4640:4643): Operacion OBTENER_DATOS recibida
+[INFO] 06:19:40:233 Consola MDJ/(4640:4643): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:19:40:268 Consola MDJ/(4640:4643): Operacion finalizada con exito
+[INFO] 06:19:51:248 Consola MDJ/(4640:4643): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:19:51:248 Consola MDJ/(4640:4643): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:19:51:248 Consola MDJ/(4640:4643): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:19:52:248 Consola MDJ/(4640:4643): Operacion OBTENER_DATOS recibida
+[INFO] 06:19:52:248 Consola MDJ/(4640:4643): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:19:52:248 Consola MDJ/(4640:4643): Operacion finalizada con exito
+[INFO] 06:19:53:408 Consola MDJ/(4640:4643): Operacion CREAR_ARCHIVO recibida
+[INFO] 06:19:53:408 Consola MDJ/(4640:4643): Crear archivo /equipos/Rafaela de 5 lineas
+[INFO] 06:19:53:408 Consola MDJ/(4640:4643): El archivo ocupa 1 bloques
+[INFO] 06:19:53:408 Consola MDJ/(4640:4643): Se creo el bloque 8.bin
+[INFO] 06:19:53:408 Consola MDJ/(4640:4643): Se actualizo el bit 8 del bitmap
+[INFO] 06:19:53:420 Consola MDJ/(4640:4643): Se creo el archivo /equipos/Rafaela
+[INFO] 06:19:53:420 Consola MDJ/(4640:4643): Operacion finalizada con exito
+[INFO] 06:19:54:461 Consola MDJ/(4640:4643): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:19:54:461 Consola MDJ/(4640:4643): Validar archivo /equipos/Rafaela
+[INFO] 06:19:54:461 Consola MDJ/(4640:4643): Existe el archivo /equipos/Rafaela
+[INFO] 06:19:55:461 Consola MDJ/(4640:4643): Operacion OBTENER_DATOS recibida
+[INFO] 06:19:55:461 Consola MDJ/(4640:4643): Obtener datos del archivo /equipos/Rafaela desde el byte 0 y largo -1
+[INFO] 06:19:55:461 Consola MDJ/(4640:4643): Operacion finalizada con exito
+[INFO] 06:19:56:948 Consola MDJ/(4640:4643): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:19:56:948 Consola MDJ/(4640:4643): Validar archivo /equipos/Rafaela
+[INFO] 06:19:56:948 Consola MDJ/(4640:4643): Existe el archivo /equipos/Rafaela
+[INFO] 06:19:57:987 Consola MDJ/(4640:4643): Operacion GUARDAR_DATOS recibida
+[INFO] 06:19:57:987 Consola MDJ/(4640:4643): Guardar Atle(
+ncuentra en memoria
+Prom El segmento se encuentra en memoriaX
+987 Proceso FM9/(4636:4636): El segmento se encuentra en memoria~
+~
+ se encuentra en memoria
+ en el archivo /equipos/Rafaela desde el byte 0 y largo 0
+[INFO] 06:19:57:988 Consola MDJ/(4640:4643): Se elimino el archivo original
+[INFO] 06:19:57:988 Consola MDJ/(4640:4643): El archivo modificado ocupa 3 bloques
+[INFO] 06:19:57:988 Consola MDJ/(4640:4643): Se creo el bloque 8.bin
+[INFO] 06:19:57:988 Consola MDJ/(4640:4643): Se actualizo el bit 8 del bitmap
+[INFO] 06:19:57:988 Consola MDJ/(4640:4643): Se creo el bloque 9.bin
+[INFO] 06:19:57:988 Consola MDJ/(4640:4643): Se actualizo el bit 9 del bitmap
+[INFO] 06:19:57:988 Consola MDJ/(4640:4643): Se creo el bloque 10.bin
+[INFO] 06:19:57:988 Consola MDJ/(4640:4643): Se actualizo el bit 10 del bitmap
+[INFO] 06:19:57:988 Consola MDJ/(4640:4643): Se modifico el archivo /equipos/Rafaela
+[INFO] 06:19:57:988 Consola MDJ/(4640:4643): Operacion finalizada con exito
+[INFO] 06:23:00:547 Consola MDJ/(4640:4643): Se desconecto El Diego
+[INFO] 06:23:11:373 Proceso MDJ/(4724:4724): Inicio del proceso
+[INFO] 06:23:11:373 Proceso MDJ/(4724:4724): ---- Configuracion ----
+[INFO] 06:23:11:373 Proceso MDJ/(4724:4724): PUERTO = 8002
+[INFO] 06:23:11:373 Proceso MDJ/(4724:4724): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:23:11:373 Proceso MDJ/(4724:4724): RETARDO = 1000 milisegundos
+[INFO] 06:23:11:373 Proceso MDJ/(4724:4724): -----------------------
+[INFO] 06:23:11:373 Consola MDJ/(4724:4724): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:23:11:374 Consola MDJ/(4724:4724): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 06:23:11:374 Proceso MDJ/(4724:4724): ----- File System -----
+[INFO] 06:23:11:374 Proceso MDJ/(4724:4724): TAMANIO_BLOQUES = 64
+[INFO] 06:23:11:374 Proceso MDJ/(4724:4724): CANTIDAD_BLOQUES = 256
+[INFO] 06:23:11:374 Proceso MDJ/(4724:4724): MAGIC_NUMBER = FIFA
+[INFO] 06:23:11:375 Proceso MDJ/(4724:4724): -----------------------
+[INFO] 06:23:11:375 Consola MDJ/(4724:4724): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 06:23:11:375 Consola MDJ/(4724:4724): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 06:23:11:375 Consola MDJ/(4724:4724): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 06:23:11:375 Consola MDJ/(4724:4724): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 06:23:12:743 Consola MDJ/(4724:4727): Nueva conexion desde El Diego
+[INFO] 06:23:26:85 Consola MDJ/(4724:4727): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:23:26:85 Consola MDJ/(4724:4727): Validar archivo /scripts/simple.escriptorio
+[INFO] 06:23:26:85 Consola MDJ/(4724:4727): Existe el archivo /scripts/simple.escriptorio
+[INFO] 06:23:27:86 Consola MDJ/(4724:4727): Operacion OBTENER_DATOS recibida
+[INFO] 06:23:27:86 Consola MDJ/(4724:4727): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 06:23:27:86 Consola MDJ/(4724:4727): Operacion finalizada con exito
+[INFO] 06:23:28:270 Consola MDJ/(4724:4727): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:23:28:270 Consola MDJ/(4724:4727): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:23:28:270 Consola MDJ/(4724:4727): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:23:29:271 Consola MDJ/(4724:4727): Operacion OBTENER_DATOS recibida
+[INFO] 06:23:29:271 Consola MDJ/(4724:4727): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:23:29:271 Consola MDJ/(4724:4727): Operacion finalizada con exito
+[INFO] 06:24:33:173 Consola MDJ/(4724:4727): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:24:33:173 Consola MDJ/(4724:4727): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:24:33:173 Consola MDJ/(4724:4727): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:24:34:173 Consola MDJ/(4724:4727): Operacion OBTENER_DATOS recibida
+[INFO] 06:24:34:173 Consola MDJ/(4724:4727): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:24:34:173 Consola MDJ/(4724:4727): Operacion finalizada con exito
+[INFO] 06:24:35:336 Consola MDJ/(4724:4727): Operacion CREAR_ARCHIVO recibida
+[INFO] 06:24:35:336 Consola MDJ/(4724:4727): Crear archivo /equipos/Rafaela de 5 lineas
+[INFO] 06:24:35:336 Consola MDJ/(4724:4727): El archivo ocupa 1 bloques
+[INFO] 06:24:35:365 Consola MDJ/(4724:4727): Se creo el bloque 11.bin
+[INFO] 06:24:35:365 Consola MDJ/(4724:4727): Se actualizo el bit 11 del bitmap
+[INFO] 06:24:35:365 Consola MDJ/(4724:4727): Se creo el archivo /equipos/Rafaela
+[INFO] 06:24:35:365 Consola MDJ/(4724:4727): Operacion finalizada con exito
+[INFO] 06:24:36:422 Consola MDJ/(4724:4727): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:24:36:422 Consola MDJ/(4724:4727): Validar archivo /equipos/Rafaela
+[INFO] 06:24:36:422 Consola MDJ/(4724:4727): Existe el archivo /equipos/Rafaela
+[INFO] 06:24:37:423 Consola MDJ/(4724:4727): Operacion OBTENER_DATOS recibida
+[INFO] 06:24:37:423 Consola MDJ/(4724:4727): Obtener datos del archivo /equipos/Rafaela desde el byte 0 y largo -1
+[INFO] 06:24:37:423 Consola MDJ/(4724:4727): Operacion finalizada con exito
+[INFO] 06:24:38:941 Consola MDJ/(4724:4727): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:24:38:941 Consola MDJ/(4724:4727): Validar archivo /equipos/Rafaela
+[INFO] 06:24:38:941 Consola MDJ/(4724:4727): Existe el archivo /equipos/Rafaela
+[INFO] 06:30:49:802 Consola MDJ/(4724:4727): Se desconecto El Diego
+[INFO] 06:31:03:368 Proceso MDJ/(4875:4875): Inicio del proceso
+[INFO] 06:31:03:378 Proceso MDJ/(4875:4875): ---- Configuracion ----
+[INFO] 06:31:03:378 Proceso MDJ/(4875:4875): PUERTO = 8002
+[INFO] 06:31:03:378 Proceso MDJ/(4875:4875): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:31:03:378 Proceso MDJ/(4875:4875): RETARDO = 1000 milisegundos
+[INFO] 06:31:03:378 Proceso MDJ/(4875:4875): -----------------------
+[INFO] 06:31:03:395 Consola MDJ/(4875:4875): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:31:03:415 Consola MDJ/(4875:4875): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 06:31:03:429 Proceso MDJ/(4875:4875): ----- File System -----
+[INFO] 06:31:03:430 Proceso MDJ/(4875:4875): TAMANIO_BLOQUES = 64
+[INFO] 06:31:03:430 Proceso MDJ/(4875:4875): CANTIDAD_BLOQUES = 256
+[INFO] 06:31:03:430 Proceso MDJ/(4875:4875): MAGIC_NUMBER = FIFA
+[INFO] 06:31:03:430 Proceso MDJ/(4875:4875): -----------------------
+[INFO] 06:31:03:430 Consola MDJ/(4875:4875): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 06:31:03:430 Consola MDJ/(4875:4875): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 06:31:03:439 Consola MDJ/(4875:4875): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 06:31:03:439 Consola MDJ/(4875:4875): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 06:31:05:451 Consola MDJ/(4875:4878): Nueva conexion desde El Diego
+[INFO] 06:31:34:308 Consola MDJ/(4875:4878): Se desconecto El Diego
+[INFO] 06:31:36:766 Proceso MDJ/(4897:4897): Inicio del proceso
+[INFO] 06:31:36:776 Proceso MDJ/(4897:4897): ---- Configuracion ----
+[INFO] 06:31:36:778 Proceso MDJ/(4897:4897): PUERTO = 8002
+[INFO] 06:31:36:778 Proceso MDJ/(4897:4897): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:31:36:778 Proceso MDJ/(4897:4897): RETARDO = 1000 milisegundos
+[INFO] 06:31:36:778 Proceso MDJ/(4897:4897): -----------------------
+[INFO] 06:31:36:778 Consola MDJ/(4897:4897): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:31:36:778 Consola MDJ/(4897:4897): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 06:31:36:789 Proceso MDJ/(4897:4897): ----- File System -----
+[INFO] 06:31:36:789 Proceso MDJ/(4897:4897): TAMANIO_BLOQUES = 64
+[INFO] 06:31:36:789 Proceso MDJ/(4897:4897): CANTIDAD_BLOQUES = 256
+[INFO] 06:31:36:789 Proceso MDJ/(4897:4897): MAGIC_NUMBER = FIFA
+[INFO] 06:31:36:789 Proceso MDJ/(4897:4897): -----------------------
+[INFO] 06:31:36:789 Consola MDJ/(4897:4897): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 06:31:36:796 Consola MDJ/(4897:4897): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 06:31:36:796 Consola MDJ/(4897:4897): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 06:31:36:796 Consola MDJ/(4897:4897): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 06:31:40:245 Consola MDJ/(4897:4900): Nueva conexion desde El Diego
+[INFO] 06:31:53:690 Consola MDJ/(4897:4900): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:31:53:690 Consola MDJ/(4897:4900): Validar archivo /scripts/simple.escriptorio
+[INFO] 06:31:53:724 Consola MDJ/(4897:4900): Existe el archivo /scripts/simple.escriptorio
+[INFO] 06:31:54:724 Consola MDJ/(4897:4900): Operacion OBTENER_DATOS recibida
+[INFO] 06:31:54:724 Consola MDJ/(4897:4900): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 06:31:54:761 Consola MDJ/(4897:4900): Operacion finalizada con exito
+[INFO] 06:31:55:986 Consola MDJ/(4897:4900): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:31:55:986 Consola MDJ/(4897:4900): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:31:55:986 Consola MDJ/(4897:4900): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:31:56:986 Consola MDJ/(4897:4900): Operacion OBTENER_DATOS recibida
+[INFO] 06:31:56:986 Consola MDJ/(4897:4900): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:31:57:15 Consola MDJ/(4897:4900): Operacion finalizada con exito
+[INFO] 06:32:28:855 Consola MDJ/(4897:4900): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:32:28:855 Consola MDJ/(4897:4900): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:32:28:855 Consola MDJ/(4897:4900): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:32:29:859 Consola MDJ/(4897:4900): Operacion OBTENER_DATOS recibida
+[INFO] 06:32:29:859 Consola MDJ/(4897:4900): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:32:29:860 Consola MDJ/(4897:4900): Operacion finalizada con exito
+[INFO] 06:32:31:37 Consola MDJ/(4897:4900): Operacion CREAR_ARCHIVO recibida
+[INFO] 06:32:31:37 Consola MDJ/(4897:4900): Crear archivo /equipos/Rafaela de 5 lineas
+[INFO] 06:32:31:37 Consola MDJ/(4897:4900): El archivo ocupa 1 bloques
+[INFO] 06:32:31:52 Consola MDJ/(4897:4900): Se creo el bloque 13.bin
+[INFO] 06:32:31:52 Consola MDJ/(4897:4900): Se actualizo el bit 13 del bitmap
+[INFO] 06:32:31:59 Consola MDJ/(4897:4900): Se creo el archivo /equipos/Rafaela
+[INFO] 06:32:31:59 Consola MDJ/(4897:4900): Operacion finalizada con exito
+[INFO] 06:32:32:109 Consola MDJ/(4897:4900): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:32:32:109 Consola MDJ/(4897:4900): Validar archivo /equipos/Rafaela
+[INFO] 06:32:32:109 Consola MDJ/(4897:4900): Existe el archivo /equipos/Rafaela
+[INFO] 06:32:33:110 Consola MDJ/(4897:4900): Operacion OBTENER_DATOS recibida
+[INFO] 06:32:33:110 Consola MDJ/(4897:4900): Obtener datos del archivo /equipos/Rafaela desde el byte 0 y largo -1
+[INFO] 06:32:33:110 Consola MDJ/(4897:4900): Operacion finalizada con exito
+[INFO] 06:32:34:607 Consola MDJ/(4897:4900): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:32:34:607 Consola MDJ/(4897:4900): Validar archivo /equipos/Rafaela
+[INFO] 06:32:34:607 Consola MDJ/(4897:4900): Existe el archivo /equipos/Rafaela
+[INFO] 06:36:36:674 Consola MDJ/(4897:4900): Se desconecto El Diego
+[INFO] 06:54:09:834 Proceso MDJ/(5217:5217): Inicio del proceso
+[INFO] 06:54:09:901 Proceso MDJ/(5217:5217): ---- Configuracion ----
+[INFO] 06:54:09:901 Proceso MDJ/(5217:5217): PUERTO = 8002
+[INFO] 06:54:09:901 Proceso MDJ/(5217:5217): PUNTO_MONTAJE = /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:54:09:901 Proceso MDJ/(5217:5217): RETARDO = 1000 milisegundos
+[INFO] 06:54:09:901 Proceso MDJ/(5217:5217): -----------------------
+[INFO] 06:54:09:901 Consola MDJ/(5217:5217): Punto de montaje OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/
+[INFO] 06:54:09:924 Consola MDJ/(5217:5217): Carpeta Metadata OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/
+[INFO] 06:54:09:956 Proceso MDJ/(5217:5217): ----- File System -----
+[INFO] 06:54:09:956 Proceso MDJ/(5217:5217): TAMANIO_BLOQUES = 64
+[INFO] 06:54:09:956 Proceso MDJ/(5217:5217): CANTIDAD_BLOQUES = 256
+[INFO] 06:54:09:956 Proceso MDJ/(5217:5217): MAGIC_NUMBER = FIFA
+[INFO] 06:54:09:956 Proceso MDJ/(5217:5217): -----------------------
+[INFO] 06:54:09:956 Consola MDJ/(5217:5217): Archivo Metadata.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Metadata.bin
+[INFO] 06:54:09:957 Consola MDJ/(5217:5217): Archivo Bitmap.bin OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Metadata/Bitmap.bin
+[INFO] 06:54:09:957 Consola MDJ/(5217:5217): Carpeta Archivos OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Archivos/
+[INFO] 06:54:09:957 Consola MDJ/(5217:5217): Carpeta Bloques OK en: /home/utnso/solitario/tp-2018-2c-Solitario-Windows-95/FIFA_FS/Bloques/
+[INFO] 06:54:31:390 Consola MDJ/(5217:5220): Nueva conexion desde El Diego
+[INFO] 06:55:16:210 Consola MDJ/(5217:5220): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:55:16:210 Consola MDJ/(5217:5220): Validar archivo /scripts/simple.escriptorio
+[INFO] 06:55:16:259 Consola MDJ/(5217:5220): Existe el archivo /scripts/simple.escriptorio
+[INFO] 06:55:17:259 Consola MDJ/(5217:5220): Operacion OBTENER_DATOS recibida
+[INFO] 06:55:17:259 Consola MDJ/(5217:5220): Obtener datos del archivo /scripts/simple.escriptorio desde el byte 0 y largo -1
+[INFO] 06:55:17:295 Consola MDJ/(5217:5220): Operacion finalizada con exito
+[INFO] 06:55:18:495 Consola MDJ/(5217:5220): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:55:18:495 Consola MDJ/(5217:5220): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:55:18:495 Consola MDJ/(5217:5220): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:55:19:495 Consola MDJ/(5217:5220): Operacion OBTENER_DATOS recibida
+[INFO] 06:55:19:496 Consola MDJ/(5217:5220): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:55:19:562 Consola MDJ/(5217:5220): Operacion finalizada con exito
+[INFO] 06:55:30:415 Consola MDJ/(5217:5220): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:55:30:415 Consola MDJ/(5217:5220): Validar archivo /scripts/complejo.escriptorio
+[INFO] 06:55:30:415 Consola MDJ/(5217:5220): Existe el archivo /scripts/complejo.escriptorio
+[INFO] 06:55:31:415 Consola MDJ/(5217:5220): Operacion OBTENER_DATOS recibida
+[INFO] 06:55:31:415 Consola MDJ/(5217:5220): Obtener datos del archivo /scripts/complejo.escriptorio desde el byte 0 y largo -1
+[INFO] 06:55:31:416 Consola MDJ/(5217:5220): Operacion finalizada con exito
+[INFO] 06:55:32:586 Consola MDJ/(5217:5220): Operacion CREAR_ARCHIVO recibida
+[INFO] 06:55:32:586 Consola MDJ/(5217:5220): Crear archivo /equipos/Rafaela de 5 lineas
+[INFO] 06:55:32:586 Consola MDJ/(5217:5220): El archivo ocupa 1 bloques
+[INFO] 06:55:32:586 Consola MDJ/(5217:5220): Se creo el bloque 14.bin
+[INFO] 06:55:32:586 Consola MDJ/(5217:5220): Se actualizo el bit 14 del bitmap
+[INFO] 06:55:32:619 Consola MDJ/(5217:5220): Se creo el archivo /equipos/Rafaela
+[INFO] 06:55:32:619 Consola MDJ/(5217:5220): Operacion finalizada con exito
+[INFO] 06:55:33:663 Consola MDJ/(5217:5220): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:55:33:663 Consola MDJ/(5217:5220): Validar archivo /equipos/Rafaela
+[INFO] 06:55:33:663 Consola MDJ/(5217:5220): Existe el archivo /equipos/Rafaela
+[INFO] 06:55:34:663 Consola MDJ/(5217:5220): Operacion OBTENER_DATOS recibida
+[INFO] 06:55:34:664 Consola MDJ/(5217:5220): Obtener datos del archivo /equipos/Rafaela desde el byte 0 y largo -1
+[INFO] 06:55:34:664 Consola MDJ/(5217:5220): Operacion finalizada con exito
+[INFO] 06:55:36:162 Consola MDJ/(5217:5220): Operacion VALIDAR_ARCHIVO recibida
+[INFO] 06:55:36:162 Consola MDJ/(5217:5220): Validar archivo /equipos/Rafaela
+[INFO] 06:55:36:162 Consola MDJ/(5217:5220): Existe el archivo /equipos/Rafaela
+[INFO] 06:56:40:675 Consola MDJ/(5217:5220): Se desconecto El Diego

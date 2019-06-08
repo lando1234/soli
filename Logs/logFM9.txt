@@ -1,0 +1,1708 @@
+[INFO] 04:47:29:773 Proceso FM9/(7284:7284): Inicio del proceso
+[INFO] 04:47:29:798 Proceso FM9/(7284:7284): ---- Configuracion ----
+[INFO] 04:47:29:798 Proceso FM9/(7284:7284): PUERTO = 8003
+[INFO] 04:47:29:798 Proceso FM9/(7284:7284): MODO = SPA
+[INFO] 04:47:29:798 Proceso FM9/(7284:7284): TAMANIO = 8192
+[INFO] 04:47:29:798 Proceso FM9/(7284:7284): MAX_LINEA = 64
+[INFO] 04:47:29:798 Proceso FM9/(7284:7284): TAM_PAGINA = 128
+[INFO] 04:47:29:799 Proceso FM9/(7284:7284): -----------------------
+[INFO] 04:47:29:799 Proceso FM9/(7284:7284): Segmentación Paginada seteada
+[INFO] 04:47:29:799 Proceso FM9/(7284:7284): Inicialización de memoria exitosa
+[INFO] 04:48:36:484 Consola FM9/(7284:7284): Nueva conexion desde El Diego
+[INFO] 04:48:50:926 Consola FM9/(7284:7284): Nueva conexion de CPU
+[INFO] 04:49:05:390 Consola FM9/(7284:7284): Cargando archivo en memoria
+[INFO] 04:49:05:430 Proceso FM9/(7284:7284): Guardando pagina: 0
+
+[INFO] 04:49:05:430 Proceso FM9/(7284:7284): Guardando pagina: 1
+
+[INFO] 04:49:05:430 Proceso FM9/(7284:7284): Guardando pagina: 2
+
+[INFO] 04:49:05:430 Proceso FM9/(7284:7284): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 04:49:05:470 Consola FM9/(7284:7284): Leyendo archivo
+[INFO] 04:49:07:583 Consola FM9/(7284:7284): Cargando archivo en memoria
+[INFO] 04:49:07:622 Proceso FM9/(7284:7284): Guardando pagina: 3
+
+[INFO] 04:49:07:623 Proceso FM9/(7284:7284): Guardando pagina: 4
+
+[INFO] 04:49:07:623 Proceso FM9/(7284:7284): Guardando pagina: 5
+
+[INFO] 04:49:07:623 Proceso FM9/(7284:7284): Guardando pagina: 6
+
+[INFO] 04:49:07:623 Proceso FM9/(7284:7284): Guardando pagina: 7
+
+[INFO] 04:49:07:623 Proceso FM9/(7284:7284): Guardando pagina: 8
+
+[INFO] 04:49:07:623 Proceso FM9/(7284:7284): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 04:49:07:662 Consola FM9/(7284:7284): Leyendo archivo
+[INFO] 04:49:07:704 Consola FM9/(7284:7284): Modificando linea
+[INFO] 04:49:07:742 Proceso FM9/(7284:7284): Modificando linea 1
+
+[INFO] 04:49:07:793 Consola FM9/(7284:7284): Leyendo archivo
+[INFO] 04:49:07:881 Consola FM9/(7284:7284): Closing file
+[INFO] 04:49:07:918 Proceso FM9/(7284:7284): Se ha cerrado el archivo ID:2 
+
+[INFO] 04:49:07:924 Proceso FM9/(7284:7284): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 04:49:07:924 Consola FM9/(7284:7284): Closing process
+[INFO] 04:49:07:962 Proceso FM9/(7284:7284): Se ha cerrado el proceso PID: 1
+[INFO] 04:49:07:962 Proceso FM9/(7284:7284): Se ha cerrado el archivo ID:1 
+
+[INFO] 04:49:47:630 Consola FM9/(7284:7284): Cargando archivo en memoria
+[INFO] 04:49:47:670 Proceso FM9/(7284:7284): Guardando pagina: 0
+
+[INFO] 04:49:47:670 Proceso FM9/(7284:7284): Guardando pagina: 1
+
+[INFO] 04:49:47:670 Proceso FM9/(7284:7284): Guardando pagina: 2
+
+[INFO] 04:49:47:670 Proceso FM9/(7284:7284): Guardando pagina: 3
+
+[INFO] 04:49:47:670 Proceso FM9/(7284:7284): Guardando pagina: 4
+
+[INFO] 04:49:47:670 Proceso FM9/(7284:7284): Guardando pagina: 5
+
+[INFO] 04:49:47:670 Proceso FM9/(7284:7284): Se guardo el archivo ID: 3 en memoria 
+
+[INFO] 04:49:47:710 Consola FM9/(7284:7284): Leyendo archivo
+[INFO] 04:49:48:754 Consola FM9/(7284:7284): Leyendo archivo
+[INFO] 04:49:50:831 Consola FM9/(7284:7284): Cargando archivo en memoria
+[INFO] 04:49:50:870 Proceso FM9/(7284:7284): Guardando pagina: 6
+
+[INFO] 04:49:50:871 Proceso FM9/(7284:7284): Guardando pagina: 7
+
+[INFO] 04:49:50:871 Proceso FM9/(7284:7284): Guardando pagina: 8
+
+[INFO] 04:49:50:871 Proceso FM9/(7284:7284): Se guardo el archivo ID: 4 en memoria 
+
+[INFO] 04:49:50:911 Consola FM9/(7284:7284): Leyendo archivo
+[INFO] 04:49:50:956 Consola FM9/(7284:7284): Modificando linea
+[INFO] 04:49:50:994 Proceso FM9/(7284:7284): Modificando linea 1
+
+[INFO] 04:49:51:35 Consola FM9/(7284:7284): Modificando linea
+[INFO] 04:49:51:74 Proceso FM9/(7284:7284): Modificando linea 2
+
+[INFO] 04:49:51:128 Consola FM9/(7284:7284): Leyendo archivo
+[INFO] 04:49:51:211 Consola FM9/(7284:7284): Modificando linea
+[INFO] 04:49:51:250 Proceso FM9/(7284:7284): Modificando linea 3
+
+[INFO] 04:49:52:293 Consola FM9/(7284:7284): Flushing
+[INFO] 04:49:52:330 Proceso FM9/(7284:7284): El segmento se encuentra en memoria
+[INFO] 04:49:53:379 Consola FM9/(7284:7284): Leyendo archivo
+[INFO] 04:49:53:428 Consola FM9/(7284:7284): Closing file
+[INFO] 04:49:53:467 Proceso FM9/(7284:7284): Se ha cerrado el archivo ID:4 
+
+[INFO] 04:49:53:473 Proceso FM9/(7284:7284): Se elimino una entrada del diccionario de bloques perteneciente al bloque 4
+[INFO] 04:49:53:475 Consola FM9/(7284:7284): Closing process
+[INFO] 04:49:53:514 Proceso FM9/(7284:7284): Se ha cerrado el proceso PID: 3
+[INFO] 04:49:53:514 Proceso FM9/(7284:7284): Se ha cerrado el archivo ID:3 
+
+[INFO] 04:50:02:44 Consola FM9/(7284:7284): CPU desconectada
+[ERROR] 04:50:02:464 Consola FM9/(7284:7284): select
+[INFO] 04:50:24:755 Proceso FM9/(7353:7353): Inicio del proceso
+[INFO] 04:50:24:755 Proceso FM9/(7353:7353): ---- Configuracion ----
+[INFO] 04:50:24:755 Proceso FM9/(7353:7353): PUERTO = 8003
+[INFO] 04:50:24:755 Proceso FM9/(7353:7353): MODO = TPI
+[INFO] 04:50:24:755 Proceso FM9/(7353:7353): TAMANIO = 8192
+[INFO] 04:50:24:755 Proceso FM9/(7353:7353): MAX_LINEA = 64
+[INFO] 04:50:24:755 Proceso FM9/(7353:7353): TAM_PAGINA = 128
+[INFO] 04:50:24:755 Proceso FM9/(7353:7353): -----------------------
+[INFO] 04:50:24:755 Proceso FM9/(7353:7353): Tablas de Paginación Invertida seteada
+[INFO] 04:50:24:756 Proceso FM9/(7353:7353): Inicialización de memoria exitosa
+[INFO] 04:50:30:895 Consola FM9/(7353:7353): Nueva conexion desde El Diego
+[INFO] 04:50:32:567 Consola FM9/(7353:7353): Nueva conexion de CPU
+[INFO] 04:50:43:950 Consola FM9/(7353:7353): Cargando archivo en memoria
+[INFO] 04:50:43:990 Proceso FM9/(7353:7353): Guardando pagina en frame: 0 
+
+[INFO] 04:50:43:990 Proceso FM9/(7353:7353): Guardando pagina en frame: 1 
+
+[INFO] 04:50:43:990 Proceso FM9/(7353:7353): Guardando pagina en frame: 2 
+
+[INFO] 04:50:43:990 Proceso FM9/(7353:7353): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 04:50:44:30 Consola FM9/(7353:7353): Leyendo archivo
+[INFO] 04:50:44:69 Proceso FM9/(7353:7353): Abriendo archivo 1
+
+[INFO] 04:50:46:114 Consola FM9/(7353:7353): Cargando archivo en memoria
+[INFO] 04:50:46:157 Proceso FM9/(7353:7353): Guardando pagina en frame: 3 
+
+[INFO] 04:50:46:157 Proceso FM9/(7353:7353): Guardando pagina en frame: 4 
+
+[INFO] 04:50:46:157 Proceso FM9/(7353:7353): Guardando pagina en frame: 5 
+
+[INFO] 04:50:46:157 Proceso FM9/(7353:7353): Guardando pagina en frame: 6 
+
+[INFO] 04:50:46:157 Proceso FM9/(7353:7353): Guardando pagina en frame: 7 
+
+[INFO] 04:50:46:157 Proceso FM9/(7353:7353): Guardando pagina en frame: 8 
+
+[INFO] 04:50:46:157 Proceso FM9/(7353:7353): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 04:50:46:202 Consola FM9/(7353:7353): Leyendo archivo
+[INFO] 04:50:46:242 Proceso FM9/(7353:7353): Abriendo archivo 1
+
+[INFO] 04:50:46:245 Consola FM9/(7353:7353): Modificando linea
+[INFO] 04:50:46:282 Proceso FM9/(7353:7353): Modificando linea 1
+
+[INFO] 04:52:40:747 Proceso FM9/(7413:7413): Inicio del proceso
+[INFO] 04:52:40:949 Proceso FM9/(7413:7413): ---- Configuracion ----
+[INFO] 04:52:40:952 Proceso FM9/(7413:7413): PUERTO = 8003
+[INFO] 04:52:40:956 Proceso FM9/(7413:7413): MODO = TPI
+[INFO] 04:52:40:958 Proceso FM9/(7413:7413): TAMANIO = 8192
+[INFO] 04:52:40:959 Proceso FM9/(7413:7413): MAX_LINEA = 64
+[INFO] 04:52:40:960 Proceso FM9/(7413:7413): TAM_PAGINA = 128
+[INFO] 04:52:40:961 Proceso FM9/(7413:7413): -----------------------
+[INFO] 04:52:40:970 Proceso FM9/(7413:7413): Tablas de Paginación Invertida seteada
+[INFO] 04:52:40:979 Proceso FM9/(7413:7413): Inicialización de memoria exitosa
+[INFO] 04:52:50:282 Consola FM9/(7413:7413): Nueva conexion desde El Diego
+[INFO] 04:52:51:911 Consola FM9/(7413:7413): Nueva conexion de CPU
+[INFO] 04:53:24:333 Consola FM9/(7413:7413): CPU desconectada
+[ERROR] 04:53:25:813 Consola FM9/(7413:7413): select
+[INFO] 04:53:34:355 Proceso FM9/(7446:7446): Inicio del proceso
+[INFO] 04:53:34:466 Proceso FM9/(7446:7446): ---- Configuracion ----
+[INFO] 04:53:34:468 Proceso FM9/(7446:7446): PUERTO = 8003
+[INFO] 04:53:34:470 Proceso FM9/(7446:7446): MODO = TPI
+[INFO] 04:53:34:471 Proceso FM9/(7446:7446): TAMANIO = 8192
+[INFO] 04:53:34:472 Proceso FM9/(7446:7446): MAX_LINEA = 64
+[INFO] 04:53:34:473 Proceso FM9/(7446:7446): TAM_PAGINA = 128
+[INFO] 04:53:34:474 Proceso FM9/(7446:7446): -----------------------
+[INFO] 04:53:34:493 Proceso FM9/(7446:7446): Tablas de Paginación Invertida seteada
+[INFO] 04:53:34:513 Proceso FM9/(7446:7446): Inicialización de memoria exitosa
+[INFO] 04:53:40:806 Consola FM9/(7446:7446): Nueva conexion desde El Diego
+[INFO] 04:53:43:663 Consola FM9/(7446:7446): Nueva conexion de CPU
+[INFO] 04:53:56:243 Consola FM9/(7446:7446): Cargando archivo en memoria
+[INFO] 04:53:56:343 Proceso FM9/(7446:7446): Guardando pagina en frame: 0 
+
+[INFO] 04:53:56:350 Proceso FM9/(7446:7446): Guardando pagina en frame: 1 
+
+[INFO] 04:53:56:351 Proceso FM9/(7446:7446): Guardando pagina en frame: 2 
+
+[INFO] 04:53:56:359 Proceso FM9/(7446:7446): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 04:53:56:411 Consola FM9/(7446:7446): Leyendo archivo
+[INFO] 04:53:56:464 Proceso FM9/(7446:7446): Abriendo archivo 1
+
+[INFO] 04:53:58:567 Consola FM9/(7446:7446): Cargando archivo en memoria
+[INFO] 04:53:58:590 Proceso FM9/(7446:7446): Guardando pagina en frame: 3 
+
+[INFO] 04:53:58:597 Proceso FM9/(7446:7446): Guardando pagina en frame: 4 
+
+[INFO] 04:53:58:597 Proceso FM9/(7446:7446): Guardando pagina en frame: 5 
+
+[INFO] 04:53:58:598 Proceso FM9/(7446:7446): Guardando pagina en frame: 6 
+
+[INFO] 04:53:58:598 Proceso FM9/(7446:7446): Guardando pagina en frame: 7 
+
+[INFO] 04:53:58:599 Proceso FM9/(7446:7446): Guardando pagina en frame: 8 
+
+[INFO] 04:53:58:599 Proceso FM9/(7446:7446): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 04:53:58:642 Consola FM9/(7446:7446): Leyendo archivo
+[INFO] 04:53:58:682 Proceso FM9/(7446:7446): Abriendo archivo 1
+
+[INFO] 04:53:58:685 Consola FM9/(7446:7446): Modificando linea
+[INFO] 04:53:58:733 Proceso FM9/(7446:7446): Modificando linea 1
+
+[INFO] 04:55:36:734 Proceso FM9/(7521:7521): Inicio del proceso
+[INFO] 04:55:36:881 Proceso FM9/(7521:7521): ---- Configuracion ----
+[INFO] 04:55:36:884 Proceso FM9/(7521:7521): PUERTO = 8003
+[INFO] 04:55:36:885 Proceso FM9/(7521:7521): MODO = TPI
+[INFO] 04:55:36:889 Proceso FM9/(7521:7521): TAMANIO = 8192
+[INFO] 04:55:36:893 Proceso FM9/(7521:7521): MAX_LINEA = 64
+[INFO] 04:55:36:895 Proceso FM9/(7521:7521): TAM_PAGINA = 128
+[INFO] 04:55:36:896 Proceso FM9/(7521:7521): -----------------------
+[INFO] 04:55:36:907 Proceso FM9/(7521:7521): Tablas de Paginación Invertida seteada
+[INFO] 04:55:36:916 Proceso FM9/(7521:7521): Inicialización de memoria exitosa
+[INFO] 04:55:38:566 Consola FM9/(7521:7521): Nueva conexion desde El Diego
+[INFO] 04:55:40:298 Consola FM9/(7521:7521): Nueva conexion de CPU
+[INFO] 04:55:52:987 Consola FM9/(7521:7521): Cargando archivo en memoria
+[INFO] 04:55:53:85 Proceso FM9/(7521:7521): Guardando pagina en frame: 0 
+
+[INFO] 04:55:53:99 Proceso FM9/(7521:7521): Guardando pagina en frame: 1 
+
+[INFO] 04:55:53:100 Proceso FM9/(7521:7521): Guardando pagina en frame: 2 
+
+[INFO] 04:55:53:101 Proceso FM9/(7521:7521): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 04:55:53:160 Consola FM9/(7521:7521): Leyendo archivo
+[INFO] 04:55:53:209 Proceso FM9/(7521:7521): Abriendo archivo 1
+
+[INFO] 04:55:55:282 Consola FM9/(7521:7521): Cargando archivo en memoria
+[INFO] 04:55:55:299 Proceso FM9/(7521:7521): Guardando pagina en frame: 3 
+
+[INFO] 04:55:55:300 Proceso FM9/(7521:7521): Guardando pagina en frame: 4 
+
+[INFO] 04:55:55:301 Proceso FM9/(7521:7521): Guardando pagina en frame: 5 
+
+[INFO] 04:55:55:305 Proceso FM9/(7521:7521): Guardando pagina en frame: 6 
+
+[INFO] 04:55:55:306 Proceso FM9/(7521:7521): Guardando pagina en frame: 7 
+
+[INFO] 04:55:55:307 Proceso FM9/(7521:7521): Guardando pagina en frame: 8 
+
+[INFO] 04:55:55:307 Proceso FM9/(7521:7521): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 04:55:55:362 Consola FM9/(7521:7521): Leyendo archivo
+[INFO] 04:55:55:402 Proceso FM9/(7521:7521): Abriendo archivo 1
+
+[INFO] 04:55:55:411 Consola FM9/(7521:7521): Modificando linea
+[INFO] 04:55:55:466 Proceso FM9/(7521:7521): Modificando linea 1
+
+[INFO] 04:58:49:227 Proceso FM9/(7626:7626): Inicio del proceso
+[INFO] 04:58:50:584 Proceso FM9/(7626:7626): ---- Configuracion ----
+[INFO] 04:58:50:586 Proceso FM9/(7626:7626): PUERTO = 8003
+[INFO] 04:58:50:587 Proceso FM9/(7626:7626): MODO = TPI
+[INFO] 04:58:50:592 Proceso FM9/(7626:7626): TAMANIO = 8192
+[INFO] 04:58:50:595 Proceso FM9/(7626:7626): MAX_LINEA = 64
+[INFO] 04:58:50:596 Proceso FM9/(7626:7626): TAM_PAGINA = 128
+[INFO] 04:58:50:598 Proceso FM9/(7626:7626): -----------------------
+[INFO] 04:58:50:616 Proceso FM9/(7626:7626): Tablas de Paginación Invertida seteada
+[INFO] 04:58:50:635 Proceso FM9/(7626:7626): Inicialización de memoria exitosa
+[INFO] 04:58:51:691 Consola FM9/(7626:7626): Nueva conexion desde El Diego
+[INFO] 04:58:54:481 Consola FM9/(7626:7626): Nueva conexion de CPU
+[INFO] 04:59:05:751 Consola FM9/(7626:7626): Cargando archivo en memoria
+[INFO] 04:59:05:821 Proceso FM9/(7626:7626): Guardando pagina en frame: 0 
+
+[INFO] 04:59:05:825 Proceso FM9/(7626:7626): Guardando pagina en frame: 1 
+
+[INFO] 04:59:05:826 Proceso FM9/(7626:7626): Guardando pagina en frame: 2 
+
+[INFO] 04:59:05:828 Proceso FM9/(7626:7626): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 04:59:05:878 Consola FM9/(7626:7626): Leyendo archivo
+[INFO] 04:59:05:925 Proceso FM9/(7626:7626): Abriendo archivo 1
+
+[INFO] 04:59:08:8 Consola FM9/(7626:7626): Cargando archivo en memoria
+[INFO] 04:59:08:57 Proceso FM9/(7626:7626): Guardando pagina en frame: 3 
+
+[INFO] 04:59:08:58 Proceso FM9/(7626:7626): Guardando pagina en frame: 4 
+
+[INFO] 04:59:08:59 Proceso FM9/(7626:7626): Guardando pagina en frame: 5 
+
+[INFO] 04:59:08:60 Proceso FM9/(7626:7626): Guardando pagina en frame: 6 
+
+[INFO] 04:59:08:62 Proceso FM9/(7626:7626): Guardando pagina en frame: 7 
+
+[INFO] 04:59:08:62 Proceso FM9/(7626:7626): Guardando pagina en frame: 8 
+
+[INFO] 04:59:08:63 Proceso FM9/(7626:7626): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 04:59:08:109 Consola FM9/(7626:7626): Leyendo archivo
+[INFO] 04:59:08:146 Proceso FM9/(7626:7626): Abriendo archivo 1
+
+[INFO] 04:59:08:150 Consola FM9/(7626:7626): Modificando linea
+[INFO] 04:59:08:235 Proceso FM9/(7626:7626): Modificando linea 1
+
+[INFO] 05:05:51:561 Proceso FM9/(7728:7728): Inicio del proceso
+[INFO] 05:05:51:880 Proceso FM9/(7728:7728): ---- Configuracion ----
+[INFO] 05:05:51:883 Proceso FM9/(7728:7728): PUERTO = 8003
+[INFO] 05:05:51:884 Proceso FM9/(7728:7728): MODO = SPA
+[INFO] 05:05:51:885 Proceso FM9/(7728:7728): TAMANIO = 8192
+[INFO] 05:05:51:893 Proceso FM9/(7728:7728): MAX_LINEA = 64
+[INFO] 05:05:51:895 Proceso FM9/(7728:7728): TAM_PAGINA = 128
+[INFO] 05:05:51:901 Proceso FM9/(7728:7728): -----------------------
+[INFO] 05:05:51:946 Proceso FM9/(7728:7728): Segmentación Paginada seteada
+[INFO] 05:05:51:988 Proceso FM9/(7728:7728): Inicialización de memoria exitosa
+[INFO] 05:05:59:840 Consola FM9/(7728:7728): Nueva conexion desde El Diego
+[INFO] 05:06:02:433 Consola FM9/(7728:7728): Nueva conexion de CPU
+[INFO] 05:06:13:265 Consola FM9/(7728:7728): Cargando archivo en memoria
+[INFO] 05:06:13:342 Proceso FM9/(7728:7728): Guardando pagina: 0
+
+[INFO] 05:06:13:353 Proceso FM9/(7728:7728): Guardando pagina: 1
+
+[INFO] 05:06:13:354 Proceso FM9/(7728:7728): Guardando pagina: 2
+
+[INFO] 05:06:13:370 Proceso FM9/(7728:7728): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 05:06:13:432 Consola FM9/(7728:7728): Leyendo archivo
+[INFO] 05:06:15:582 Consola FM9/(7728:7728): Cargando archivo en memoria
+[INFO] 05:06:15:586 Proceso FM9/(7728:7728): Guardando pagina: 3
+
+[INFO] 05:06:15:587 Proceso FM9/(7728:7728): Guardando pagina: 4
+
+[INFO] 05:06:15:587 Proceso FM9/(7728:7728): Guardando pagina: 5
+
+[INFO] 05:06:15:588 Proceso FM9/(7728:7728): Guardando pagina: 6
+
+[INFO] 05:06:15:588 Proceso FM9/(7728:7728): Guardando pagina: 7
+
+[INFO] 05:06:15:589 Proceso FM9/(7728:7728): Guardando pagina: 8
+
+[INFO] 05:06:15:589 Proceso FM9/(7728:7728): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 05:06:15:638 Consola FM9/(7728:7728): Leyendo archivo
+[INFO] 05:06:15:682 Consola FM9/(7728:7728): Modificando linea
+[INFO] 05:06:15:754 Proceso FM9/(7728:7728): Modificando linea 1
+
+[INFO] 05:06:15:801 Consola FM9/(7728:7728): Leyendo archivo
+[INFO] 05:06:15:879 Consola FM9/(7728:7728): Closing file
+[INFO] 05:06:15:921 Proceso FM9/(7728:7728): Se ha cerrado el archivo ID:2 
+
+[INFO] 05:06:15:945 Proceso FM9/(7728:7728): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 05:06:15:953 Consola FM9/(7728:7728): Closing process
+[INFO] 05:06:15:982 Proceso FM9/(7728:7728): Se ha cerrado el proceso PID: 1
+[INFO] 05:06:15:985 Proceso FM9/(7728:7728): Se ha cerrado el archivo ID:1 
+
+[INFO] 05:06:24:588 Consola FM9/(7728:7728): CPU desconectada
+[ERROR] 05:06:25:396 Consola FM9/(7728:7728): select
+[INFO] 05:07:06:970 Proceso FM9/(7775:7775): Inicio del proceso
+[INFO] 05:07:07:109 Proceso FM9/(7775:7775): ---- Configuracion ----
+[INFO] 05:07:07:110 Proceso FM9/(7775:7775): PUERTO = 8003
+[INFO] 05:07:07:111 Proceso FM9/(7775:7775): MODO = TPI
+[INFO] 05:07:07:113 Proceso FM9/(7775:7775): TAMANIO = 8192
+[INFO] 05:07:07:114 Proceso FM9/(7775:7775): MAX_LINEA = 64
+[INFO] 05:07:07:115 Proceso FM9/(7775:7775): TAM_PAGINA = 128
+[INFO] 05:07:07:116 Proceso FM9/(7775:7775): -----------------------
+[INFO] 05:07:07:130 Proceso FM9/(7775:7775): Tablas de Paginación Invertida seteada
+[INFO] 05:07:07:139 Proceso FM9/(7775:7775): Inicialización de memoria exitosa
+[INFO] 05:07:18:987 Consola FM9/(7775:7775): Nueva conexion desde El Diego
+[INFO] 05:07:20:707 Consola FM9/(7775:7775): Nueva conexion de CPU
+[INFO] 05:07:36:954 Consola FM9/(7775:7775): Cargando archivo en memoria
+[INFO] 05:07:37:21 Proceso FM9/(7775:7775): Guardando pagina en frame: 0 
+
+[INFO] 05:07:37:27 Proceso FM9/(7775:7775): Guardando pagina en frame: 1 
+
+[INFO] 05:07:37:28 Proceso FM9/(7775:7775): Guardando pagina en frame: 2 
+
+[INFO] 05:07:37:30 Proceso FM9/(7775:7775): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 05:07:37:71 Consola FM9/(7775:7775): Leyendo archivo
+[INFO] 05:07:37:121 Proceso FM9/(7775:7775): Abriendo archivo 1
+
+[INFO] 05:07:39:210 Consola FM9/(7775:7775): Cargando archivo en memoria
+[INFO] 05:07:39:254 Proceso FM9/(7775:7775): Guardando pagina en frame: 3 
+
+[INFO] 05:07:39:255 Proceso FM9/(7775:7775): Guardando pagina en frame: 4 
+
+[INFO] 05:07:39:261 Proceso FM9/(7775:7775): Guardando pagina en frame: 5 
+
+[INFO] 05:07:39:262 Proceso FM9/(7775:7775): Guardando pagina en frame: 6 
+
+[INFO] 05:07:39:262 Proceso FM9/(7775:7775): Guardando pagina en frame: 7 
+
+[INFO] 05:07:39:263 Proceso FM9/(7775:7775): Guardando pagina en frame: 8 
+
+[INFO] 05:07:39:264 Proceso FM9/(7775:7775): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 05:07:39:308 Consola FM9/(7775:7775): Leyendo archivo
+[INFO] 05:07:39:346 Proceso FM9/(7775:7775): Abriendo archivo 1
+
+[INFO] 05:07:39:350 Consola FM9/(7775:7775): Modificando linea
+[INFO] 05:07:39:402 Proceso FM9/(7775:7775): Modificando linea 1
+
+[INFO] 05:13:22:621 Proceso FM9/(7958:7958): Inicio del proceso
+[INFO] 05:13:22:920 Proceso FM9/(7958:7958): ---- Configuracion ----
+[INFO] 05:13:22:922 Proceso FM9/(7958:7958): PUERTO = 8003
+[INFO] 05:13:22:923 Proceso FM9/(7958:7958): MODO = TPI
+[INFO] 05:13:22:924 Proceso FM9/(7958:7958): TAMANIO = 8192
+[INFO] 05:13:22:925 Proceso FM9/(7958:7958): MAX_LINEA = 64
+[INFO] 05:13:22:931 Proceso FM9/(7958:7958): TAM_PAGINA = 128
+[INFO] 05:13:22:932 Proceso FM9/(7958:7958): -----------------------
+[INFO] 05:13:22:941 Proceso FM9/(7958:7958): Tablas de Paginación Invertida seteada
+[INFO] 05:13:22:951 Proceso FM9/(7958:7958): Inicialización de memoria exitosa
+[INFO] 05:13:23:629 Consola FM9/(7958:7958): Nueva conexion desde El Diego
+[INFO] 05:13:25:242 Consola FM9/(7958:7958): Nueva conexion de CPU
+[INFO] 05:13:35:551 Consola FM9/(7958:7958): Cargando archivo en memoria
+[INFO] 05:13:35:635 Proceso FM9/(7958:7958): Guardando pagina en frame: 0 
+
+[INFO] 05:13:35:639 Proceso FM9/(7958:7958): Guardando pagina en frame: 1 
+
+[INFO] 05:13:35:640 Proceso FM9/(7958:7958): Guardando pagina en frame: 2 
+
+[INFO] 05:13:35:642 Proceso FM9/(7958:7958): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 05:13:35:682 Consola FM9/(7958:7958): Leyendo archivo
+[INFO] 05:13:35:736 Proceso FM9/(7958:7958): Abriendo archivo 1
+
+[INFO] 05:13:37:810 Consola FM9/(7958:7958): Cargando archivo en memoria
+[INFO] 05:13:37:822 Proceso FM9/(7958:7958): Guardando pagina en frame: 3 
+
+[INFO] 05:13:37:823 Proceso FM9/(7958:7958): Guardando pagina en frame: 4 
+
+[INFO] 05:13:37:823 Proceso FM9/(7958:7958): Guardando pagina en frame: 5 
+
+[INFO] 05:13:37:824 Proceso FM9/(7958:7958): Guardando pagina en frame: 6 
+
+[INFO] 05:13:37:825 Proceso FM9/(7958:7958): Guardando pagina en frame: 7 
+
+[INFO] 05:13:37:829 Proceso FM9/(7958:7958): Guardando pagina en frame: 8 
+
+[INFO] 05:13:37:830 Proceso FM9/(7958:7958): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 05:13:37:870 Consola FM9/(7958:7958): Leyendo archivo
+[INFO] 05:13:37:910 Proceso FM9/(7958:7958): Abriendo archivo 1
+
+[INFO] 05:13:37:917 Consola FM9/(7958:7958): Modificando linea
+[INFO] 05:13:37:985 Proceso FM9/(7958:7958): Modificando linea 1
+
+[INFO] 05:20:32:598 Proceso FM9/(8119:8119): Inicio del proceso
+[INFO] 05:20:33:59 Proceso FM9/(8119:8119): ---- Configuracion ----
+[INFO] 05:20:33:77 Proceso FM9/(8119:8119): PUERTO = 8003
+[INFO] 05:20:33:84 Proceso FM9/(8119:8119): MODO = TPI
+[INFO] 05:20:33:87 Proceso FM9/(8119:8119): TAMANIO = 8192
+[INFO] 05:20:33:89 Proceso FM9/(8119:8119): MAX_LINEA = 64
+[INFO] 05:20:33:93 Proceso FM9/(8119:8119): TAM_PAGINA = 128
+[INFO] 05:20:33:100 Proceso FM9/(8119:8119): -----------------------
+[INFO] 05:20:33:131 Proceso FM9/(8119:8119): Tablas de Paginación Invertida seteada
+[INFO] 05:20:33:175 Proceso FM9/(8119:8119): Inicialización de memoria exitosa
+[INFO] 05:20:45:301 Consola FM9/(8119:8119): Nueva conexion desde El Diego
+[INFO] 05:20:47:219 Consola FM9/(8119:8119): Nueva conexion de CPU
+[INFO] 05:21:01:743 Consola FM9/(8119:8119): Cargando archivo en memoria
+[INFO] 05:21:01:835 Proceso FM9/(8119:8119): Guardando pagina en frame: 0 
+
+[INFO] 05:21:01:855 Proceso FM9/(8119:8119): Guardando pagina en frame: 1 
+
+[INFO] 05:21:01:857 Proceso FM9/(8119:8119): Guardando pagina en frame: 2 
+
+[INFO] 05:21:01:858 Proceso FM9/(8119:8119): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 05:21:01:908 Consola FM9/(8119:8119): Leyendo archivo
+[INFO] 05:21:01:958 Proceso FM9/(8119:8119): Abriendo archivo 1
+
+[INFO] 05:21:04:49 Consola FM9/(8119:8119): Cargando archivo en memoria
+[INFO] 05:21:04:54 Proceso FM9/(8119:8119): Guardando pagina en frame: 3 
+
+[INFO] 05:21:04:55 Proceso FM9/(8119:8119): Guardando pagina en frame: 4 
+
+[INFO] 05:21:04:55 Proceso FM9/(8119:8119): Guardando pagina en frame: 5 
+
+[INFO] 05:21:04:56 Proceso FM9/(8119:8119): Guardando pagina en frame: 6 
+
+[INFO] 05:21:04:56 Proceso FM9/(8119:8119): Guardando pagina en frame: 7 
+
+[INFO] 05:21:04:57 Proceso FM9/(8119:8119): Guardando pagina en frame: 8 
+
+[INFO] 05:21:04:57 Proceso FM9/(8119:8119): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 05:21:04:106 Consola FM9/(8119:8119): Leyendo archivo
+[INFO] 05:21:04:148 Proceso FM9/(8119:8119): Abriendo archivo 1
+
+[INFO] 05:21:04:154 Consola FM9/(8119:8119): Modificando linea
+[INFO] 05:21:04:214 Proceso FM9/(8119:8119): Modificando linea 1
+
+[INFO] 05:25:15:149 Proceso FM9/(8289:8289): Inicio del proceso
+[INFO] 05:25:16:345 Proceso FM9/(8289:8289): ---- Configuracion ----
+[INFO] 05:25:16:351 Proceso FM9/(8289:8289): PUERTO = 8003
+[INFO] 05:25:16:352 Proceso FM9/(8289:8289): MODO = TPI
+[INFO] 05:25:16:353 Proceso FM9/(8289:8289): TAMANIO = 8192
+[INFO] 05:25:16:354 Proceso FM9/(8289:8289): MAX_LINEA = 64
+[INFO] 05:25:16:358 Proceso FM9/(8289:8289): TAM_PAGINA = 128
+[INFO] 05:25:16:361 Proceso FM9/(8289:8289): -----------------------
+[INFO] 05:25:16:385 Proceso FM9/(8289:8289): Tablas de Paginación Invertida seteada
+[INFO] 05:25:16:393 Proceso FM9/(8289:8289): Inicialización de memoria exitosa
+[INFO] 05:25:23:607 Consola FM9/(8289:8289): Nueva conexion desde El Diego
+[INFO] 05:25:25:494 Consola FM9/(8289:8289): Nueva conexion de CPU
+[INFO] 05:25:38:235 Consola FM9/(8289:8289): Cargando archivo en memoria
+[INFO] 05:25:38:310 Proceso FM9/(8289:8289): Guardando pagina en frame: 0 
+
+[INFO] 05:25:38:315 Proceso FM9/(8289:8289): Guardando pagina en frame: 1 
+
+[INFO] 05:25:38:316 Proceso FM9/(8289:8289): Guardando pagina en frame: 2 
+
+[INFO] 05:25:38:317 Proceso FM9/(8289:8289): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 05:25:38:359 Consola FM9/(8289:8289): Leyendo archivo
+[INFO] 05:25:38:404 Proceso FM9/(8289:8289): Abriendo archivo 1
+
+[INFO] 05:25:40:506 Consola FM9/(8289:8289): Cargando archivo en memoria
+[INFO] 05:25:40:515 Proceso FM9/(8289:8289): Guardando pagina en frame: 3 
+
+[INFO] 05:25:40:526 Proceso FM9/(8289:8289): Guardando pagina en frame: 4 
+
+[INFO] 05:25:40:526 Proceso FM9/(8289:8289): Guardando pagina en frame: 5 
+
+[INFO] 05:25:40:527 Proceso FM9/(8289:8289): Guardando pagina en frame: 6 
+
+[INFO] 05:25:40:528 Proceso FM9/(8289:8289): Guardando pagina en frame: 7 
+
+[INFO] 05:25:40:528 Proceso FM9/(8289:8289): Guardando pagina en frame: 8 
+
+[INFO] 05:25:40:529 Proceso FM9/(8289:8289): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 05:25:40:570 Consola FM9/(8289:8289): Leyendo archivo
+[INFO] 05:25:40:610 Proceso FM9/(8289:8289): Abriendo archivo 1
+
+[INFO] 05:25:40:628 Consola FM9/(8289:8289): Modificando linea
+[INFO] 05:25:40:676 Proceso FM9/(8289:8289): Modificando linea 1
+
+[INFO] 05:32:51:354 Proceso FM9/(8488:8488): Inicio del proceso
+[INFO] 05:32:51:522 Proceso FM9/(8488:8488): ---- Configuracion ----
+[INFO] 05:32:51:524 Proceso FM9/(8488:8488): PUERTO = 8003
+[INFO] 05:32:51:525 Proceso FM9/(8488:8488): MODO = TPI
+[INFO] 05:32:51:526 Proceso FM9/(8488:8488): TAMANIO = 8192
+[INFO] 05:32:51:527 Proceso FM9/(8488:8488): MAX_LINEA = 64
+[INFO] 05:32:51:528 Proceso FM9/(8488:8488): TAM_PAGINA = 128
+[INFO] 05:32:51:529 Proceso FM9/(8488:8488): -----------------------
+[INFO] 05:32:51:537 Proceso FM9/(8488:8488): Tablas de Paginación Invertida seteada
+[INFO] 05:32:51:544 Proceso FM9/(8488:8488): Inicialización de memoria exitosa
+[ERROR] 05:32:53:906 Consola FM9/(8488:8488): select
+[INFO] 05:33:10:844 Proceso FM9/(8516:8516): Inicio del proceso
+[INFO] 05:33:11:105 Proceso FM9/(8516:8516): ---- Configuracion ----
+[INFO] 05:33:11:107 Proceso FM9/(8516:8516): PUERTO = 8003
+[INFO] 05:33:11:108 Proceso FM9/(8516:8516): MODO = TPI
+[INFO] 05:33:11:110 Proceso FM9/(8516:8516): TAMANIO = 8192
+[INFO] 05:33:11:118 Proceso FM9/(8516:8516): MAX_LINEA = 64
+[INFO] 05:33:11:119 Proceso FM9/(8516:8516): TAM_PAGINA = 128
+[INFO] 05:33:11:123 Proceso FM9/(8516:8516): -----------------------
+[INFO] 05:33:11:141 Proceso FM9/(8516:8516): Tablas de Paginación Invertida seteada
+[INFO] 05:33:11:148 Proceso FM9/(8516:8516): Inicialización de memoria exitosa
+[INFO] 05:33:15:231 Consola FM9/(8516:8516): Nueva conexion desde El Diego
+[INFO] 05:33:16:965 Consola FM9/(8516:8516): Nueva conexion de CPU
+[INFO] 05:33:30:246 Consola FM9/(8516:8516): Cargando archivo en memoria
+[INFO] 05:33:30:313 Proceso FM9/(8516:8516): Guardando pagina en frame: 0 
+
+[INFO] 05:33:30:317 Proceso FM9/(8516:8516): Guardando pagina en frame: 1 
+
+[INFO] 05:33:30:318 Proceso FM9/(8516:8516): Guardando pagina en frame: 2 
+
+[INFO] 05:33:30:319 Proceso FM9/(8516:8516): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 05:33:30:426 Consola FM9/(8516:8516): Leyendo archivo
+[INFO] 05:33:30:472 Proceso FM9/(8516:8516): Abriendo archivo 1
+
+[INFO] 05:33:32:562 Consola FM9/(8516:8516): Cargando archivo en memoria
+[INFO] 05:33:32:606 Proceso FM9/(8516:8516): Guardando pagina en frame: 3 
+
+[INFO] 05:33:32:607 Proceso FM9/(8516:8516): Guardando pagina en frame: 4 
+
+[INFO] 05:33:32:607 Proceso FM9/(8516:8516): Guardando pagina en frame: 5 
+
+[INFO] 05:33:32:607 Proceso FM9/(8516:8516): Guardando pagina en frame: 6 
+
+[INFO] 05:33:32:608 Proceso FM9/(8516:8516): Guardando pagina en frame: 7 
+
+[INFO] 05:33:32:608 Proceso FM9/(8516:8516): Guardando pagina en frame: 8 
+
+[INFO] 05:33:32:609 Proceso FM9/(8516:8516): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 05:33:32:650 Consola FM9/(8516:8516): Leyendo archivo
+[INFO] 05:33:32:691 Proceso FM9/(8516:8516): Abriendo archivo 1
+
+[INFO] 05:33:32:722 Consola FM9/(8516:8516): Modificando linea
+[INFO] 05:33:32:767 Proceso FM9/(8516:8516): Modificando linea 1
+
+[INFO] 05:33:32:807 Consola FM9/(8516:8516): Leyendo archivo
+[INFO] 05:33:32:846 Proceso FM9/(8516:8516): Abriendo archivo 1
+
+[INFO] 05:33:32:887 Consola FM9/(8516:8516): Closing file
+[INFO] 05:33:32:934 Proceso FM9/(8516:8516): Se ha cerrado el archivo ID:2 
+
+[INFO] 05:33:32:945 Proceso FM9/(8516:8516): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 05:33:32:947 Consola FM9/(8516:8516): Closing process
+[INFO] 05:33:32:984 Proceso FM9/(8516:8516): Se ha cerrado el proceso PID: 1
+[INFO] 05:33:32:987 Proceso FM9/(8516:8516): Se ha cerrado el archivo ID:1 
+
+[INFO] 05:38:14:137 Proceso FM9/(8687:8687): Inicio del proceso
+[INFO] 05:38:15:340 Proceso FM9/(8687:8687): ---- Configuracion ----
+[INFO] 05:38:15:342 Proceso FM9/(8687:8687): PUERTO = 8003
+[INFO] 05:38:15:343 Proceso FM9/(8687:8687): MODO = TPI
+[INFO] 05:38:15:344 Proceso FM9/(8687:8687): TAMANIO = 8192
+[INFO] 05:38:15:345 Proceso FM9/(8687:8687): MAX_LINEA = 64
+[INFO] 05:38:15:346 Proceso FM9/(8687:8687): TAM_PAGINA = 128
+[INFO] 05:38:15:348 Proceso FM9/(8687:8687): -----------------------
+[INFO] 05:38:15:357 Proceso FM9/(8687:8687): Tablas de Paginación Invertida seteada
+[INFO] 05:38:15:367 Proceso FM9/(8687:8687): Inicialización de memoria exitosa
+[INFO] 05:38:21:182 Consola FM9/(8687:8687): Nueva conexion desde El Diego
+[INFO] 05:38:23:638 Consola FM9/(8687:8687): Nueva conexion de CPU
+[INFO] 05:38:35:558 Consola FM9/(8687:8687): Cargando archivo en memoria
+[INFO] 05:38:35:620 Proceso FM9/(8687:8687): Guardando pagina en frame: 0 
+
+[INFO] 05:38:35:624 Proceso FM9/(8687:8687): Guardando pagina en frame: 1 
+
+[INFO] 05:38:35:625 Proceso FM9/(8687:8687): Guardando pagina en frame: 2 
+
+[INFO] 05:38:35:626 Proceso FM9/(8687:8687): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 05:38:35:666 Consola FM9/(8687:8687): Leyendo archivo
+[INFO] 05:38:35:712 Proceso FM9/(8687:8687): Abriendo archivo 1
+
+[INFO] 05:38:37:830 Consola FM9/(8687:8687): Cargando archivo en memoria
+[INFO] 05:38:37:874 Proceso FM9/(8687:8687): Guardando pagina en frame: 3 
+
+[INFO] 05:38:37:875 Proceso FM9/(8687:8687): Guardando pagina en frame: 4 
+
+[INFO] 05:38:37:875 Proceso FM9/(8687:8687): Guardando pagina en frame: 5 
+
+[INFO] 05:38:37:876 Proceso FM9/(8687:8687): Guardando pagina en frame: 6 
+
+[INFO] 05:38:37:876 Proceso FM9/(8687:8687): Guardando pagina en frame: 7 
+
+[INFO] 05:38:37:877 Proceso FM9/(8687:8687): Guardando pagina en frame: 8 
+
+[INFO] 05:38:37:877 Proceso FM9/(8687:8687): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 05:38:37:918 Consola FM9/(8687:8687): Leyendo archivo
+[INFO] 05:38:37:958 Proceso FM9/(8687:8687): Abriendo archivo 1
+
+[INFO] 05:38:37:962 Consola FM9/(8687:8687): Modificando linea
+[INFO] 05:38:37:5 Proceso FM9/(8687:8687): Modificando linea 1
+
+[INFO] 05:38:38:47 Consola FM9/(8687:8687): Leyendo archivo
+[INFO] 05:38:38:87 Proceso FM9/(8687:8687): Abriendo archivo 1
+
+[INFO] 05:38:38:131 Consola FM9/(8687:8687): Closing file
+[INFO] 05:38:38:174 Proceso FM9/(8687:8687): Se ha cerrado el archivo ID:2 
+
+[INFO] 05:38:38:188 Proceso FM9/(8687:8687): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 05:38:38:190 Consola FM9/(8687:8687): Closing process
+[INFO] 05:38:38:224 Proceso FM9/(8687:8687): Se ha cerrado el proceso PID: 1
+[INFO] 05:38:38:227 Proceso FM9/(8687:8687): Se ha cerrado el archivo ID:1 
+
+[INFO] 05:42:24:126 Proceso FM9/(8788:8788): Inicio del proceso
+[INFO] 05:42:25:428 Proceso FM9/(8788:8788): ---- Configuracion ----
+[INFO] 05:42:25:431 Proceso FM9/(8788:8788): PUERTO = 8003
+[INFO] 05:42:25:432 Proceso FM9/(8788:8788): MODO = TPI
+[INFO] 05:42:25:434 Proceso FM9/(8788:8788): TAMANIO = 8192
+[INFO] 05:42:25:435 Proceso FM9/(8788:8788): MAX_LINEA = 64
+[INFO] 05:42:25:436 Proceso FM9/(8788:8788): TAM_PAGINA = 128
+[INFO] 05:42:25:437 Proceso FM9/(8788:8788): -----------------------
+[INFO] 05:42:25:461 Proceso FM9/(8788:8788): Tablas de Paginación Invertida seteada
+[INFO] 05:42:25:468 Proceso FM9/(8788:8788): Inicialización de memoria exitosa
+[INFO] 05:42:30:957 Consola FM9/(8788:8788): Nueva conexion desde El Diego
+[INFO] 05:42:32:541 Consola FM9/(8788:8788): Nueva conexion de CPU
+[INFO] 05:42:43:315 Consola FM9/(8788:8788): Cargando archivo en memoria
+[INFO] 05:42:43:396 Proceso FM9/(8788:8788): Guardando pagina en frame: 0 
+
+[INFO] 05:42:43:399 Proceso FM9/(8788:8788): Guardando pagina en frame: 1 
+
+[INFO] 05:42:43:400 Proceso FM9/(8788:8788): Guardando pagina en frame: 2 
+
+[INFO] 05:42:43:401 Proceso FM9/(8788:8788): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 05:42:43:446 Consola FM9/(8788:8788): Leyendo archivo
+[INFO] 05:42:43:496 Proceso FM9/(8788:8788): Abriendo archivo 1
+
+[INFO] 05:42:45:582 Consola FM9/(8788:8788): Cargando archivo en memoria
+[INFO] 05:42:45:587 Proceso FM9/(8788:8788): Guardando pagina en frame: 3 
+
+[INFO] 05:42:45:587 Proceso FM9/(8788:8788): Guardando pagina en frame: 4 
+
+[INFO] 05:42:45:587 Proceso FM9/(8788:8788): Guardando pagina en frame: 5 
+
+[INFO] 05:42:45:588 Proceso FM9/(8788:8788): Guardando pagina en frame: 6 
+
+[INFO] 05:42:45:588 Proceso FM9/(8788:8788): Guardando pagina en frame: 7 
+
+[INFO] 05:42:45:589 Proceso FM9/(8788:8788): Guardando pagina en frame: 8 
+
+[INFO] 05:42:45:589 Proceso FM9/(8788:8788): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 05:42:45:631 Consola FM9/(8788:8788): Leyendo archivo
+[INFO] 05:42:45:670 Proceso FM9/(8788:8788): Abriendo archivo 1
+
+[INFO] 05:42:45:674 Consola FM9/(8788:8788): Modificando linea
+[INFO] 05:42:45:718 Proceso FM9/(8788:8788): Modificando linea 1
+
+[INFO] 05:42:45:759 Consola FM9/(8788:8788): Leyendo archivo
+[INFO] 05:42:45:799 Proceso FM9/(8788:8788): Abriendo archivo 1
+
+[INFO] 05:42:45:843 Consola FM9/(8788:8788): Closing file
+[INFO] 05:42:45:940 Proceso FM9/(8788:8788): Se ha cerrado el archivo ID:2 
+
+[INFO] 05:42:45:949 Proceso FM9/(8788:8788): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 05:42:45:953 Consola FM9/(8788:8788): Closing process
+[INFO] 05:42:45:960 Proceso FM9/(8788:8788): Se ha cerrado el proceso PID: 1
+[INFO] 05:42:45:963 Proceso FM9/(8788:8788): Se ha cerrado el archivo ID:1 
+
+[INFO] 05:55:43:150 Proceso FM9/(3752:3752): Inicio del proceso
+[INFO] 05:55:43:355 Proceso FM9/(3752:3752): ---- Configuracion ----
+[INFO] 05:55:43:357 Proceso FM9/(3752:3752): PUERTO = 8003
+[INFO] 05:55:43:360 Proceso FM9/(3752:3752): MODO = TPI
+[INFO] 05:55:43:361 Proceso FM9/(3752:3752): TAMANIO = 8192
+[INFO] 05:55:43:362 Proceso FM9/(3752:3752): MAX_LINEA = 64
+[INFO] 05:55:43:364 Proceso FM9/(3752:3752): TAM_PAGINA = 128
+[INFO] 05:55:43:365 Proceso FM9/(3752:3752): -----------------------
+[INFO] 05:55:43:375 Proceso FM9/(3752:3752): Tablas de Paginación Invertida seteada
+[INFO] 05:55:43:389 Proceso FM9/(3752:3752): Inicialización de memoria exitosa
+[INFO] 05:56:22:950 Consola FM9/(3752:3752): Nueva conexion desde El Diego
+[INFO] 05:56:35:252 Consola FM9/(3752:3752): Nueva conexion de CPU
+[INFO] 05:56:49:113 Consola FM9/(3752:3752): Cargando archivo en memoria
+[INFO] 05:56:49:194 Proceso FM9/(3752:3752): Guardando pagina en frame: 0 
+
+[INFO] 05:56:49:211 Proceso FM9/(3752:3752): Guardando pagina en frame: 1 
+
+[INFO] 05:56:49:214 Proceso FM9/(3752:3752): Guardando pagina en frame: 2 
+
+[INFO] 05:56:49:218 Proceso FM9/(3752:3752): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 05:56:49:262 Consola FM9/(3752:3752): Leyendo archivo
+[INFO] 05:56:49:324 Proceso FM9/(3752:3752): Abriendo archivo 1
+
+[INFO] 05:56:51:416 Consola FM9/(3752:3752): Cargando archivo en memoria
+[INFO] 05:56:51:422 Proceso FM9/(3752:3752): Guardando pagina en frame: 3 
+
+[INFO] 05:56:51:423 Proceso FM9/(3752:3752): Guardando pagina en frame: 4 
+
+[INFO] 05:56:51:423 Proceso FM9/(3752:3752): Guardando pagina en frame: 5 
+
+[INFO] 05:56:51:424 Proceso FM9/(3752:3752): Guardando pagina en frame: 6 
+
+[INFO] 05:56:51:425 Proceso FM9/(3752:3752): Guardando pagina en frame: 7 
+
+[INFO] 05:56:51:434 Proceso FM9/(3752:3752): Guardando pagina en frame: 8 
+
+[INFO] 05:56:51:435 Proceso FM9/(3752:3752): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 05:56:51:475 Consola FM9/(3752:3752): Leyendo archivo
+[INFO] 05:56:51:515 Proceso FM9/(3752:3752): Abriendo archivo 1
+
+[INFO] 05:56:51:553 Consola FM9/(3752:3752): Modificando linea
+[INFO] 05:56:51:606 Proceso FM9/(3752:3752): Modificando linea 1
+
+[INFO] 05:56:51:653 Consola FM9/(3752:3752): Leyendo archivo
+[INFO] 05:56:51:692 Proceso FM9/(3752:3752): Abriendo archivo 1
+
+[INFO] 05:56:51:733 Consola FM9/(3752:3752): Closing file
+[INFO] 05:56:51:789 Proceso FM9/(3752:3752): Se ha cerrado el archivo ID:2 
+
+[INFO] 05:56:51:820 Proceso FM9/(3752:3752): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 05:56:51:834 Consola FM9/(3752:3752): Closing process
+[INFO] 05:56:51:855 Proceso FM9/(3752:3752): Se ha cerrado el proceso PID: 1
+[INFO] 05:56:51:872 Proceso FM9/(3752:3752): Se ha cerrado el archivo ID:1 
+
+[INFO] 05:59:47:116 Proceso FM9/(3873:3873): Inicio del proceso
+[INFO] 05:59:48:278 Proceso FM9/(3873:3873): ---- Configuracion ----
+[INFO] 05:59:48:282 Proceso FM9/(3873:3873): PUERTO = 8003
+[INFO] 05:59:48:283 Proceso FM9/(3873:3873): MODO = TPI
+[INFO] 05:59:48:285 Proceso FM9/(3873:3873): TAMANIO = 8192
+[INFO] 05:59:48:286 Proceso FM9/(3873:3873): MAX_LINEA = 64
+[INFO] 05:59:48:288 Proceso FM9/(3873:3873): TAM_PAGINA = 128
+[INFO] 05:59:48:289 Proceso FM9/(3873:3873): -----------------------
+[INFO] 05:59:48:301 Proceso FM9/(3873:3873): Tablas de Paginación Invertida seteada
+[INFO] 05:59:48:310 Proceso FM9/(3873:3873): Inicialización de memoria exitosa
+[INFO] 06:00:19:42 Consola FM9/(3873:3873): Nueva conexion desde El Diego
+[INFO] 06:00:21:290 Consola FM9/(3873:3873): Nueva conexion de CPU
+[INFO] 06:01:01:348 Consola FM9/(3873:3873): Cargando archivo en memoria
+[INFO] 06:01:01:422 Proceso FM9/(3873:3873): Guardando pagina en frame: 0 
+
+[INFO] 06:01:01:427 Proceso FM9/(3873:3873): Guardando pagina en frame: 1 
+
+[INFO] 06:01:01:428 Proceso FM9/(3873:3873): Guardando pagina en frame: 2 
+
+[INFO] 06:01:01:429 Proceso FM9/(3873:3873): Guardando pagina en frame: 3 
+
+[INFO] 06:01:01:429 Proceso FM9/(3873:3873): Guardando pagina en frame: 4 
+
+[INFO] 06:01:01:431 Proceso FM9/(3873:3873): Guardando pagina en frame: 5 
+
+[INFO] 06:01:01:433 Proceso FM9/(3873:3873): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 06:01:01:476 Consola FM9/(3873:3873): Leyendo archivo
+[INFO] 06:01:01:526 Proceso FM9/(3873:3873): Abriendo archivo 1
+
+[INFO] 06:01:02:549 Consola FM9/(3873:3873): Leyendo archivo
+[INFO] 06:01:02:587 Proceso FM9/(3873:3873): Abriendo archivo 1
+
+[INFO] 06:01:04:632 Consola FM9/(3873:3873): Cargando archivo en memoria
+[INFO] 06:01:04:636 Proceso FM9/(3873:3873): Guardando pagina en frame: 6 
+
+[INFO] 06:01:04:637 Proceso FM9/(3873:3873): Guardando pagina en frame: 7 
+
+[INFO] 06:01:04:638 Proceso FM9/(3873:3873): Guardando pagina en frame: 8 
+
+[INFO] 06:01:04:639 Proceso FM9/(3873:3873): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 06:01:04:679 Consola FM9/(3873:3873): Leyendo archivo
+[INFO] 06:01:04:719 Proceso FM9/(3873:3873): Abriendo archivo 1
+
+[INFO] 06:01:04:728 Consola FM9/(3873:3873): Modificando linea
+[INFO] 06:01:04:777 Proceso FM9/(3873:3873): Modificando linea 1
+
+[INFO] 06:01:04:821 Consola FM9/(3873:3873): Modificando linea
+[INFO] 06:01:04:860 Proceso FM9/(3873:3873): Modificando linea 2
+
+[INFO] 06:01:04:902 Consola FM9/(3873:3873): Leyendo archivo
+[INFO] 06:01:04:942 Proceso FM9/(3873:3873): Abriendo archivo 1
+
+[INFO] 06:01:04:986 Consola FM9/(3873:3873): Modificando linea
+[INFO] 06:01:05:24 Proceso FM9/(3873:3873): Modificando linea 3
+
+[INFO] 06:01:06:68 Consola FM9/(3873:3873): Flushing
+[ERROR] 06:02:12:514 Consola FM9/(3873:3873): select
+[INFO] 06:02:24:743 Proceso FM9/(3947:3947): Inicio del proceso
+[INFO] 06:02:25:141 Proceso FM9/(3947:3947): ---- Configuracion ----
+[INFO] 06:02:25:148 Proceso FM9/(3947:3947): PUERTO = 8003
+[INFO] 06:02:25:150 Proceso FM9/(3947:3947): MODO = TPI
+[INFO] 06:02:25:158 Proceso FM9/(3947:3947): TAMANIO = 8192
+[INFO] 06:02:25:160 Proceso FM9/(3947:3947): MAX_LINEA = 64
+[INFO] 06:02:25:167 Proceso FM9/(3947:3947): TAM_PAGINA = 128
+[INFO] 06:02:25:171 Proceso FM9/(3947:3947): -----------------------
+[INFO] 06:02:25:198 Proceso FM9/(3947:3947): Tablas de Paginación Invertida seteada
+[INFO] 06:02:25:237 Proceso FM9/(3947:3947): Inicialización de memoria exitosa
+[INFO] 06:02:26:312 Consola FM9/(3947:3947): Nueva conexion desde El Diego
+[INFO] 06:02:27:804 Consola FM9/(3947:3947): Nueva conexion de CPU
+[INFO] 06:02:41:784 Consola FM9/(3947:3947): Cargando archivo en memoria
+[INFO] 06:02:41:854 Proceso FM9/(3947:3947): Guardando pagina en frame: 0 
+
+[INFO] 06:02:41:870 Proceso FM9/(3947:3947): Guardando pagina en frame: 1 
+
+[INFO] 06:02:41:874 Proceso FM9/(3947:3947): Guardando pagina en frame: 2 
+
+[INFO] 06:02:41:877 Proceso FM9/(3947:3947): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 06:02:41:925 Consola FM9/(3947:3947): Leyendo archivo
+[INFO] 06:02:41:989 Proceso FM9/(3947:3947): Abriendo archivo 1
+
+[INFO] 06:02:44:113 Consola FM9/(3947:3947): Cargando archivo en memoria
+[INFO] 06:02:44:137 Proceso FM9/(3947:3947): Guardando pagina en frame: 3 
+
+[INFO] 06:02:44:146 Proceso FM9/(3947:3947): Guardando pagina en frame: 4 
+
+[INFO] 06:02:44:150 Proceso FM9/(3947:3947): Guardando pagina en frame: 5 
+
+[INFO] 06:02:44:151 Proceso FM9/(3947:3947): Guardando pagina en frame: 6 
+
+[INFO] 06:02:44:155 Proceso FM9/(3947:3947): Guardando pagina en frame: 7 
+
+[INFO] 06:02:44:157 Proceso FM9/(3947:3947): Guardando pagina en frame: 8 
+
+[INFO] 06:02:44:157 Proceso FM9/(3947:3947): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 06:02:44:199 Consola FM9/(3947:3947): Leyendo archivo
+[INFO] 06:02:44:240 Proceso FM9/(3947:3947): Abriendo archivo 1
+
+[INFO] 06:02:44:244 Consola FM9/(3947:3947): Modificando linea
+[INFO] 06:02:44:302 Proceso FM9/(3947:3947): Modificando linea 1
+
+[INFO] 06:02:44:387 Consola FM9/(3947:3947): Leyendo archivo
+[INFO] 06:02:44:388 Proceso FM9/(3947:3947): Abriendo archivo 1
+
+[INFO] 06:02:44:429 Consola FM9/(3947:3947): Closing file
+[INFO] 06:02:44:588 Proceso FM9/(3947:3947): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:02:44:641 Proceso FM9/(3947:3947): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 06:02:44:645 Consola FM9/(3947:3947): Closing process
+[INFO] 06:02:44:677 Proceso FM9/(3947:3947): Se ha cerrado el proceso PID: 1
+[INFO] 06:02:44:695 Proceso FM9/(3947:3947): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:06:08:353 Proceso FM9/(4086:4086): Inicio del proceso
+[INFO] 06:06:08:630 Proceso FM9/(4086:4086): ---- Configuracion ----
+[INFO] 06:06:08:639 Proceso FM9/(4086:4086): PUERTO = 8003
+[INFO] 06:06:08:643 Proceso FM9/(4086:4086): MODO = TPI
+[INFO] 06:06:08:648 Proceso FM9/(4086:4086): TAMANIO = 8192
+[INFO] 06:06:08:659 Proceso FM9/(4086:4086): MAX_LINEA = 64
+[INFO] 06:06:08:660 Proceso FM9/(4086:4086): TAM_PAGINA = 128
+[INFO] 06:06:08:674 Proceso FM9/(4086:4086): -----------------------
+[INFO] 06:06:08:728 Proceso FM9/(4086:4086): Tablas de Paginación Invertida seteada
+[INFO] 06:06:08:764 Proceso FM9/(4086:4086): Inicialización de memoria exitosa
+[INFO] 06:06:12:77 Consola FM9/(4086:4086): Nueva conexion desde El Diego
+[INFO] 06:06:13:448 Consola FM9/(4086:4086): Nueva conexion de CPU
+[INFO] 06:06:38:745 Consola FM9/(4086:4086): CPU desconectada
+[ERROR] 06:06:39:358 Consola FM9/(4086:4086): select
+[INFO] 06:06:47:703 Proceso FM9/(4123:4123): Inicio del proceso
+[INFO] 06:06:47:822 Proceso FM9/(4123:4123): ---- Configuracion ----
+[INFO] 06:06:47:826 Proceso FM9/(4123:4123): PUERTO = 8003
+[INFO] 06:06:47:827 Proceso FM9/(4123:4123): MODO = TPI
+[INFO] 06:06:47:828 Proceso FM9/(4123:4123): TAMANIO = 8192
+[INFO] 06:06:47:829 Proceso FM9/(4123:4123): MAX_LINEA = 64
+[INFO] 06:06:47:830 Proceso FM9/(4123:4123): TAM_PAGINA = 128
+[INFO] 06:06:47:834 Proceso FM9/(4123:4123): -----------------------
+[INFO] 06:06:47:844 Proceso FM9/(4123:4123): Tablas de Paginación Invertida seteada
+[INFO] 06:06:47:863 Proceso FM9/(4123:4123): Inicialización de memoria exitosa
+[INFO] 06:06:50:761 Consola FM9/(4123:4123): Nueva conexion desde El Diego
+[INFO] 06:06:52:143 Consola FM9/(4123:4123): Nueva conexion de CPU
+[INFO] 06:07:02:940 Consola FM9/(4123:4123): Cargando archivo en memoria
+[INFO] 06:07:03:22 Proceso FM9/(4123:4123): Guardando pagina en frame: 0 
+
+[INFO] 06:07:03:28 Proceso FM9/(4123:4123): Guardando pagina en frame: 1 
+
+[INFO] 06:07:03:29 Proceso FM9/(4123:4123): Guardando pagina en frame: 2 
+
+[INFO] 06:07:03:31 Proceso FM9/(4123:4123): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 06:07:03:76 Consola FM9/(4123:4123): Leyendo archivo
+[INFO] 06:07:03:126 Proceso FM9/(4123:4123): Abriendo archivo 1
+
+[INFO] 06:07:05:207 Consola FM9/(4123:4123): Cargando archivo en memoria
+[INFO] 06:07:05:212 Proceso FM9/(4123:4123): Guardando pagina en frame: 3 
+
+[INFO] 06:07:05:213 Proceso FM9/(4123:4123): Guardando pagina en frame: 4 
+
+[INFO] 06:07:05:213 Proceso FM9/(4123:4123): Guardando pagina en frame: 5 
+
+[INFO] 06:07:05:216 Proceso FM9/(4123:4123): Guardando pagina en frame: 6 
+
+[INFO] 06:07:05:223 Proceso FM9/(4123:4123): Guardando pagina en frame: 7 
+
+[INFO] 06:07:05:223 Proceso FM9/(4123:4123): Guardando pagina en frame: 8 
+
+[INFO] 06:07:05:224 Proceso FM9/(4123:4123): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 06:07:05:263 Consola FM9/(4123:4123): Leyendo archivo
+[INFO] 06:07:05:303 Proceso FM9/(4123:4123): Abriendo archivo 1
+
+[INFO] 06:07:05:308 Consola FM9/(4123:4123): Modificando linea
+[INFO] 06:07:05:361 Proceso FM9/(4123:4123): Modificando linea 1
+
+[INFO] 06:07:05:409 Consola FM9/(4123:4123): Leyendo archivo
+[INFO] 06:07:05:448 Proceso FM9/(4123:4123): Abriendo archivo 1
+
+[INFO] 06:07:05:493 Consola FM9/(4123:4123): Closing file
+[INFO] 06:07:05:562 Proceso FM9/(4123:4123): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:07:05:582 Proceso FM9/(4123:4123): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 06:07:05:585 Consola FM9/(4123:4123): Closing process
+[INFO] 06:07:05:602 Proceso FM9/(4123:4123): Se ha cerrado el proceso PID: 1
+[INFO] 06:07:05:608 Proceso FM9/(4123:4123): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:07:05:609 Proceso FM9/(4123:4123): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:07:05:611 Proceso FM9/(4123:4123): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:07:05:612 Proceso FM9/(4123:4123): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:07:05:612 Proceso FM9/(4123:4123): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:07:05:613 Proceso FM9/(4123:4123): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:07:05:613 Proceso FM9/(4123:4123): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:07:05:614 Proceso FM9/(4123:4123): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:08:13:135 Consola FM9/(4123:4123): Cargando archivo en memoria
+[INFO] 06:08:13:178 Proceso FM9/(4123:4123): Guardando pagina en frame: 0 
+
+[INFO] 06:08:13:178 Proceso FM9/(4123:4123): Guardando pagina en frame: 1 
+
+[INFO] 06:08:13:179 Proceso FM9/(4123:4123): Guardando pagina en frame: 2 
+
+[INFO] 06:08:13:179 Proceso FM9/(4123:4123): Guardando pagina en frame: 3 
+
+[INFO] 06:08:13:180 Proceso FM9/(4123:4123): Guardando pagina en frame: 4 
+
+[INFO] 06:08:13:180 Proceso FM9/(4123:4123): Guardando pagina en frame: 5 
+
+[INFO] 06:08:13:181 Proceso FM9/(4123:4123): Se guardo el archivo ID: 3 en memoria 
+
+[INFO] 06:08:13:223 Consola FM9/(4123:4123): Leyendo archivo
+[INFO] 06:08:13:237 Proceso FM9/(4123:4123): Abriendo archivo 3
+
+[INFO] 06:08:14:303 Consola FM9/(4123:4123): Leyendo archivo
+[INFO] 06:08:14:345 Proceso FM9/(4123:4123): Abriendo archivo 3
+
+[INFO] 06:08:16:388 Consola FM9/(4123:4123): Cargando archivo en memoria
+[INFO] 06:08:16:429 Proceso FM9/(4123:4123): Guardando pagina en frame: 6 
+
+[INFO] 06:08:16:429 Proceso FM9/(4123:4123): Guardando pagina en frame: 7 
+
+[INFO] 06:08:16:430 Proceso FM9/(4123:4123): Guardando pagina en frame: 8 
+
+[INFO] 06:08:16:430 Proceso FM9/(4123:4123): Se guardo el archivo ID: 4 en memoria 
+
+[INFO] 06:08:16:472 Consola FM9/(4123:4123): Leyendo archivo
+[INFO] 06:08:16:512 Proceso FM9/(4123:4123): Abriendo archivo 3
+
+[INFO] 06:08:16:518 Consola FM9/(4123:4123): Modificando linea
+[INFO] 06:08:16:558 Proceso FM9/(4123:4123): Modificando linea 1
+
+[INFO] 06:08:16:597 Consola FM9/(4123:4123): Modificando linea
+[INFO] 06:08:16:638 Proceso FM9/(4123:4123): Modificando linea 2
+
+[INFO] 06:08:16:683 Consola FM9/(4123:4123): Leyendo archivo
+[INFO] 06:08:16:720 Proceso FM9/(4123:4123): Abriendo archivo 3
+
+[INFO] 06:08:16:764 Consola FM9/(4123:4123): Modificando linea
+[INFO] 06:08:16:803 Proceso FM9/(4123:4123): Modificando linea 3
+
+[INFO] 06:08:17:845 Consola FM9/(4123:4123): Flushing
+[INFO] 06:08:50:291 Consola FM9/(4123:4123): CPU desconectada
+[ERROR] 06:08:54:846 Consola FM9/(4123:4123): select
+[INFO] 06:14:26:205 Proceso FM9/(4411:4411): Inicio del proceso
+[INFO] 06:14:26:243 Proceso FM9/(4411:4411): ---- Configuracion ----
+[INFO] 06:14:26:243 Proceso FM9/(4411:4411): PUERTO = 8003
+[INFO] 06:14:26:243 Proceso FM9/(4411:4411): MODO = TPI
+[INFO] 06:14:26:243 Proceso FM9/(4411:4411): TAMANIO = 8192
+[INFO] 06:14:26:243 Proceso FM9/(4411:4411): MAX_LINEA = 64
+[INFO] 06:14:26:243 Proceso FM9/(4411:4411): TAM_PAGINA = 128
+[INFO] 06:14:26:243 Proceso FM9/(4411:4411): -----------------------
+[INFO] 06:14:26:243 Proceso FM9/(4411:4411): Tablas de Paginación Invertida seteada
+[INFO] 06:14:26:243 Proceso FM9/(4411:4411): Inicialización de memoria exitosa
+[INFO] 06:14:31:531 Consola FM9/(4411:4411): Nueva conexion desde El Diego
+[INFO] 06:14:33:684 Consola FM9/(4411:4411): Nueva conexion de CPU
+[INFO] 06:14:46:656 Consola FM9/(4411:4411): Cargando archivo en memoria
+[INFO] 06:14:46:695 Proceso FM9/(4411:4411): Guardando pagina en frame: 0 
+
+[INFO] 06:14:46:695 Proceso FM9/(4411:4411): Guardando pagina en frame: 1 
+
+[INFO] 06:14:46:695 Proceso FM9/(4411:4411): Guardando pagina en frame: 2 
+
+[INFO] 06:14:46:695 Proceso FM9/(4411:4411): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 06:14:46:735 Consola FM9/(4411:4411): Leyendo archivo
+[INFO] 06:14:46:775 Proceso FM9/(4411:4411): Abriendo archivo 1
+
+[INFO] 06:14:48:851 Consola FM9/(4411:4411): Cargando archivo en memoria
+[INFO] 06:14:48:891 Proceso FM9/(4411:4411): Guardando pagina en frame: 3 
+
+[INFO] 06:14:48:891 Proceso FM9/(4411:4411): Guardando pagina en frame: 4 
+
+[INFO] 06:14:48:891 Proceso FM9/(4411:4411): Guardando pagina en frame: 5 
+
+[INFO] 06:14:48:891 Proceso FM9/(4411:4411): Guardando pagina en frame: 6 
+
+[INFO] 06:14:48:891 Proceso FM9/(4411:4411): Guardando pagina en frame: 7 
+
+[INFO] 06:14:48:891 Proceso FM9/(4411:4411): Guardando pagina en frame: 8 
+
+[INFO] 06:14:48:892 Proceso FM9/(4411:4411): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 06:14:48:931 Consola FM9/(4411:4411): Leyendo archivo
+[INFO] 06:14:48:971 Proceso FM9/(4411:4411): Abriendo archivo 1
+
+[INFO] 06:14:48:974 Consola FM9/(4411:4411): Modificando linea
+[INFO] 06:14:49:11 Proceso FM9/(4411:4411): Modificando linea 1
+
+[INFO] 06:14:49:53 Consola FM9/(4411:4411): Leyendo archivo
+[INFO] 06:14:49:91 Proceso FM9/(4411:4411): Abriendo archivo 1
+
+[INFO] 06:14:49:132 Consola FM9/(4411:4411): Closing file
+[INFO] 06:14:49:171 Proceso FM9/(4411:4411): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:14:49:171 Proceso FM9/(4411:4411): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 06:14:49:172 Consola FM9/(4411:4411): Closing process
+[INFO] 06:14:49:211 Proceso FM9/(4411:4411): Se ha cerrado el proceso PID: 1
+[INFO] 06:14:49:211 Proceso FM9/(4411:4411): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:14:49:211 Proceso FM9/(4411:4411): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:14:49:211 Proceso FM9/(4411:4411): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:14:49:211 Proceso FM9/(4411:4411): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:14:49:211 Proceso FM9/(4411:4411): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:14:49:211 Proceso FM9/(4411:4411): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:14:49:212 Proceso FM9/(4411:4411): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:14:49:212 Proceso FM9/(4411:4411): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:15:05:999 Consola FM9/(4411:4411): Cargando archivo en memoria
+[INFO] 06:15:06:39 Proceso FM9/(4411:4411): Guardando pagina en frame: 0 
+
+[INFO] 06:15:06:39 Proceso FM9/(4411:4411): Guardando pagina en frame: 1 
+
+[INFO] 06:15:06:39 Proceso FM9/(4411:4411): Guardando pagina en frame: 2 
+
+[INFO] 06:15:06:39 Proceso FM9/(4411:4411): Guardando pagina en frame: 3 
+
+[INFO] 06:15:06:39 Proceso FM9/(4411:4411): Guardando pagina en frame: 4 
+
+[INFO] 06:15:06:40 Proceso FM9/(4411:4411): Guardando pagina en frame: 5 
+
+[INFO] 06:15:06:40 Proceso FM9/(4411:4411): Se guardo el archivo ID: 3 en memoria 
+
+[INFO] 06:15:06:79 Consola FM9/(4411:4411): Leyendo archivo
+[INFO] 06:15:06:120 Proceso FM9/(4411:4411): Abriendo archivo 3
+
+[INFO] 06:15:07:124 Consola FM9/(4411:4411): Leyendo archivo
+[INFO] 06:15:07:163 Proceso FM9/(4411:4411): Abriendo archivo 3
+
+[INFO] 06:15:09:203 Consola FM9/(4411:4411): Cargando archivo en memoria
+[INFO] 06:15:09:243 Proceso FM9/(4411:4411): Guardando pagina en frame: 6 
+
+[INFO] 06:15:09:243 Proceso FM9/(4411:4411): Guardando pagina en frame: 7 
+
+[INFO] 06:15:09:243 Proceso FM9/(4411:4411): Guardando pagina en frame: 8 
+
+[INFO] 06:15:09:243 Proceso FM9/(4411:4411): Se guardo el archivo ID: 4 en memoria 
+
+[INFO] 06:15:09:284 Consola FM9/(4411:4411): Leyendo archivo
+[INFO] 06:15:09:323 Proceso FM9/(4411:4411): Abriendo archivo 3
+
+[INFO] 06:15:09:325 Consola FM9/(4411:4411): Modificando linea
+[INFO] 06:15:09:363 Proceso FM9/(4411:4411): Modificando linea 1
+
+[INFO] 06:15:09:404 Consola FM9/(4411:4411): Modificando linea
+[INFO] 06:15:09:443 Proceso FM9/(4411:4411): Modificando linea 2
+
+[INFO] 06:15:09:484 Consola FM9/(4411:4411): Leyendo archivo
+[INFO] 06:15:09:523 Proceso FM9/(4411:4411): Abriendo archivo 3
+
+[INFO] 06:15:09:564 Consola FM9/(4411:4411): Modificando linea
+[INFO] 06:15:09:603 Proceso FM9/(4411:4411): Modificando linea 3
+
+[INFO] 06:15:10:644 Consola FM9/(4411:4411): Flushing
+[ERROR] 06:16:10:222 Consola FM9/(4411:4411): select
+[INFO] 06:16:36:588 Proceso FM9/(4546:4546): Inicio del proceso
+[INFO] 06:16:36:600 Proceso FM9/(4546:4546): ---- Configuracion ----
+[INFO] 06:16:36:600 Proceso FM9/(4546:4546): PUERTO = 8003
+[INFO] 06:16:36:600 Proceso FM9/(4546:4546): MODO = TPI
+[INFO] 06:16:36:600 Proceso FM9/(4546:4546): TAMANIO = 8192
+[INFO] 06:16:36:600 Proceso FM9/(4546:4546): MAX_LINEA = 64
+[INFO] 06:16:36:600 Proceso FM9/(4546:4546): TAM_PAGINA = 128
+[INFO] 06:16:36:600 Proceso FM9/(4546:4546): -----------------------
+[INFO] 06:16:36:600 Proceso FM9/(4546:4546): Tablas de Paginación Invertida seteada
+[INFO] 06:16:36:600 Proceso FM9/(4546:4546): Inicialización de memoria exitosa
+[INFO] 06:16:45:205 Consola FM9/(4546:4546): Nueva conexion desde El Diego
+[INFO] 06:16:46:981 Consola FM9/(4546:4546): Nueva conexion de CPU
+[INFO] 06:17:01:631 Consola FM9/(4546:4546): Cargando archivo en memoria
+[INFO] 06:17:01:671 Proceso FM9/(4546:4546): Guardando pagina en frame: 0 
+
+[INFO] 06:17:01:671 Proceso FM9/(4546:4546): Guardando pagina en frame: 1 
+
+[INFO] 06:17:01:671 Proceso FM9/(4546:4546): Guardando pagina en frame: 2 
+
+[INFO] 06:17:01:671 Proceso FM9/(4546:4546): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 06:17:01:711 Consola FM9/(4546:4546): Leyendo archivo
+[INFO] 06:17:01:751 Proceso FM9/(4546:4546): Abriendo archivo 1
+
+[INFO] 06:17:03:791 Consola FM9/(4546:4546): Cargando archivo en memoria
+[INFO] 06:17:03:831 Proceso FM9/(4546:4546): Guardando pagina en frame: 3 
+
+[INFO] 06:17:03:831 Proceso FM9/(4546:4546): Guardando pagina en frame: 4 
+
+[INFO] 06:17:03:832 Proceso FM9/(4546:4546): Guardando pagina en frame: 5 
+
+[INFO] 06:17:03:832 Proceso FM9/(4546:4546): Guardando pagina en frame: 6 
+
+[INFO] 06:17:03:832 Proceso FM9/(4546:4546): Guardando pagina en frame: 7 
+
+[INFO] 06:17:03:832 Proceso FM9/(4546:4546): Guardando pagina en frame: 8 
+
+[INFO] 06:17:03:832 Proceso FM9/(4546:4546): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 06:17:03:871 Consola FM9/(4546:4546): Leyendo archivo
+[INFO] 06:17:03:911 Proceso FM9/(4546:4546): Abriendo archivo 1
+
+[INFO] 06:17:03:913 Consola FM9/(4546:4546): Modificando linea
+[INFO] 06:17:03:951 Proceso FM9/(4546:4546): Modificando linea 1
+
+[INFO] 06:17:03:994 Consola FM9/(4546:4546): Leyendo archivo
+[INFO] 06:17:04:31 Proceso FM9/(4546:4546): Abriendo archivo 1
+
+[INFO] 06:17:04:71 Consola FM9/(4546:4546): Closing file
+[INFO] 06:17:04:111 Proceso FM9/(4546:4546): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:17:04:111 Proceso FM9/(4546:4546): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 06:17:04:112 Consola FM9/(4546:4546): Closing process
+[INFO] 06:17:04:151 Proceso FM9/(4546:4546): Se ha cerrado el proceso PID: 1
+[INFO] 06:17:04:151 Proceso FM9/(4546:4546): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:17:04:151 Proceso FM9/(4546:4546): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:17:04:151 Proceso FM9/(4546:4546): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:17:04:151 Proceso FM9/(4546:4546): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:17:04:151 Proceso FM9/(4546:4546): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:17:04:151 Proceso FM9/(4546:4546): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:17:04:151 Proceso FM9/(4546:4546): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:17:04:151 Proceso FM9/(4546:4546): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:17:18:159 Consola FM9/(4546:4546): Cargando archivo en memoria
+[INFO] 06:17:18:199 Proceso FM9/(4546:4546): Guardando pagina en frame: 0 
+
+[INFO] 06:17:18:200 Proceso FM9/(4546:4546): Guardando pagina en frame: 1 
+
+[INFO] 06:17:18:200 Proceso FM9/(4546:4546): Guardando pagina en frame: 2 
+
+[INFO] 06:17:18:200 Proceso FM9/(4546:4546): Guardando pagina en frame: 3 
+
+[INFO] 06:17:18:200 Proceso FM9/(4546:4546): Guardando pagina en frame: 4 
+
+[INFO] 06:17:18:200 Proceso FM9/(4546:4546): Guardando pagina en frame: 5 
+
+[INFO] 06:17:18:200 Proceso FM9/(4546:4546): Se guardo el archivo ID: 3 en memoria 
+
+[INFO] 06:17:18:239 Consola FM9/(4546:4546): Leyendo archivo
+[INFO] 06:17:18:279 Proceso FM9/(4546:4546): Abriendo archivo 3
+
+[INFO] 06:17:19:359 Consola FM9/(4546:4546): Leyendo archivo
+[INFO] 06:17:19:395 Proceso FM9/(4546:4546): Abriendo archivo 3
+
+[INFO] 06:17:21:435 Consola FM9/(4546:4546): Cargando archivo en memoria
+[INFO] 06:17:21:475 Proceso FM9/(4546:4546): Guardando pagina en frame: 6 
+
+[INFO] 06:17:21:475 Proceso FM9/(4546:4546): Guardando pagina en frame: 7 
+
+[INFO] 06:17:21:475 Proceso FM9/(4546:4546): Guardando pagina en frame: 8 
+
+[INFO] 06:17:21:475 Proceso FM9/(4546:4546): Se guardo el archivo ID: 4 en memoria 
+
+[INFO] 06:17:21:515 Consola FM9/(4546:4546): Leyendo archivo
+[INFO] 06:17:21:555 Proceso FM9/(4546:4546): Abriendo archivo 3
+
+[INFO] 06:17:21:557 Consola FM9/(4546:4546): Modificando linea
+[INFO] 06:17:21:595 Proceso FM9/(4546:4546): Modificando linea 1
+
+[INFO] 06:17:21:636 Consola FM9/(4546:4546): Modificando linea
+[INFO] 06:17:21:675 Proceso FM9/(4546:4546): Modificando linea 2
+
+[INFO] 06:17:21:716 Consola FM9/(4546:4546): Leyendo archivo
+[INFO] 06:17:21:755 Proceso FM9/(4546:4546): Abriendo archivo 3
+
+[INFO] 06:17:21:796 Consola FM9/(4546:4546): Modificando linea
+[INFO] 06:17:21:835 Proceso FM9/(4546:4546): Modificando linea 3
+
+[INFO] 06:17:22:876 Consola FM9/(4546:4546): Flushing
+[INFO] 06:18:46:291 Consola FM9/(4546:4546): CPU desconectada
+[ERROR] 06:18:46:779 Consola FM9/(4546:4546): select
+[INFO] 06:19:18:781 Proceso FM9/(4636:4636): Inicio del proceso
+[INFO] 06:19:18:781 Proceso FM9/(4636:4636): ---- Configuracion ----
+[INFO] 06:19:18:781 Proceso FM9/(4636:4636): PUERTO = 8003
+[INFO] 06:19:18:781 Proceso FM9/(4636:4636): MODO = SPA
+[INFO] 06:19:18:781 Proceso FM9/(4636:4636): TAMANIO = 8192
+[INFO] 06:19:18:781 Proceso FM9/(4636:4636): MAX_LINEA = 64
+[INFO] 06:19:18:781 Proceso FM9/(4636:4636): TAM_PAGINA = 128
+[INFO] 06:19:18:781 Proceso FM9/(4636:4636): -----------------------
+[INFO] 06:19:18:782 Proceso FM9/(4636:4636): Segmentación Paginada seteada
+[INFO] 06:19:18:782 Proceso FM9/(4636:4636): Inicialización de memoria exitosa
+[INFO] 06:19:25:42 Consola FM9/(4636:4636): Nueva conexion desde El Diego
+[INFO] 06:19:26:922 Consola FM9/(4636:4636): Nueva conexion de CPU
+[INFO] 06:19:39:111 Consola FM9/(4636:4636): Cargando archivo en memoria
+[INFO] 06:19:39:151 Proceso FM9/(4636:4636): Guardando pagina: 0
+
+[INFO] 06:19:39:151 Proceso FM9/(4636:4636): Guardando pagina: 1
+
+[INFO] 06:19:39:151 Proceso FM9/(4636:4636): Guardando pagina: 2
+
+[INFO] 06:19:39:151 Proceso FM9/(4636:4636): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 06:19:39:193 Consola FM9/(4636:4636): Leyendo archivo
+[INFO] 06:19:41:307 Consola FM9/(4636:4636): Cargando archivo en memoria
+[INFO] 06:19:41:352 Proceso FM9/(4636:4636): Guardando pagina: 3
+
+[INFO] 06:19:41:352 Proceso FM9/(4636:4636): Guardando pagina: 4
+
+[INFO] 06:19:41:352 Proceso FM9/(4636:4636): Guardando pagina: 5
+
+[INFO] 06:19:41:352 Proceso FM9/(4636:4636): Guardando pagina: 6
+
+[INFO] 06:19:41:352 Proceso FM9/(4636:4636): Guardando pagina: 7
+
+[INFO] 06:19:41:352 Proceso FM9/(4636:4636): Guardando pagina: 8
+
+[INFO] 06:19:41:352 Proceso FM9/(4636:4636): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 06:19:41:391 Consola FM9/(4636:4636): Leyendo archivo
+[INFO] 06:19:41:433 Consola FM9/(4636:4636): Modificando linea
+[INFO] 06:19:41:471 Proceso FM9/(4636:4636): Modificando linea 1
+
+[INFO] 06:19:41:519 Consola FM9/(4636:4636): Leyendo archivo
+[INFO] 06:19:41:595 Consola FM9/(4636:4636): Closing file
+[INFO] 06:19:41:636 Proceso FM9/(4636:4636): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:19:41:636 Proceso FM9/(4636:4636): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 06:19:41:637 Consola FM9/(4636:4636): Closing process
+[INFO] 06:19:41:675 Proceso FM9/(4636:4636): Se ha cerrado el proceso PID: 1
+[INFO] 06:19:41:675 Proceso FM9/(4636:4636): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:19:53:287 Consola FM9/(4636:4636): Cargando archivo en memoria
+[INFO] 06:19:53:327 Proceso FM9/(4636:4636): Guardando pagina: 0
+
+[INFO] 06:19:53:327 Proceso FM9/(4636:4636): Guardando pagina: 1
+
+[INFO] 06:19:53:327 Proceso FM9/(4636:4636): Guardando pagina: 2
+
+[INFO] 06:19:53:327 Proceso FM9/(4636:4636): Guardando pagina: 3
+
+[INFO] 06:19:53:327 Proceso FM9/(4636:4636): Guardando pagina: 4
+
+[INFO] 06:19:53:327 Proceso FM9/(4636:4636): Guardando pagina: 5
+
+[INFO] 06:19:53:328 Proceso FM9/(4636:4636): Se guardo el archivo ID: 3 en memoria 
+
+[INFO] 06:19:53:367 Consola FM9/(4636:4636): Leyendo archivo
+[INFO] 06:19:54:421 Consola FM9/(4636:4636): Leyendo archivo
+[INFO] 06:19:56:499 Consola FM9/(4636:4636): Cargando archivo en memoria
+[INFO] 06:19:56:539 Proceso FM9/(4636:4636): Guardando pagina: 6
+
+[INFO] 06:19:56:539 Proceso FM9/(4636:4636): Guardando pagina: 7
+
+[INFO] 06:19:56:539 Proceso FM9/(4636:4636): Guardando pagina: 8
+
+[INFO] 06:19:56:539 Proceso FM9/(4636:4636): Se guardo el archivo ID: 4 en memoria 
+
+[INFO] 06:19:56:579 Consola FM9/(4636:4636): Leyendo archivo
+[INFO] 06:19:56:621 Consola FM9/(4636:4636): Modificando linea
+[INFO] 06:19:56:659 Proceso FM9/(4636:4636): Modificando linea 1
+
+[INFO] 06:19:56:700 Consola FM9/(4636:4636): Modificando linea
+[INFO] 06:19:56:739 Proceso FM9/(4636:4636): Modificando linea 2
+
+[INFO] 06:19:56:787 Consola FM9/(4636:4636): Leyendo archivo
+[INFO] 06:19:56:868 Consola FM9/(4636:4636): Modificando linea
+[INFO] 06:19:56:907 Proceso FM9/(4636:4636): Modificando linea 3
+
+[INFO] 06:19:57:948 Consola FM9/(4636:4636): Flushing
+[INFO] 06:19:57:987 Proceso FM9/(4636:4636): El segmento se encuentra en memoria
+[INFO] 06:19:59:27 Consola FM9/(4636:4636): Leyendo archivo
+[INFO] 06:19:59:68 Consola FM9/(4636:4636): Closing file
+[INFO] 06:19:59:107 Proceso FM9/(4636:4636): Se ha cerrado el archivo ID:4 
+
+[INFO] 06:19:59:107 Proceso FM9/(4636:4636): Se elimino una entrada del diccionario de bloques perteneciente al bloque 4
+[INFO] 06:19:59:108 Consola FM9/(4636:4636): Closing process
+[INFO] 06:19:59:147 Proceso FM9/(4636:4636): Se ha cerrado el proceso PID: 2
+[INFO] 06:19:59:147 Proceso FM9/(4636:4636): Se ha cerrado el archivo ID:3 
+
+[ERROR] 06:23:00:25 Consola FM9/(4636:4636): select
+[INFO] 06:23:07:648 Proceso FM9/(4720:4720): Inicio del proceso
+[INFO] 06:23:07:649 Proceso FM9/(4720:4720): ---- Configuracion ----
+[INFO] 06:23:07:649 Proceso FM9/(4720:4720): PUERTO = 8003
+[INFO] 06:23:07:649 Proceso FM9/(4720:4720): MODO = TPI
+[INFO] 06:23:07:649 Proceso FM9/(4720:4720): TAMANIO = 8192
+[INFO] 06:23:07:649 Proceso FM9/(4720:4720): MAX_LINEA = 64
+[INFO] 06:23:07:649 Proceso FM9/(4720:4720): TAM_PAGINA = 128
+[INFO] 06:23:07:649 Proceso FM9/(4720:4720): -----------------------
+[INFO] 06:23:07:649 Proceso FM9/(4720:4720): Tablas de Paginación Invertida seteada
+[INFO] 06:23:07:650 Proceso FM9/(4720:4720): Inicialización de memoria exitosa
+[INFO] 06:23:12:743 Consola FM9/(4720:4720): Nueva conexion desde El Diego
+[INFO] 06:23:14:599 Consola FM9/(4720:4720): Nueva conexion de CPU
+[INFO] 06:23:28:124 Consola FM9/(4720:4720): Cargando archivo en memoria
+[INFO] 06:23:28:164 Proceso FM9/(4720:4720): Guardando pagina en frame: 0 
+
+[INFO] 06:23:28:165 Proceso FM9/(4720:4720): Guardando pagina en frame: 1 
+
+[INFO] 06:23:28:165 Proceso FM9/(4720:4720): Guardando pagina en frame: 2 
+
+[INFO] 06:23:28:165 Proceso FM9/(4720:4720): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 06:23:28:208 Consola FM9/(4720:4720): Leyendo archivo
+[INFO] 06:23:28:250 Proceso FM9/(4720:4720): Abriendo archivo 1
+
+[INFO] 06:23:30:312 Consola FM9/(4720:4720): Cargando archivo en memoria
+[INFO] 06:23:30:351 Proceso FM9/(4720:4720): Guardando pagina en frame: 3 
+
+[INFO] 06:23:30:351 Proceso FM9/(4720:4720): Guardando pagina en frame: 4 
+
+[INFO] 06:23:30:352 Proceso FM9/(4720:4720): Guardando pagina en frame: 5 
+
+[INFO] 06:23:30:352 Proceso FM9/(4720:4720): Guardando pagina en frame: 6 
+
+[INFO] 06:23:30:352 Proceso FM9/(4720:4720): Guardando pagina en frame: 7 
+
+[INFO] 06:23:30:352 Proceso FM9/(4720:4720): Guardando pagina en frame: 8 
+
+[INFO] 06:23:30:352 Proceso FM9/(4720:4720): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 06:23:30:392 Consola FM9/(4720:4720): Leyendo archivo
+[INFO] 06:23:30:431 Proceso FM9/(4720:4720): Abriendo archivo 1
+
+[INFO] 06:23:30:434 Consola FM9/(4720:4720): Modificando linea
+[INFO] 06:23:30:472 Proceso FM9/(4720:4720): Modificando linea 1
+
+[INFO] 06:23:30:522 Consola FM9/(4720:4720): Leyendo archivo
+[INFO] 06:23:30:560 Proceso FM9/(4720:4720): Abriendo archivo 1
+
+[INFO] 06:23:30:600 Consola FM9/(4720:4720): Closing file
+[INFO] 06:23:30:642 Proceso FM9/(4720:4720): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:23:30:642 Proceso FM9/(4720:4720): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 06:23:30:643 Consola FM9/(4720:4720): Closing process
+[INFO] 06:23:30:687 Proceso FM9/(4720:4720): Se ha cerrado el proceso PID: 1
+[INFO] 06:23:30:688 Proceso FM9/(4720:4720): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:23:30:688 Proceso FM9/(4720:4720): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:23:30:688 Proceso FM9/(4720:4720): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:23:30:688 Proceso FM9/(4720:4720): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:23:30:688 Proceso FM9/(4720:4720): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:23:30:688 Proceso FM9/(4720:4720): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:23:30:688 Proceso FM9/(4720:4720): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:23:30:688 Proceso FM9/(4720:4720): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:24:35:213 Consola FM9/(4720:4720): Cargando archivo en memoria
+[INFO] 06:24:35:252 Proceso FM9/(4720:4720): Guardando pagina en frame: 0 
+
+[INFO] 06:24:35:252 Proceso FM9/(4720:4720): Guardando pagina en frame: 1 
+
+[INFO] 06:24:35:252 Proceso FM9/(4720:4720): Guardando pagina en frame: 2 
+
+[INFO] 06:24:35:252 Proceso FM9/(4720:4720): Guardando pagina en frame: 3 
+
+[INFO] 06:24:35:252 Proceso FM9/(4720:4720): Guardando pagina en frame: 4 
+
+[INFO] 06:24:35:252 Proceso FM9/(4720:4720): Guardando pagina en frame: 5 
+
+[INFO] 06:24:35:252 Proceso FM9/(4720:4720): Se guardo el archivo ID: 3 en memoria 
+
+[INFO] 06:24:35:296 Consola FM9/(4720:4720): Leyendo archivo
+[INFO] 06:24:35:335 Proceso FM9/(4720:4720): Abriendo archivo 3
+
+[INFO] 06:24:36:370 Consola FM9/(4720:4720): Leyendo archivo
+[INFO] 06:24:36:412 Proceso FM9/(4720:4720): Abriendo archivo 3
+
+[INFO] 06:24:38:464 Consola FM9/(4720:4720): Cargando archivo en memoria
+[INFO] 06:24:38:514 Proceso FM9/(4720:4720): Guardando pagina en frame: 6 
+
+[INFO] 06:24:38:514 Proceso FM9/(4720:4720): Guardando pagina en frame: 7 
+
+[INFO] 06:24:38:514 Proceso FM9/(4720:4720): Guardando pagina en frame: 8 
+
+[INFO] 06:24:38:514 Proceso FM9/(4720:4720): Se guardo el archivo ID: 4 en memoria 
+
+[INFO] 06:24:38:564 Consola FM9/(4720:4720): Leyendo archivo
+[INFO] 06:24:38:603 Proceso FM9/(4720:4720): Abriendo archivo 3
+
+[INFO] 06:24:38:605 Consola FM9/(4720:4720): Modificando linea
+[INFO] 06:24:38:643 Proceso FM9/(4720:4720): Modificando linea 1
+
+[INFO] 06:24:38:684 Consola FM9/(4720:4720): Modificando linea
+[INFO] 06:24:38:723 Proceso FM9/(4720:4720): Modificando linea 2
+
+[INFO] 06:24:38:774 Consola FM9/(4720:4720): Leyendo archivo
+[INFO] 06:24:38:813 Proceso FM9/(4720:4720): Abriendo archivo 3
+
+[INFO] 06:24:38:856 Consola FM9/(4720:4720): Modificando linea
+[INFO] 06:24:38:895 Proceso FM9/(4720:4720): Modificando linea 3
+
+[INFO] 06:24:39:943 Consola FM9/(4720:4720): Flushing
+[INFO] 06:30:49:359 Consola FM9/(4720:4720): CPU desconectada
+[ERROR] 06:30:49:716 Consola FM9/(4720:4720): select
+[INFO] 06:30:59:897 Proceso FM9/(4871:4871): Inicio del proceso
+[INFO] 06:30:59:897 Proceso FM9/(4871:4871): ---- Configuracion ----
+[INFO] 06:30:59:897 Proceso FM9/(4871:4871): PUERTO = 8003
+[INFO] 06:30:59:898 Proceso FM9/(4871:4871): MODO = TPI
+[INFO] 06:30:59:898 Proceso FM9/(4871:4871): TAMANIO = 8192
+[INFO] 06:30:59:898 Proceso FM9/(4871:4871): MAX_LINEA = 64
+[INFO] 06:30:59:898 Proceso FM9/(4871:4871): TAM_PAGINA = 128
+[INFO] 06:30:59:898 Proceso FM9/(4871:4871): -----------------------
+[INFO] 06:30:59:898 Proceso FM9/(4871:4871): Tablas de Paginación Invertida seteada
+[INFO] 06:30:59:898 Proceso FM9/(4871:4871): Inicialización de memoria exitosa
+[INFO] 06:31:05:451 Consola FM9/(4871:4871): Nueva conexion desde El Diego
+[INFO] 06:31:07:388 Consola FM9/(4871:4871): Nueva conexion de CPU
+[ERROR] 06:31:22:238 Consola FM9/(4871:4871): select
+[INFO] 06:31:30:926 Proceso FM9/(4891:4891): Inicio del proceso
+[INFO] 06:31:31:69 Proceso FM9/(4891:4891): ---- Configuracion ----
+[INFO] 06:31:31:71 Proceso FM9/(4891:4891): PUERTO = 8003
+[INFO] 06:31:31:73 Proceso FM9/(4891:4891): MODO = TPI
+[INFO] 06:31:31:74 Proceso FM9/(4891:4891): TAMANIO = 8192
+[INFO] 06:31:31:75 Proceso FM9/(4891:4891): MAX_LINEA = 64
+[INFO] 06:31:31:76 Proceso FM9/(4891:4891): TAM_PAGINA = 128
+[INFO] 06:31:31:77 Proceso FM9/(4891:4891): -----------------------
+[INFO] 06:31:31:88 Proceso FM9/(4891:4891): Tablas de Paginación Invertida seteada
+[INFO] 06:31:31:100 Proceso FM9/(4891:4891): Inicialización de memoria exitosa
+[INFO] 06:31:40:234 Consola FM9/(4891:4891): Nueva conexion desde El Diego
+[INFO] 06:31:41:745 Consola FM9/(4891:4891): Nueva conexion de CPU
+[INFO] 06:31:55:800 Consola FM9/(4891:4891): Cargando archivo en memoria
+[INFO] 06:31:55:873 Proceso FM9/(4891:4891): Guardando pagina en frame: 0 
+
+[INFO] 06:31:55:879 Proceso FM9/(4891:4891): Guardando pagina en frame: 1 
+
+[INFO] 06:31:55:880 Proceso FM9/(4891:4891): Guardando pagina en frame: 2 
+
+[INFO] 06:31:55:883 Proceso FM9/(4891:4891): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 06:31:55:924 Consola FM9/(4891:4891): Leyendo archivo
+[INFO] 06:31:55:974 Proceso FM9/(4891:4891): Abriendo archivo 1
+
+[INFO] 06:31:58:55 Consola FM9/(4891:4891): Cargando archivo en memoria
+[INFO] 06:31:58:60 Proceso FM9/(4891:4891): Guardando pagina en frame: 3 
+
+[INFO] 06:31:58:60 Proceso FM9/(4891:4891): Guardando pagina en frame: 4 
+
+[INFO] 06:31:58:61 Proceso FM9/(4891:4891): Guardando pagina en frame: 5 
+
+[INFO] 06:31:58:61 Proceso FM9/(4891:4891): Guardando pagina en frame: 6 
+
+[INFO] 06:31:58:62 Proceso FM9/(4891:4891): Guardando pagina en frame: 7 
+
+[INFO] 06:31:58:62 Proceso FM9/(4891:4891): Guardando pagina en frame: 8 
+
+[INFO] 06:31:58:63 Proceso FM9/(4891:4891): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 06:31:58:104 Consola FM9/(4891:4891): Leyendo archivo
+[INFO] 06:31:58:143 Proceso FM9/(4891:4891): Abriendo archivo 1
+
+[INFO] 06:31:58:148 Consola FM9/(4891:4891): Modificando linea
+[INFO] 06:31:58:197 Proceso FM9/(4891:4891): Modificando linea 1
+
+[INFO] 06:31:58:241 Consola FM9/(4891:4891): Leyendo archivo
+[INFO] 06:31:58:280 Proceso FM9/(4891:4891): Abriendo archivo 1
+
+[INFO] 06:31:58:320 Consola FM9/(4891:4891): Closing file
+[INFO] 06:31:58:371 Proceso FM9/(4891:4891): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:31:58:387 Proceso FM9/(4891:4891): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 06:31:58:389 Consola FM9/(4891:4891): Closing process
+[INFO] 06:31:58:422 Proceso FM9/(4891:4891): Se ha cerrado el proceso PID: 1
+[INFO] 06:31:58:424 Proceso FM9/(4891:4891): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:31:58:426 Proceso FM9/(4891:4891): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:31:58:427 Proceso FM9/(4891:4891): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:31:58:427 Proceso FM9/(4891:4891): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:31:58:428 Proceso FM9/(4891:4891): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:31:58:429 Proceso FM9/(4891:4891): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:31:58:429 Proceso FM9/(4891:4891): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:31:58:430 Proceso FM9/(4891:4891): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:32:30:899 Consola FM9/(4891:4891): Cargando archivo en memoria
+[INFO] 06:32:30:940 Proceso FM9/(4891:4891): Guardando pagina en frame: 0 
+
+[INFO] 06:32:30:941 Proceso FM9/(4891:4891): Guardando pagina en frame: 1 
+
+[INFO] 06:32:30:942 Proceso FM9/(4891:4891): Guardando pagina en frame: 2 
+
+[INFO] 06:32:30:942 Proceso FM9/(4891:4891): Guardando pagina en frame: 3 
+
+[INFO] 06:32:30:943 Proceso FM9/(4891:4891): Guardando pagina en frame: 4 
+
+[INFO] 06:32:30:945 Proceso FM9/(4891:4891): Guardando pagina en frame: 5 
+
+[INFO] 06:32:30:952 Proceso FM9/(4891:4891): Se guardo el archivo ID: 3 en memoria 
+
+[INFO] 06:32:30:991 Consola FM9/(4891:4891): Leyendo archivo
+[INFO] 06:32:31:35 Proceso FM9/(4891:4891): Abriendo archivo 3
+
+[INFO] 06:32:32:64 Consola FM9/(4891:4891): Leyendo archivo
+[INFO] 06:32:32:106 Proceso FM9/(4891:4891): Abriendo archivo 3
+
+[INFO] 06:32:34:149 Consola FM9/(4891:4891): Cargando archivo en memoria
+[INFO] 06:32:34:189 Proceso FM9/(4891:4891): Guardando pagina en frame: 6 
+
+[INFO] 06:32:34:190 Proceso FM9/(4891:4891): Guardando pagina en frame: 7 
+
+[INFO] 06:32:34:191 Proceso FM9/(4891:4891): Guardando pagina en frame: 8 
+
+[INFO] 06:32:34:191 Proceso FM9/(4891:4891): Se guardo el archivo ID: 4 en memoria 
+
+[INFO] 06:32:34:232 Consola FM9/(4891:4891): Leyendo archivo
+[INFO] 06:32:34:275 Proceso FM9/(4891:4891): Abriendo archivo 3
+
+[INFO] 06:32:34:279 Consola FM9/(4891:4891): Modificando linea
+[INFO] 06:32:34:318 Proceso FM9/(4891:4891): Modificando linea 1
+
+[INFO] 06:32:34:357 Consola FM9/(4891:4891): Modificando linea
+[INFO] 06:32:34:397 Proceso FM9/(4891:4891): Modificando linea 2
+
+[INFO] 06:32:34:441 Consola FM9/(4891:4891): Leyendo archivo
+[INFO] 06:32:34:482 Proceso FM9/(4891:4891): Abriendo archivo 3
+
+[INFO] 06:32:34:525 Consola FM9/(4891:4891): Modificando linea
+[INFO] 06:32:34:564 Proceso FM9/(4891:4891): Modificando linea 3
+
+[INFO] 06:32:35:608 Consola FM9/(4891:4891): Flushing
+[ERROR] 06:36:36:88 Consola FM9/(4891:4891): select
+[INFO] 06:53:51:583 Proceso FM9/(5213:5213): Inicio del proceso
+[INFO] 06:53:51:729 Proceso FM9/(5213:5213): ---- Configuracion ----
+[INFO] 06:53:51:732 Proceso FM9/(5213:5213): PUERTO = 8003
+[INFO] 06:53:51:733 Proceso FM9/(5213:5213): MODO = TPI
+[INFO] 06:53:51:734 Proceso FM9/(5213:5213): TAMANIO = 8192
+[INFO] 06:53:51:735 Proceso FM9/(5213:5213): MAX_LINEA = 64
+[INFO] 06:53:51:740 Proceso FM9/(5213:5213): TAM_PAGINA = 128
+[INFO] 06:53:51:741 Proceso FM9/(5213:5213): -----------------------
+[INFO] 06:53:51:750 Proceso FM9/(5213:5213): Tablas de Paginación Invertida seteada
+[INFO] 06:53:51:761 Proceso FM9/(5213:5213): Inicialización de memoria exitosa
+[INFO] 06:54:31:379 Consola FM9/(5213:5213): Nueva conexion desde El Diego
+[INFO] 06:54:36:484 Consola FM9/(5213:5213): Nueva conexion de CPU
+[INFO] 06:55:18:332 Consola FM9/(5213:5213): Cargando archivo en memoria
+[INFO] 06:55:18:392 Proceso FM9/(5213:5213): Guardando pagina en frame: 0 
+
+[INFO] 06:55:18:395 Proceso FM9/(5213:5213): Guardando pagina en frame: 1 
+
+[INFO] 06:55:18:396 Proceso FM9/(5213:5213): Guardando pagina en frame: 2 
+
+[INFO] 06:55:18:397 Proceso FM9/(5213:5213): Se guardo el archivo ID: 1 en memoria 
+
+[INFO] 06:55:18:440 Consola FM9/(5213:5213): Leyendo archivo
+[INFO] 06:55:18:486 Proceso FM9/(5213:5213): Abriendo archivo 1
+
+[INFO] 06:55:20:601 Consola FM9/(5213:5213): Cargando archivo en memoria
+[INFO] 06:55:20:643 Proceso FM9/(5213:5213): Guardando pagina en frame: 3 
+
+[INFO] 06:55:20:644 Proceso FM9/(5213:5213): Guardando pagina en frame: 4 
+
+[INFO] 06:55:20:644 Proceso FM9/(5213:5213): Guardando pagina en frame: 5 
+
+[INFO] 06:55:20:645 Proceso FM9/(5213:5213): Guardando pagina en frame: 6 
+
+[INFO] 06:55:20:645 Proceso FM9/(5213:5213): Guardando pagina en frame: 7 
+
+[INFO] 06:55:20:646 Proceso FM9/(5213:5213): Guardando pagina en frame: 8 
+
+[INFO] 06:55:20:646 Proceso FM9/(5213:5213): Se guardo el archivo ID: 2 en memoria 
+
+[INFO] 06:55:20:688 Consola FM9/(5213:5213): Leyendo archivo
+[INFO] 06:55:20:727 Proceso FM9/(5213:5213): Abriendo archivo 1
+
+[INFO] 06:55:20:731 Consola FM9/(5213:5213): Modificando linea
+[INFO] 06:55:20:777 Proceso FM9/(5213:5213): Modificando linea 1
+
+[INFO] 06:55:20:822 Consola FM9/(5213:5213): Leyendo archivo
+[INFO] 06:55:20:859 Proceso FM9/(5213:5213): Abriendo archivo 1
+
+[INFO] 06:55:20:900 Consola FM9/(5213:5213): Closing file
+[INFO] 06:55:20:944 Proceso FM9/(5213:5213): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:55:20:960 Proceso FM9/(5213:5213): Se elimino una entrada del diccionario de bloques perteneciente al bloque 2
+[INFO] 06:55:20:962 Consola FM9/(5213:5213): Closing process
+[INFO] 06:55:20:994 Proceso FM9/(5213:5213): Se ha cerrado el proceso PID: 2
+[INFO] 06:55:20:996 Proceso FM9/(5213:5213): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:55:20:998 Proceso FM9/(5213:5213): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:55:20:999 Proceso FM9/(5213:5213): Se ha cerrado el archivo ID:1 
+
+[INFO] 06:55:20:0 Proceso FM9/(5213:5213): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:55:20:1 Proceso FM9/(5213:5213): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:55:20:2 Proceso FM9/(5213:5213): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:55:20:2 Proceso FM9/(5213:5213): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:55:20:3 Proceso FM9/(5213:5213): Se ha cerrado el archivo ID:2 
+
+[INFO] 06:55:32:457 Consola FM9/(5213:5213): Cargando archivo en memoria
+[INFO] 06:55:32:499 Proceso FM9/(5213:5213): Guardando pagina en frame: 0 
+
+[INFO] 06:55:32:500 Proceso FM9/(5213:5213): Guardando pagina en frame: 1 
+
+[INFO] 06:55:32:500 Proceso FM9/(5213:5213): Guardando pagina en frame: 2 
+
+[INFO] 06:55:32:501 Proceso FM9/(5213:5213): Guardando pagina en frame: 3 
+
+[INFO] 06:55:32:501 Proceso FM9/(5213:5213): Guardando pagina en frame: 4 
+
+[INFO] 06:55:32:502 Proceso FM9/(5213:5213): Guardando pagina en frame: 5 
+
+[INFO] 06:55:32:503 Proceso FM9/(5213:5213): Se guardo el archivo ID: 3 en memoria 
+
+[INFO] 06:55:32:543 Consola FM9/(5213:5213): Leyendo archivo
+[INFO] 06:55:32:584 Proceso FM9/(5213:5213): Abriendo archivo 3
+
+[INFO] 06:55:33:621 Consola FM9/(5213:5213): Leyendo archivo
+[INFO] 06:55:33:660 Proceso FM9/(5213:5213): Abriendo archivo 3
+
+[INFO] 06:55:35:704 Consola FM9/(5213:5213): Cargando archivo en memoria
+[INFO] 06:55:35:750 Proceso FM9/(5213:5213): Guardando pagina en frame: 6 
+
+[INFO] 06:55:35:751 Proceso FM9/(5213:5213): Guardando pagina en frame: 7 
+
+[INFO] 06:55:35:753 Proceso FM9/(5213:5213): Guardando pagina en frame: 8 
+
+[INFO] 06:55:35:755 Proceso FM9/(5213:5213): Se guardo el archivo ID: 4 en memoria 
+
+[INFO] 06:55:35:795 Consola FM9/(5213:5213): Leyendo archivo
+[INFO] 06:55:35:835 Proceso FM9/(5213:5213): Abriendo archivo 3
+
+[INFO] 06:55:35:839 Consola FM9/(5213:5213): Modificando linea
+[INFO] 06:55:35:876 Proceso FM9/(5213:5213): Modificando linea 1
+
+[INFO] 06:55:35:916 Consola FM9/(5213:5213): Modificando linea
+[INFO] 06:55:35:958 Proceso FM9/(5213:5213): Modificando linea 2
+
+[INFO] 06:55:35:1 Consola FM9/(5213:5213): Leyendo archivo
+[INFO] 06:55:36:40 Proceso FM9/(5213:5213): Abriendo archivo 3
+
+[INFO] 06:55:36:80 Consola FM9/(5213:5213): Modificando linea
+[INFO] 06:55:36:119 Proceso FM9/(5213:5213): Modificando linea 3
+
+[INFO] 06:55:37:163 Consola FM9/(5213:5213): Flushing
+[INFO] 06:55:54:237 Consola FM9/(5213:5213): CPU desconectada
+[ERROR] 06:56:40:296 Consola FM9/(5213:5213): select
